@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /schedule/
-title: Course schedule
-description:
+title: Schedule
+description: Course schedule by week. Click for weekly details.
 nav: true
 ---
 
