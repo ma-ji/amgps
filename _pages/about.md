@@ -6,11 +6,8 @@ description: <a href="https://jima.me">Ji Ma</a> @ UT Austin #<a href="#">Affili
 
 profile:
   align: right
-  image: prof_pic.jpg
+  # image: prof_pic.jpg
   address: >
-    # <p>555 your office number</p>
-    # <p>123 your address street</p>
-    # <p>Your City, State 12345</p>
     <a target="_blank" href="https://kwize.com/quote-of-the-day/"><img style="width:300px;" src="https://kwize.com/pics/Quote-of-the-Day-3-0.jpg" alt="Quote of the Day"></a>
 
 news: true  # includes a list of news items
