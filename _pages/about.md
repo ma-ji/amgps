@@ -1,8 +1,8 @@
 ---
 layout: about
-title: home
+title: about
 permalink: /
-description: <a href="https://jima.me">Ji Ma</a> @ UT Austin #<a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: <a href="https://jima.me">Ji Ma @ UT Austin </a> #<a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right

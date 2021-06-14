@@ -9,3 +9,5 @@ nav: true
 ### Course schedule
 
 #### Weekly
+
+$p=2 \cdot b$
