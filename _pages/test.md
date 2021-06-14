@@ -1,13 +1,11 @@
 ---
 layout: page
 permalink: /schedule/
-title: schedule
-description: schedule.
+title: Course schedule
+description:
 nav: true
 ---
 
-### Course schedule
-
-#### Weekly
+### Weekly overview
 
 $p=2 \cdot b$
