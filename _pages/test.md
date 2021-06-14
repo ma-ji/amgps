@@ -8,4 +8,4 @@ nav: true
 
 ### Weekly overview
 
-$p=2 \cdot b$
+$$p=2 \cdot b$$
