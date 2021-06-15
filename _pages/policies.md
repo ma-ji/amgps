@@ -2,8 +2,8 @@
 layout: page
 permalink: /policies/
 title: policies
-description: University academic policies.
+description: A list of university academic policies..
 nav: true
 ---
 
-A list of university academic policies.
+xxxx

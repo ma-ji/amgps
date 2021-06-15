@@ -4,6 +4,7 @@ permalink: /schedule/
 title: schedule
 description: Course schedule by week. Click for weekly details.
 nav: true
+news: true
 ---
 
 ### Session structure
