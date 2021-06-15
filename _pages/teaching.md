@@ -10,4 +10,8 @@ For now, this page is assumed to be a static description of your courses. You ca
 
 Organize your courses by years, topics, or universities, however you like!
 
-[@einstein1956investigations]
+<div class="publications">
+
+@[einstein1956investigations]
+
+</div>
