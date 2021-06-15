@@ -13,14 +13,7 @@ week: true
 
 How are we going to spend the 3-hour every week? The structure of weekly session ties to our [course purposes](/#purposes).
 
-<!-- <div class="post">
-
-    {% if page.news %}
-      {% include news.html %}
-    {% endif %}
-
-</div> -->
-
+---
 <div class="post">
 
     {% if page.week %}
@@ -29,13 +22,8 @@ How are we going to spend the 3-hour every week? The structure of weekly session
 
 </div>
 
+---
 
-- Week 2: Research design of quantitative study 1/2
-
-Before class:
-
-  - Ruane, J. M. (2016). Measure by Measure: Developing Measures—Making the Abstract Concrete. In Introducing Social Research Methods: Essentials for Getting the Edge (pp. 93–116). Chichester, West Sussex, UK ; Hoboken, NJ: John Wiley & Sons Inc.
-  - Ruane, J. M. (2016). All That Glitters Is Not Gold: Assessing the Validity and Reliability of Measures. In Introducing Social Research Methods: Essentials for Getting the Edge (pp. 117–138). Chichester, West Sussex, UK ; Hoboken, NJ: John Wiley & Sons Inc.
 
 - Week 3: Research design of quantitative study 2/2
 
@@ -99,17 +87,3 @@ Key concepts:
 ### Weekly overview
 
 $$p=2 \cdot b$$
-
-Week 0: https://github.com/Jam3/math-as-code
-
-<div class="post">
-  <ul class="post-list">
-    {% for post in paginator.posts %}
-      <li>
-        <h3><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
-        <!-- <p class="post-meta">{{ post.date | date: '%B %-d, %Y' }}</p> -->
-        <p>{{ post.description }}</p>
-      </li>
-    {% endfor %}
-  </ul>
-</div>
