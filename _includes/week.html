@@ -3,14 +3,14 @@
     <div class="table-responsive">
       <table class="table table-sm table-borderless">
         <tr>
-          <th>Week#</th>
-          <th>Topic</th>
+          <th scope="col">Week#</th>
+          <th scope="col">Topic</th>
         </tr>
       {% assign week = site.week | sort: "week_num" %}
       {% for item in week limit: site.week_limit %}
         <tr>
           <!-- <th scope="row">{{ item.date | date: "%b %-d, %Y" }}</th> -->
-          <td scope="row">{{ item.week_num }}</td>
+          <th scope="row">{{ item.week_num }}</th>
           <td>
             {% if item.inline %}
               {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
