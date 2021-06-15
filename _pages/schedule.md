@@ -29,7 +29,7 @@ How are we going to spend the 3-hour every week? The structure of weekly session
 
 </div>
 
-### Week 1: Course introduction and replication
+
 - Week 2: Research design of quantitative study 1/2
 
 Before class:

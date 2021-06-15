@@ -2,10 +2,11 @@
   {% if site.week %}
     <div class="table-responsive">
       <table class="table table-sm table-borderless">
-      {% assign week = site.week %}
+      {% assign week = site.week | sort: "week" %}
       {% for item in week limit: site.week_limit %}
         <tr>
-          <th scope="row">{{ item.date | date: "%b %-d, %Y" }}</th>
+          <!-- <th scope="row">{{ item.date | date: "%b %-d, %Y" }}</th> -->
+          <th scope="row">{{ item.week }}</th>
           <td>
             {% if item.inline %}
               {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
