@@ -1,5 +1,5 @@
 ---
-order: 2
+order: 1
 layout: page
 permalink: /schedule/
 title: schedule
@@ -13,13 +13,13 @@ week: true
 
 How are we going to spend the 3-hour every week? The structure of weekly session ties to our [course purposes](/#purposes).
 
-<div class="post">
+<!-- <div class="post">
 
     {% if page.news %}
       {% include news.html %}
     {% endif %}
 
-</div>
+</div> -->
 
 <div class="post">
 

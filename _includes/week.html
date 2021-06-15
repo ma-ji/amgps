@@ -1,8 +1,8 @@
 <div class="news">
-  {% if site.week  %}
+  {% if site.week %}
     <div class="table-responsive">
       <table class="table table-sm table-borderless">
-      {% assign week = site.week | reverse %}
+      {% assign week = site.week %}
       {% for item in week limit: site.week_limit %}
         <tr>
           <th scope="row">{{ item.date | date: "%b %-d, %Y" }}</th>
