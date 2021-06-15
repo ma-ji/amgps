@@ -82,6 +82,11 @@ disqus_shortname: al-folio # put your disqus shortname
 # -----------------------------------------------------------------------------
 
 collections:
+  week:
+    defaults:
+      layout: post
+    output: true
+    permalink: /week/:path/
   news:
     defaults:
       layout: post

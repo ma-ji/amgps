@@ -5,6 +5,7 @@ title: schedule
 description: Course schedule by week. Click for weekly details.
 nav: true
 news: true
+week: true
 ---
 
 ### Session structure
@@ -15,6 +16,14 @@ How are we going to spend the 3-hour every week? The structure of weekly session
 
     {% if page.news %}
       {% include news.html %}
+    {% endif %}
+
+</div>
+
+<div class="post">
+
+    {% if page.week %}
+      {% include week.html %}
     {% endif %}
 
 </div>
