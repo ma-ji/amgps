@@ -12,6 +12,6 @@ Organize your courses by years, topics, or universities, however you like!
 
 <div class="publications">
 
-@[einstein1956investigations]
+  {bibliography -f papers -q @einstein1956investigations}
 
 </div>
