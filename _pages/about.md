@@ -29,6 +29,10 @@ Data crunching is hard, applying data crunching methods to empirical social scie
 2. Able to conduct the analysis manually and with software packages;
 3. Know how to apply these analysis methods to answering research questions from a research design perspective.
 
+Required textbook: {% reference MeierAppliedStatisticsPublic2014 %} (previous versions are fine as long as the course content is covered)
+
+
+
 ### Grading
 
 <!-- See a list of [Assignments](/assignments/) -->
