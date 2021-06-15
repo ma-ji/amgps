@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="https://jima.me">Ji Ma @ UT Austin </a> #<a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: <a href="https://jima.me">Ji Ma @ UT Austin, LBJ School of Public Affairs </a> #<a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
@@ -15,7 +15,7 @@ profile:
 # social: true  # includes social icons at the bottom of the page
 ---
 
-- Instructor: [Prof. Ji Ma](https://jima.me)
+<!-- - Instructor: [Prof. Ji Ma](https://jima.me) -->
 - Time: TBD. | Location: TBD.
 - Office hour: TBD. | TA session: TBD.
 
