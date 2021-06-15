@@ -23,7 +23,7 @@ profile:
 
 ### Overview
 
-Data crunching is hard, applying data crunching methods to empirical social science studies is harder. This course has three purposes: 
+Data crunching is hard, applying data crunching methods to empirical social science studies is harder. This course has <a name="purposes">three purposes</a>: 
 
 1. Understand basic quantitative and qualitative empirical analysis methods;
 2. Able to conduct the analysis manually and with software packages;

@@ -1,10 +1,15 @@
 ---
 layout: page
 permalink: /schedule/
-title: Schedule
+title: schedule
 description: Course schedule by week. Click for weekly details.
 nav: true
 ---
+
+### Session structure
+
+How are we going to spend the 3-hour every week? The structure of weekly session ties to our [course purposes](#purposes).
+
 
 <ul class="post-list">
 {% for post in paginator.posts %}
