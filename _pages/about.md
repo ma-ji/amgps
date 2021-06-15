@@ -1,4 +1,5 @@
 ---
+order: 0
 layout: about
 title: about
 permalink: /
