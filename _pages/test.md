@@ -26,17 +26,7 @@ $$p=2 \cdot b$$
 
 Week 0: https://github.com/Jam3/math-as-code
 
----
-
 <div class="post">
-
-  <div class="header-bar">
-<!--     <h1>{{ site.blog_name }}</h1>
-    <h2>{{ site.blog_description }}</h2> -->
-    <h2>Weekly Schedule</h2>
-    click for details
-  </div>
-
   <ul class="post-list">
     {% for post in paginator.posts %}
       <li>
@@ -46,7 +36,4 @@ Week 0: https://github.com/Jam3/math-as-code
       </li>
     {% endfor %}
   </ul>
-
-  <!-- {% include pagination.html %} -->
-
 </div>
