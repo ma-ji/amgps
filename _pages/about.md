@@ -15,8 +15,36 @@ profile:
 # social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+- Instructor: [Prof. Ji Ma](https://jima.me)
+- Time: TBD.
+- Location: TBD.
+- Office hour: By appointment.
+- TA session: TBD.
+
+---
+
+Data crunching is hard, applying data crunching methods to empirical social science studies is harder. This course has three purposes: 
+
+1. Understand basic quantitative and qualitative empirical analysis methods;
+2. Able to conduct the analysis manually and with software packages;
+3. Know how to apply these analysis methods to answering research questions from a research design perspective.
+
+### Grading
+
+<!-- See a list of [Assignments](/assignments/) -->
+
+- A >= 98%, A- >= 90
+- B+ >= 87%, B >= 83%, B- >= 80%
+- C+ >= 77%, C >= 73%, C- >= 70%
+- D+ >= 67%, D >= 63%, D- >= 60%
+
+### License for Open Education
+
+This syllabus and all course content created by the instructor, TA, and students are licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
+
+
+<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
