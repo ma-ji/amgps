@@ -7,6 +7,8 @@ years: [1956, 1950, 1935, 1905]
 nav: true
 ---
 
+### A list of publications. The line is in Markdown.
+
 <div class="publications">
 
 {% for y in page.years %}
