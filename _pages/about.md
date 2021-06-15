@@ -16,12 +16,12 @@ profile:
 ---
 
 - Instructor: [Prof. Ji Ma](https://jima.me)
-- Time: TBD.
-- Location: TBD.
-- Office hour: By appointment.
-- TA session: TBD.
+- Time: TBD. | Location: TBD.
+- Office hour: TBD. | TA session: TBD.
 
 ---
+
+### Overview
 
 Data crunching is hard, applying data crunching methods to empirical social science studies is harder. This course has three purposes: 
 
