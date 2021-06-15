@@ -5,7 +5,6 @@ permalink: /schedule/
 title: schedule
 description: Course schedule by week. Click for weekly details.
 nav: true
-news: true
 week: true
 ---
 
@@ -77,13 +76,3 @@ Key concepts:
 - Week 14: 
 - Week 15:
 
-
-## Learning resources
-
-- R/Python/Excel track: [DataCamp](#)
-- Stata track: http://geocenter.github.io/StataTraining/
-- Other sources: Feel free to help your self!
-
-### Weekly overview
-
-$$p=2 \cdot b$$
