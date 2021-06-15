@@ -5,6 +5,7 @@
         <tr>
           <th>Week#</th>
           <th>Topic</th>
+        </tr>
       {% assign week = site.week | sort: "week_num" %}
       {% for item in week limit: site.week_limit %}
         <tr>
