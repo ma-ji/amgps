@@ -14,12 +14,11 @@
           <th scope="col">Date</th>
           <th scope="col">Topic</th>
         </tr>
-      </thead>
+      <!-- </thead> -->
       <tbody>
       {% assign week = site.week | sort: "week_num" %}
       {% for item in week limit: site.week_limit %}
         <tr>
-          <!-- <th scope="row">{{ item.date | date: "%b %-d, %Y" }}</th> -->
           <th scope="row">{{ item.week_num }}</th>
           <th scope="row">{{ item.session_date }}</th>
           <td>
