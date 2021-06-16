@@ -2,7 +2,7 @@
 order: 2
 layout: page
 permalink: /resources/
-title: resources
+title: Resources
 description: Useful online tutorials and learning platforms.
 nav: true
 week: true

@@ -2,7 +2,7 @@
 order: 1
 layout: page
 permalink: /schedule/
-title: schedule
+title: Schedule
 description: Course schedule by week. Click for weekly details.
 nav: true
 week: true

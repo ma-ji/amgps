@@ -1,7 +1,7 @@
 ---
 order: 0
 layout: about
-title: about
+title: About
 permalink: /
 description: <a href="https://jima.me">Ji Ma @ UT Austin, LBJ School of Public Affairs </a> #<a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
