@@ -2,10 +2,12 @@
 order: 5
 layout: page
 permalink: /policies/
-title: policies
+title: Policies
 description: A list of university policies required in syllabus.
 nav: true
 ---
+
+{:toc}
 
 ### ClassroomPolicies
 
