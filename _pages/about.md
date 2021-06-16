@@ -16,8 +16,7 @@ profile:
 # social: true  # includes social icons at the bottom of the page
 ---
 
-<!-- - Instructor: [Prof. Ji Ma](https://jima.me) -->
-- Time: TBD. | Location: TBD.
+- Time and location: M 9-12am, SRH3.124 (61238) | T 9-12am, SRH3.B7 (61239)
 - Office hour: TBD. | TA session: TBD.
 
 ---
