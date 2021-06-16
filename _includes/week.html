@@ -8,13 +8,11 @@
         <col style="width:10%">
         <col style="width:45%">
       </colgroup>
-      <!-- <thead class="thead-light"> -->
         <tr>
-          <th scope="col">Week#</th>
-          <th scope="col">Date</th>
-          <th scope="col">Topic</th>
+          <th scope="col"><b>Week#</b></th>
+          <th scope="col"><b>Date</b></th>
+          <th scope="col"><b>Topic</b></th>
         </tr>
-      <!-- </thead> -->
       <tbody>
       {% assign week = site.week | sort: "week_num" %}
       {% for item in week limit: site.week_limit %}
