@@ -1,16 +1,27 @@
 <div class="news">
   {% if site.week %}
     <div class="table-responsive">
-      <table class="table table-sm table-borderless">
+
+    <table class="table table-hover">
+      <colgroup>
+        <col style="width:5%">
+        <col style="width:10%">
+        <col style="width:45%">
+      </colgroup>
+      <thead class="thead-light">
         <tr>
           <th scope="col">Week#</th>
+          <th scope="col">Date</th>
           <th scope="col">Topic</th>
         </tr>
+      </thead>
+      <tbody>
       {% assign week = site.week | sort: "week_num" %}
       {% for item in week limit: site.week_limit %}
         <tr>
           <!-- <th scope="row">{{ item.date | date: "%b %-d, %Y" }}</th> -->
           <th scope="row">{{ item.week_num }}</th>
+          <th scope="row">{{ item.session_date }}</th>
           <td>
             {% if item.inline %}
               {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
@@ -20,7 +31,8 @@
           </td>
         </tr>
       {% endfor %}
-      </table>
+      </tbody>
+    </table>
     </div>
   {% else %}
     <p>No schedule so far...</p>
