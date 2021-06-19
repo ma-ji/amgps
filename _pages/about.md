@@ -16,7 +16,7 @@ profile:
 # social: true  # includes social icons at the bottom of the page
 ---
 
-- Time and location: M 9-12am, SRH3.124 (61238) | T 9-12am, SRH3.B7 (61239)
+- Time and location: M 9-12am, SRH3.124 (61238); T 9-12am, SRH3.B7 (61239)
 - Office hour: TBD. | TA session: TBD.
 
 ---
@@ -29,8 +29,11 @@ Data crunching is hard, applying data crunching methods to empirical social scie
 2. Able to conduct the analysis manually and with software packages;
 3. Know how to apply these analysis methods to answering research questions from a research design perspective.
 
-Required textbook: {% reference MeierAppliedStatisticsPublic2014 %} (previous versions are fine as long as the course content is covered)
+Required textbook (previous versions are fine as long as the course content is covered):
 
+```
+{% reference MeierAppliedStatisticsPublic2014 %} 
+```
 
 ### Grading
 
