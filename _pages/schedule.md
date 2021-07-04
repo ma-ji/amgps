@@ -14,15 +14,15 @@ How are we going to spend the 3-hour every week? The structure of weekly session
 
 1. Lecture on reading materials and statistics
 
-During the first hour of each week, I will typically give a lecture on the major points of the week. I will also answer any of your questions.
+    During the first hour of each week, I will typically give a lecture on the major points of the week. I will also answer any of your questions.
 
 2. In class practice on empirical methods
 
-We will solve problems in class.
+    We will solve problems and practice empirical methods in class.
 
 3. In class preparation and presentation
 
-The last hour helps you prepare your individual and group replication projects.
+    The last hour helps you prepare your individual and group replication projects.
 
 
 ---
