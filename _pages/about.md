@@ -42,6 +42,24 @@ Required textbook (previous versions are fine as long as the course content is c
 - C+ >= 77%, C >= 73%, C- >= 70%
 - D+ >= 67%, D >= 63%, D- >= 60%
 
+### Assignments
+
+See [assignment page](#) for details.
+
+- Plagiarism test - 5 points
+- Participation - 10 points:
+  - Reading annotation (5 points)
+  - In class participation (5 points)
+- Customized learning - 20 points
+  - Learning plan (5 points)
+  - Completion (15 points)
+- Individual replication project - 25 points:
+  - Replication report (20 pints)
+  - In class presentation (5 points)
+- Group replication project - 40 points:
+  - Draft manuscript for academic journal (30 points)
+  - In class presentation (10 points)
+
 ### License for Open Education
 
 This syllabus and all course content created by the instructor, TA, and students are licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
