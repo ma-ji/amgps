@@ -154,7 +154,7 @@ scholar:
   locale: en
 
   source: /_bibliography/
-  bibliography: amess.bib
+  bibliography: amgps.bib
   bibliography_template: bib
 
   replace_strings: true
