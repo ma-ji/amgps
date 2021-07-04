@@ -44,7 +44,7 @@ Required textbook (previous versions are fine as long as the course content is c
 
 ### Assignments
 
-See [assignment page](#) for details.
+See [assignment page](/assignments) for details.
 
 - Plagiarism test - 5 points
 - Participation - 10 points:
