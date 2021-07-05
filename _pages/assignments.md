@@ -8,8 +8,13 @@ nav: true
 week: true
 ---
 
+- [Plagiarisms test - 5 points](#plagiarisms-test)
+- [Participation - 10 points](#participation)
+- [Customized learning - 20 points](#customized-learning)
+- [Individual replication project - 25 points](#individual-replication-project)
+- [Group replication project - 40 points](#group-replication-project)
 
-
+---
 # Plagiarisms test
 
 The first assignment of this course is to [pass the plagiarism test and obtain a certificate](https://plagiarism.iu.edu/index.html) at the master and doctoral level. Plagiarism is a serious academic misconduct. You will receive zero grade on plagiarized work and there may be other consequences. We have been told not to do this maybe since primary school, and we are always assuming we know what plagiarism is. However, we may assume we know too much (e.g., [famous cases of plagiarism](https://www.google.com/search?q=famous+cases+of+plagiarism)).
@@ -21,6 +26,7 @@ You do not need to take this test if you have comparable certification, but the 
 _For this assignment, please submit your certificate as a file via Canvas_
 
 
+---
 # Participation
 
 ## Reading annotation (5 points)
@@ -29,15 +35,18 @@ You are expected to read and [annotate](#) the course materials of each week bef
 
 ## In class participation (5 points)
 
-# Customized learning - 20 points
+---
+# Customized learning
 ## Learning plan (5 points)
 ## Completion (15 points)
 
-# Individual replication project - 25 points
+---
+# Individual replication project
 
 ## Replication report (20 pints)
 ## In class presentation (5 points)
 
-# Group replication project - 40 points
+---
+# Group replication project
 ## Draft manuscript for academic journal (30 points)
 ## In class presentation (10 points)
