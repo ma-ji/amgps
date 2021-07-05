@@ -50,11 +50,11 @@ See [assignment page](/assignments) for details.
 - Participation - 10 points:
   - Reading annotation (5 points)
   - In class participation (5 points)
-- Customized learning - 20 points
-  - Learning plan (5 points)
+- Customized learning - 25 points
+  - Learning plan (10 points)
   - Completion (15 points)
-- Individual replication project - 25 points:
-  - Replication report (20 pints)
+- Individual replication project - 20 points:
+  - Replication report (15 pints)
   - In class presentation (5 points)
 - Group replication project - 40 points:
   - Draft manuscript for academic journal (30 points)

@@ -7,15 +7,15 @@ description: A list of university policies required in syllabus.
 nav: true
 ---
 
-{:toc}
 
-### ClassroomPolicies
+# ClassroomPolicies
+---
 
-#### Statement on Learning Success
+## Statement on Learning Success
 
 Your success in this class is important to me. We will all need to be adaptable because we all learn differently. If there are aspects of this course that prevent you from learning or exclude you, please let me know as soon as possible. Together we’ll develop strategies to meet both your needs and the requirements of the course. I also encourage you to reach out to the student resources available through UT. Many are listed on this syllabus, but I am happy to connect you with a person or Center if you would like.
 
-#### Statement on Flexibility
+## Statement on Flexibility
 
 In acknowledgment of COVID 19 and its impact on the University of Texas at Austin community, this course will reaffirm one of the core values here at UT Austin: responsibility. Our responsibility to ourselves and each other is to put our humanity in the forefront of our academic pursuits. With that being said, this semester I commit to being adaptable in this time of great need, which is reflected in the course policies below around attendance, grading, and assignments/exams.
 
@@ -23,7 +23,8 @@ If you experience any hardships such as illness, accident, family crisis please 
 
 For additional campus resources, please visit https://coronavirus.utexas.edu/students.
 
-### Absences
+# Absences
+---
 
 Being present during in-person and synchronous online meetings is critical to achieving our goals for this course. You are welcome to utilize one (1) class absence during the semester as needed without explanation to me. In this case, you will be allowed to make up assignments or participation points you may have missed during this session. In addition to participating in synchronous meetings, you can earn participation points through assignments and asynchronous discussions. However, please keep in mind that if you miss multiple classes, you will begin to see a dip in your attendance and participation points.
 
@@ -33,11 +34,13 @@ _Excused Absence_: The only absences that will be considered excused are for rel
 
 _If you have to be absent, use your resources wisely_. Ask your team and other classmates to get a run-down and notes on any lessons you miss. If you find there are topics that we covered while you were gone that raise questions, you may come by during office hours or schedule a meeting to discuss. Email specific questions you have in advance so that we can make the most of our time. “What did I miss?” is not specific enough.
 
-### Personal Pronouns
+# Personal Pronouns
+---
 
 Professional courtesy and sensitivity are especially important with respect to individuals and topics dealing with differences of race, culture, religion, politics, sexual orientation, gender, gender variance, and nationalities. Class rosters are provided to the instructor with the student’s legal name, unless they have added a “preferred name” with the Gender and Sexuality Center, which you can do so here: http://diversity.utexas.edu/genderandsexuality/publications-and- resources/). I will gladly honor your request to address you by a name that is different from what appears on the official roster, and by the gender pronouns you use (she/he/they/ze, etc). Please advise me of any changes early in the semester so that I may make appropriate updates to my records. For instructions on how to add your pronouns to Canvas, visit https://utexas.instructure.com/courses/633028/pages/profile-pronouns.
 
-### University Resources for Students
+# University Resources for Students
+---
 
 _Land Acknowledgment_
 

@@ -8,7 +8,8 @@ nav: true
 week: true
 ---
 
-### Learning resources
+# Learning resources
+---
 
 - R/Python/Excel track: [DataCamp](https://www.datacamp.com/enterprise/analytical-methods-for-global-policy-studies-2021-fall)
 - Stata track: http://geocenter.github.io/StataTraining/
