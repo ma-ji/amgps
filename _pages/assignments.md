@@ -58,7 +58,7 @@ You are responsible to develop an actionable and feasible learning plan. There i
 5. A concrete performance evaluation plan.
 6. Maximum length 2 pages, use the space efficiently.
 
-You can share learning plans with others. You can even assemble learning groups. But this is NOT a group assignment.
+You can share learning plans with others. You can even assemble learning groups. But this is NOT a group assignment, and you will be assessed individually.
 
 The draft plan is due on xxx; final version is due on xxx. You cannot substantially revise your plan to lower the requirements after the plan is finalized.
 
