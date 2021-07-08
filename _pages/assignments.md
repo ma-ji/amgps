@@ -103,4 +103,4 @@ TBD.
 References
 ----------
 
-{% bibliography %}
+{% bibliography --cited %}
