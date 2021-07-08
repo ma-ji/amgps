@@ -14,7 +14,7 @@ How are we going to spend the 3-hour every week? The structure of weekly session
 
 1. Lecture on reading materials and statistics
 
-    During the first hour of each week, I will typically give a lecture on the major points of the week. I will also answer any of your questions.
+    During the first hour of each week, I will typically give a lecture to cover the major points of the week. I will also answer any of your questions.
 
 2. In class practice on empirical methods
 

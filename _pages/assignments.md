@@ -12,6 +12,7 @@ week: true
 - [Plagiarisms test - 5 points](#plagiarisms-test)
 - [Participation - 10 points](#participation)
 - [Customized learning - 20 points](#customized-learning)
+- [Replication projects](#replication-projects)
 - [Individual replication project - 25 points](#individual-replication-project)
 - [Group replication project - 40 points](#group-replication-project)
 
@@ -45,9 +46,9 @@ Your participation is assessed by the instructor and TA based on your performanc
 # Customized learning
 ---
 
-You may want to develop your own skill set over the semester. For example, learning how to use Python and R rather than using Stata. This assignment accommodate such a need.
+You may want to develop your own skill set over the semester. For example, learning how to use Python and R rather than using Stata or Excel. This assignment accommodates such a need. This is a DIY and self-motivated module.
 
-## Learning plan (10 points)
+## Learning plan proposal (10 points)
 
 You are responsible to develop an actionable and feasible learning plan. There is no required structure of the plan, but it should meet the following criteria:
 
@@ -55,35 +56,45 @@ You are responsible to develop an actionable and feasible learning plan. There i
 2. Break down your overall goals into specific and actionable items.
 3. The plan should cover the major themes of our weekly sessions.
 4. A feasible timeline.
-5. A concrete performance evaluation plan.
+5. A concrete plan for assessing your performance.
 6. Maximum length 2 pages, use the space efficiently.
 
 You can share learning plans with others. You can even assemble learning groups. But this is NOT a group assignment, and you will be assessed individually.
 
-The draft plan is due on xxx; final version is due on xxx. You cannot substantially revise your plan to lower the requirements after the plan is finalized.
-
+_The draft proposal is due on xxx; final version is due on xxx. You cannot substantially revise your proposal to lower the requirements after it is finalized._
 
 ## Completion (15 points)
 
-TBD.
+You will assess your own performance using the evaluation plan you proposed.
 
+_Please submit a self-evaluation report for this assignment._
 
-# Individual replication project
+# Replication projects
+
+Replication is critical to scientific discovery, however, a substantial mount of studies cannot be replicated, leading to the so-called "reproducibility crisis'' in both natural and social sciences {% cite Baker500scientistslift2016 Hardwickeempiricalassessmenttransparency2020 %}. The replication projects serve two purposes: 1) get familiar with real-word research practices, which are often messy and unclear; 2) practice the empirical methods we learned in class. The reading materials in the first week are important to guiding the replication exercises.
+
+## Individual replication project
 ---
-## Replication report (20 pints)
+### Replication report (20 pints)
 
-TBD.
+You will need to identify one or multiple empirical studies from renowned journals in the area of your interest. The replication report will be evaluated from the following perspectives:
 
-## In class presentation (5 points)
+1. Clear data management and documentation;
+2. Validation.
+3. Replication results. If fail to replicate, point out possible reasons.
+4. The following methods are required in replication: (a) descriptive statistics, (b) hypothesis testing, (c) regression analysis.
+5. The following methods are optional in replication: TBD.
 
-TBD.
+### In class presentation (5 points)
 
-# Group replication project
+You will present your replication plan in class, don't have to be finished.
+
+## Group replication project
 ---
-## Draft manuscript for academic journal (30 points)
+### Draft manuscript for academic journal (30 points)
 
 TBD.
 
-## In class presentation (10 points)
+### In class presentation (10 points)
 
 TBD.
