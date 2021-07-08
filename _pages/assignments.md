@@ -98,3 +98,9 @@ TBD.
 ### In class presentation (10 points)
 
 TBD.
+
+
+References
+----------
+
+{% bibliography %}
