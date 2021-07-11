@@ -69,16 +69,15 @@ You will assess your own performance using the evaluation plan you proposed.
 
 _Please submit a self-evaluation report for this assignment._
 
+
 # Replication projects
+---
 
 Replication is critical to scientific discovery, however, a substantial mount of studies cannot be replicated, leading to the so-called "reproducibility crisis'' in both natural and social sciences {% cite Baker500scientistslift2016 Hardwickeempiricalassessmenttransparency2020 %}. The replication projects serve two purposes: 1) get familiar with real-word research practices, which are often messy and unclear; 2) practice the empirical methods we learned in class. The reading materials in the first week are important to guiding the replication exercises.
 
-## Individual replication project
----
+## Individual replication project (20 pints)
 
-You will need to identify one or multiple empirical studies from renowned journals in the area of your interest. Your individual replication project should be in the "verifiability" category or above {% cite FreeseReplicationSocialScience2017 -l 152 %}.
-
-### Replication report (20 pints)
+You will need to identify one or multiple empirical studies from renowned journals in the area of your interest. Your individual replication project should be in the "verifiability" category or above {% cite FreeseReplicationSocialScience2017 -l 152 %}. 
 
 The replication report will be evaluated from the following perspectives:
 
@@ -96,15 +95,13 @@ You will present your replication plan in class. You presentation should include
 3. Your replication plan and the work you have done so far. -->
 
 ## Group replication project
-
+---
 Treat the group replication project as a serious manuscript to be submitted to an academic journal. It needs to be in the "robustness" category or above {% cite FreeseReplicationSocialScience2017 -l 152 %}. If you hope a better chance of acceptance, set your target high and also be realistic. A good project needs to be a finished project in the first place. Maximum 5 students per group.
 
 ### Project plan (5 points)
----
 
 TBD.
 
----
 ### Draft manuscript (30 points)
 
 The draft manuscript will be evaluated using the criteria for assessing the individual replication report, plus the following: 
