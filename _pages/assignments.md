@@ -13,8 +13,8 @@ week: true
 - [Participation - 10 points](#participation)
 - [Customized learning - 20 points](#customized-learning)
 - [Replication projects](#replication-projects)
-- [Individual replication project - 25 points](#individual-replication-project)
-- [Group replication project - 40 points](#group-replication-project)
+	- [Individual replication project - 25 points](#individual-replication-project)
+	- [Group replication project - 40 points](#group-replication-project)
 
 
 # Plagiarisms test
