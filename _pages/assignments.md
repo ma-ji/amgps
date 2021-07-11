@@ -87,13 +87,13 @@ The replication report will be evaluated from the following perspectives:
 3. The following components are required in your replication plan: (a) descriptive statistics, (b) hypothesis testing, (c) regression analysis.
 4. The following methods are optional in replication: qualitative interviews and coding, additional surveys.
 
-### In class presentation (5 points)
+<!-- ### In class presentation (5 points)
 
 You will present your replication plan in class. You presentation should include:
 
 1. An introduction of the empirical study/studies you selected.
 2. The reasons for choosing the study/studies.
-3. Your replication plan and the work you have done so far.
+3. Your replication plan and the work you have done so far. -->
 
 ## Group replication project
 
@@ -105,7 +105,7 @@ Treat the group replication project as a serious manuscript to be submitted to a
 TBD.
 
 ---
-### Draft manuscript (25 points)
+### Draft manuscript (30 points)
 
 The draft manuscript will be evaluated using the criteria for assessing the individual replication report, plus the following: 
 
@@ -115,7 +115,15 @@ The draft manuscript will be evaluated using the criteria for assessing the indi
 
 ### In class presentation (10 points)
 
-TBD.
+Present your group replication project in class. Your presentation will be assessed using the criteria for evaluating your individual and group manuscripts.
+
+[Assessment form is here](#) (students' evaluation 30%, instructor's evaluation 70%).
+
+<!-- Present your group replication project in class. Your presentation should include:
+
+1. An introduction of the empirical study/studies you selected.
+2. The reasons for choosing the study/studies.
+3. Your replication plan and the work you have done so far. -->
 
 
 References
