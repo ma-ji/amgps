@@ -75,9 +75,12 @@ Replication is critical to scientific discovery, however, a substantial mount of
 
 ## Individual replication project
 ---
+
+You will need to identify one or multiple empirical studies from renowned journals in the area of your interest. Your individual replication project should be in the "verifiability" category or above {% cite FreeseReplicationSocialScience2017 -l 152 %}.
+
 ### Replication report (20 pints)
 
-You will need to identify one or multiple empirical studies from renowned journals in the area of your interest. Your individual replication project should be in the "verifiability" category or above {% cite FreeseReplicationSocialScience2017 -l 152 %}. The replication report will be evaluated from the following perspectives:
+The replication report will be evaluated from the following perspectives:
 
 1. Clear data management and documentation;
 2. Validation of original analysis, including empirical methods, instruments, and conclusions.
@@ -94,12 +97,21 @@ You will present your replication plan in class. You presentation should include
 3. Your replication plan and the work you have done so far.
 
 ## Group replication project
+
+Treat the group replication project as a serious manuscript to be submitted to an academic journal. It needs to be in the "robustness" category or above {% cite FreeseReplicationSocialScience2017 -l 152 %}. If you hope a better chance of acceptance, set your target high and also be realistic. A good project needs to be a finished project in the first place.
+
 ---
-### Draft manuscript for academic journal (30 points)
+### Draft manuscript (30 points)
 
 TBD.
 
 ### In class presentation (10 points)
 
 TBD.
+
+
+References
+---
+
+{% bibliography --cited %}
 
