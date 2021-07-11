@@ -83,10 +83,9 @@ You will need to identify one or multiple empirical studies from renowned journa
 The replication report will be evaluated from the following perspectives:
 
 1. Clear data management and documentation;
-2. Validation of original analysis, including empirical methods, instruments, and conclusions.
-3. Replication results. If fail to replicate, point out possible reasons.
-4. The following components are required in your replication plan: (a) descriptive statistics, (b) hypothesis testing, (c) regression analysis.
-5. The following methods are optional in replication: qualitative interviews and coding, additional surveys.
+2. Replication results. If fail to replicate, point out possible reasons.
+3. The following components are required in your replication plan: (a) descriptive statistics, (b) hypothesis testing, (c) regression analysis.
+4. The following methods are optional in replication: qualitative interviews and coding, additional surveys.
 
 ### In class presentation (5 points)
 
@@ -98,12 +97,21 @@ You will present your replication plan in class. You presentation should include
 
 ## Group replication project
 
-Treat the group replication project as a serious manuscript to be submitted to an academic journal. It needs to be in the "robustness" category or above {% cite FreeseReplicationSocialScience2017 -l 152 %}. If you hope a better chance of acceptance, set your target high and also be realistic. A good project needs to be a finished project in the first place.
+Treat the group replication project as a serious manuscript to be submitted to an academic journal. It needs to be in the "robustness" category or above {% cite FreeseReplicationSocialScience2017 -l 152 %}. If you hope a better chance of acceptance, set your target high and also be realistic. A good project needs to be a finished project in the first place. Maximum 5 students per group.
 
+### Project plan (5 points)
 ---
-### Draft manuscript (30 points)
 
 TBD.
+
+---
+### Draft manuscript (25 points)
+
+The draft manuscript will be evaluated using the criteria for assessing the individual replication report, plus the following: 
+
+1. Validation of original analysis, including empirical methods, instruments, and conclusions;
+2. Your novel contributions; 
+3. Effective teamwork and project management.
 
 ### In class presentation (10 points)
 
