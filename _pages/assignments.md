@@ -71,23 +71,27 @@ _Please submit a self-evaluation report for this assignment._
 
 # Replication projects
 
-Replication is critical to scientific discovery, however, a substantial mount of studies cannot be replicated, leading to the so-called "reproducibility crisis'' in both natural and social sciences <d-cite key="Baker500scientistslift2016"></d-cite><d-cite key="Hardwickeempiricalassessmenttransparency2020"></d-cite>. The replication projects serve two purposes: 1) get familiar with real-word research practices, which are often messy and unclear; 2) practice the empirical methods we learned in class. The reading materials in the first week are important to guiding the replication exercises.
+Replication is critical to scientific discovery, however, a substantial mount of studies cannot be replicated, leading to the so-called "reproducibility crisis'' in both natural and social sciences {% cite Baker500scientistslift2016 Hardwickeempiricalassessmenttransparency2020 %}. The replication projects serve two purposes: 1) get familiar with real-word research practices, which are often messy and unclear; 2) practice the empirical methods we learned in class. The reading materials in the first week are important to guiding the replication exercises.
 
 ## Individual replication project
 ---
 ### Replication report (20 pints)
 
-You will need to identify one or multiple empirical studies from renowned journals in the area of your interest. The replication report will be evaluated from the following perspectives:
+You will need to identify one or multiple empirical studies from renowned journals in the area of your interest. Your individual replication project should be in the "verifiability" category or above {% cite FreeseReplicationSocialScience2017 -l 152 %}. The replication report will be evaluated from the following perspectives:
 
 1. Clear data management and documentation;
-2. Validation.
+2. Validation of original analysis, including empirical methods, instruments, and conclusions.
 3. Replication results. If fail to replicate, point out possible reasons.
-4. The following methods are required in replication: (a) descriptive statistics, (b) hypothesis testing, (c) regression analysis.
-5. The following methods are optional in replication: TBD.
+4. The following components are required in your replication plan: (a) descriptive statistics, (b) hypothesis testing, (c) regression analysis.
+5. The following methods are optional in replication: qualitative interviews and coding, additional surveys.
 
 ### In class presentation (5 points)
 
-You will present your replication plan in class, don't have to be finished.
+You will present your replication plan in class. You presentation should include:
+
+1. An introduction of the empirical study/studies you selected.
+2. The reasons for choosing the study/studies.
+3. Your replication plan and the work you have done so far.
 
 ## Group replication project
 ---
