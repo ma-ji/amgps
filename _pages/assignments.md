@@ -10,7 +10,9 @@ week: true
 
 ---
 - [Plagiarisms test - 5 points](#plagiarisms-test)
-- [Participation - 10 points](#participation)
+- [Participation](#participation)
+  - [Reading annotation - 5 pts](#reading-annotation-(5-points))
+  - [In class participation - 5 pts](#in-class-participation-(5-points))
 - [Customized learning - 20 points](#customized-learning)
 - [Replication projects](#replication-projects)
 	- [Individual replication project - 25 points](#individual-replication-project)
@@ -95,7 +97,7 @@ You will present your replication plan in class. You presentation should include
 3. Your replication plan and the work you have done so far. -->
 
 ## Group replication project
----
+
 Treat the group replication project as a serious manuscript to be submitted to an academic journal. It needs to be in the "robustness" category or above {% cite FreeseReplicationSocialScience2017 -l 152 %}. If you hope a better chance of acceptance, set your target high and also be realistic. A good project needs to be a finished project in the first place. Maximum 5 students per group.
 
 ### Project plan (5 points)
@@ -125,6 +127,7 @@ Present your group replication project in class. Your presentation will be asses
 
 References
 ---
+
 
 {% bibliography --cited %}
 

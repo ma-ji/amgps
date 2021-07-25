@@ -22,6 +22,7 @@ profile:
 ---
 
 ### Overview
+---
 
 Data crunching is hard, applying data crunching methods to empirical social science studies is harder. This course has <a name="purposes">three purposes</a>:
 
@@ -34,33 +35,36 @@ Required textbook (previous versions are fine as long as the course content is c
 - {% reference MeierAppliedStatisticsPublic2014 %}
 
 ### Grading
+---
 
 <!-- See a list of [Assignments](/assignments/) -->
 
-- A >= 98%, A- >= 90
+- A >= 95%, A- >= 90
 - B+ >= 87%, B >= 83%, B- >= 80%
 - C+ >= 77%, C >= 73%, C- >= 70%
 - D+ >= 67%, D >= 63%, D- >= 60%
 
 ### Assignments
+---
 
 See [assignment page](/assignments) for details.
 
-- Plagiarism test - 5 points
-- Participation - 10 points:
-  - Reading annotation (5 points)
-  - In class participation (5 points)
-- Customized learning - 25 points
-  - Learning plan (10 points)
-  - Completion (15 points)
-- Individual replication project - 20 points:
-  - Replication report (15 pints)
-  - In class presentation (5 points)
-- Group replication project - 40 points:
-  - Draft manuscript for academic journal (30 points)
-  - In class presentation (10 points)
+- Plagiarism test - 5 pts
+- Participation - 10 pts
+  - Reading annotation (5 pts)
+  - In class participation (5 pts)
+- Customized learning - 20 pts
+  - Learning plan (5 pts)
+  - Completion (15 pts)
+- Individual replication project - 20 pts
+  - Replication report (15 pts)
+  - In class presentation (5 pts)
+- Replication projects - 65 pts
+  - Individual replication project - (25 pts)
+  - Group replication project - (40 pts)
 
 ### License for Open Education
+---
 
 This syllabus and all course content created by the instructor, TA, and students are licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
 
