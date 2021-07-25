@@ -1,4 +1,4 @@
-#### [**Analytical Methods for Empirical StudieS (PA397G; a.k.a. AMESS)**](https://amess.jima.me/)
+#### [**Analytical Methods for Global Policy Studies (PA397G)**](https://amgps.jima.me)
 
 <!-- # al-folio
 
