@@ -108,7 +108,7 @@ The replication report will be evaluated from the following perspectives:
 
 Treat the group replication project as a serious manuscript to be submitted to an academic journal. It needs to be in the "robustness" category or above {% cite FreeseReplicationSocialScience2017 -l 152 %}. If you hope a better chance of acceptance, set your target high and also be realistic. A good project needs to be a finished project in the first place. Maximum 5 students per group.
 
-### 4.2.1 Project plan (5 points)
+### 4.2.1 Replication plan (5 points)
 
 TBD.
 
