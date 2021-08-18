@@ -8,8 +8,6 @@ nav: true
 week: true
 ---
 
-# Session structure
-
 How are we going to spend the 3-hour every week? The structure of weekly session ties to our [course purposes](/#purposes).
 
 1. _Lecture on reading materials and statistics._ During the first hour of each week, I will typically give a lecture to cover the major points of the week. I will also answer any of your questions.
