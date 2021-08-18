@@ -32,7 +32,7 @@ Data crunching is hard, applying data crunching methods to empirical social scie
 
 Required textbook (previous versions are fine as long as the course content is covered):
 
-- {% cite MeierAppliedStatisticsPublic2014 %}
+- {% reference MeierAppliedStatisticsPublic2014 %}
 
 ### Grading
 ---
