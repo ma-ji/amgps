@@ -18,8 +18,9 @@ week: true
 
 <br>
 
+---
 # 1. Plagiarisms test
-----
+---
 
 The first assignment of this course is to [pass the plagiarism test and obtain a certificate](https://plagiarism.iu.edu/index.html) at the master and doctoral level. Plagiarism is a serious academic misconduct. You will receive zero grade on plagiarized work and there may be other consequences. We have been told not to do this maybe since primary school, and we are always assuming we know what plagiarism is. However, we may assume we know too much (e.g., [famous cases of plagiarism](https://www.google.com/search?q=famous+cases+of+plagiarism)).
 
@@ -47,6 +48,7 @@ Your participation is assessed by the instructor and TA based on your performanc
 
 <br>
 
+---
 # 3. Customized learning
 ---
 
@@ -72,6 +74,8 @@ _The draft proposal is due on xxx; final version is due on xxx. You cannot subst
 You will assess your own performance using the evaluation plan you proposed.
 
 _Please submit a self-evaluation report for this assignment._
+
+<br>
 
 ---
 # 4. Replication projects
@@ -132,6 +136,7 @@ TBD.
 
 <br>
 
+---
 # References
 ---
 
