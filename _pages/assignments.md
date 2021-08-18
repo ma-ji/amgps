@@ -9,7 +9,7 @@ week: true
 ---
 
 ---
-- [Plagiarisms test - 5 points](#plagiarisms-test)
+- [Plagiarisms test - 5 points](#1-plagiarisms-test)
 - [Participation](#participation)
   - [Reading annotation - 5 pts](#reading-annotation-(5-points))
   - [In class participation - 5 pts](#in-class-participation-(5-points))
@@ -19,7 +19,7 @@ week: true
 	- [Group replication project - 40 points](#group-replication-project)
 
 
-# Plagiarisms test
+# 1. Plagiarisms test
 ----
 
 The first assignment of this course is to [pass the plagiarism test and obtain a certificate](https://plagiarism.iu.edu/index.html) at the master and doctoral level. Plagiarism is a serious academic misconduct. You will receive zero grade on plagiarized work and there may be other consequences. We have been told not to do this maybe since primary school, and we are always assuming we know what plagiarism is. However, we may assume we know too much (e.g., [famous cases of plagiarism](https://www.google.com/search?q=famous+cases+of+plagiarism)).
@@ -31,7 +31,7 @@ You do not need to take this test if you have comparable certification, but the 
 _For this assignment, please submit your certificate as a file via Canvas_
 
 
-# Participation
+# 2. Participation
 ---
 
 ## Reading annotation (5 points)
@@ -45,7 +45,7 @@ You are expected to read and [annotate](#) the course materials of each week bef
 Your participation is assessed by the instructor and TA based on your performance in class during the lecture, practice, and TA sessions.
 
 
-# Customized learning
+# 3. Customized learning
 ---
 
 You may want to develop your own skill set over the semester. For example, learning how to use Python and R rather than using Stata or Excel. This assignment accommodates such a need. This is a DIY and self-motivated module.
@@ -72,7 +72,7 @@ You will assess your own performance using the evaluation plan you proposed.
 _Please submit a self-evaluation report for this assignment._
 
 
-# Replication projects
+# 4. Replication projects
 ---
 
 Replication is critical to scientific discovery, however, a substantial mount of studies cannot be replicated, leading to the so-called "reproducibility crisis'' in both natural and social sciences {% cite Baker500scientistslift2016 Hardwickeempiricalassessmenttransparency2020 %}. The replication projects serve two purposes: 1) get familiar with real-word research practices, which are often messy and unclear; 2) practice the empirical methods we learned in class. The reading materials in the first week are important to guiding the replication exercises.
