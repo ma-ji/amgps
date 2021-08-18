@@ -20,4 +20,15 @@ You do not need to take this test if you have comparable certification, but the 
 _For this assignment, please submit your certificate as a file via Canvas_
 
 
-[annotate](#)
+# Participation
+---
+
+## Reading annotation (5 points)
+
+You are expected to read and [annotate](#) the course materials of each week before class. The purpose is to have a chance to interact with your classmates, and I will have a better idea of your "pain points" before class. At least have one comment on each article, and respond to at least one comment from another classmate. This regular on-going assignment uses online annotation platform, and is due before the class day.
+
+[Log your reading progress here](#)
+
+## In class participation (5 points)
+
+Your participation is assessed by the instructor and TA based on your performance in class during the lecture, practice, and TA sessions.
