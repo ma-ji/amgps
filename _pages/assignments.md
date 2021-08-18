@@ -5,7 +5,6 @@ permalink: /assignments/
 title: Assignments
 # description:
 nav: true
-week: true
 ---
 
 
