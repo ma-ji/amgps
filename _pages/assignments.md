@@ -42,6 +42,8 @@ You are expected to read and [annotate](#) the course materials of each week bef
 
 [Log your reading progress here](#)
 
+<br>
+
 ## 2.2 In class participation (5 points)
 
 Your participation is assessed by the instructor and TA based on your performance in class during the lecture, practice, and TA sessions.
@@ -53,6 +55,8 @@ Your participation is assessed by the instructor and TA based on your performanc
 ---
 
 You may want to develop your own skill set over the semester. For example, learning how to use Python and R rather than using Stata or Excel. This assignment accommodates such a need. This is a DIY and self-motivated module.
+
+<br>
 
 ## 3.1 Learning plan proposal (5 points)
 
@@ -68,6 +72,8 @@ You are responsible to develop an actionable and feasible learning plan. There i
 You can share learning plans with others. You can even assemble learning groups. But this is NOT a group assignment, and you will be assessed individually.
 
 _The draft proposal is due on xxx; final version is due on xxx. You cannot substantially revise your proposal to lower the requirements after it is finalized._
+
+<br>
 
 ## 3.2 Completion (15 points)
 
@@ -85,6 +91,8 @@ Replication is critical to scientific discovery, however, a substantial mount of
 
 Both the individual and group replication projects are required. The individual project intends to be simpler, help you get familiar with how to do a replication. The group project is more complex in terms of analysis or the number of empirical studies should be include. It is totally fine and encouraged to include or utilize your individual project in your group project.
 
+<br>
+
 ## 4.1 Individual replication project (20 pints)
 
 You will need to identify one or multiple empirical studies from renowned journals in the area of your interest. Your individual replication project should be in the "verifiability" category or above {% cite FreeseReplicationSocialScience2017 -l 152 %}. 
@@ -95,6 +103,8 @@ The replication report will be evaluated from the following perspectives:
 2. Replication results. If fail to replicate, point out possible reasons.
 3. The following components are required in your replication plan: (a) descriptive statistics, (b) hypothesis testing, (c) regression analysis.
 4. The following methods are optional in replication: qualitative interviews and coding, additional surveys.
+
+<br>
 
 ## 4.2 Group replication project
 
@@ -115,6 +125,8 @@ The draft manuscript will be evaluated using the criteria for assessing the indi
 ### 4.2.3 In class presentation (10 points)
 
 Present your group replication project in class. Your presentation will be assessed using the criteria for evaluating your individual and group manuscripts.
+
+<br>
 
 ## 4.3 Replication examples
 
