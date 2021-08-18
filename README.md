@@ -57,6 +57,7 @@ Feel free to add your own page(s) by sending a PR.
 <a href="https://zrqiao.github.io/" target="_blank">★</a>
 <a href="https://abstractgeek.github.io/" target="_blank">★</a>
 <a href="https://www.compphys.de/" target="_blank">★</a>
+<a href="https://julianstreyczek.github.io" target="_blank">★</a>
 
 </td>
 </tr>
