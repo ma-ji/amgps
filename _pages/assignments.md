@@ -16,7 +16,6 @@ week: true
 - [3. Customized learning - 20 points](#3-customized-learning)
 - [4. Replication projects](#4-replication-projects)
 
-<br>
 
 ---
 # 1. Plagiarisms test
@@ -136,7 +135,9 @@ The replication movement has been progressing very well in psychology, but you s
 - [Mass Replications & Extensions (social psychology)](https://mgto.org/pre-registered-replications/)
 - "Cited by" articles of the course readings
 
-## Choosing the right article(s) for replication
+<br>
+
+## 4.4 Choosing the right article(s) for replication
 
 You should keep three criteria in mind while searching for the articles for replication {% cite StojmenovskaTeachingReplicationGraduate2019 -l 305 %}: 
 
