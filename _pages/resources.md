@@ -8,9 +8,10 @@ nav: true
 week: true
 ---
 
+---
 # Learning resources
 ---
 
-- R/Python/Excel track: [DataCamp](https://www.datacamp.com/enterprise/analytical-methods-for-global-policy-studies-2021-fall)
+- Free license for [DataCamp](https://www.datacamp.com) and [Brilliant](https://brilliant.org/) are available via Canvas.
 - Stata track: http://geocenter.github.io/StataTraining/
 - Other sources: Feel free to help your self!
