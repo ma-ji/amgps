@@ -3,7 +3,7 @@ order: 0
 layout: about
 title: About
 permalink: /
-description: A.K.A., Learn Useful Methods For Solving Real Research Questions But Not (Only) For Passing Course Exams And Assignments<br><br><a href="https://jima.me">Ji Ma @ UT Austin, LBJ School of Public Affairs </a> #<a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: A.K.A., Learn Useful Methods For Solving Real Research Questions But Not (Only) For Passing Course Exams And Assignments<br><br><a href="https://jima.me">Ji Ma</a> and <a href="https://www.linkedin.com/in/felipe-antequera-87489a18/?originalSubdomain=cl">Felipe Antequera</a> @ <a href="https://lbj.utexas.edu/">UT Austin, LBJ School of Public Affairs</a> #<a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
