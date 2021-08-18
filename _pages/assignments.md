@@ -112,7 +112,11 @@ Treat the group replication project as a serious manuscript to be submitted to a
 
 TBD.
 
-### 4.2.2 Draft manuscript (30 points)
+### 4.2.2 In class presentation (10 points)
+
+Present your group replication project in class. Your presentation will be assessed using the criteria for evaluating your individual and group manuscripts.
+
+### 4.2.3 Draft manuscript (30 points)
 
 The draft manuscript will be evaluated using the criteria for assessing the individual replication report, plus the following: 
 
@@ -120,9 +124,7 @@ The draft manuscript will be evaluated using the criteria for assessing the indi
 2. Your novel contributions; 
 3. Effective teamwork and project management.
 
-### 4.2.3 In class presentation (10 points)
 
-Present your group replication project in class. Your presentation will be assessed using the criteria for evaluating your individual and group manuscripts.
 
 <br>
 
