@@ -31,6 +31,7 @@ _For this assignment, please submit your certificate as a file via Canvas_
 
 <br>
 
+---
 # 2. Participation
 ---
 
@@ -118,6 +119,16 @@ The replication movement has been progressing very well in psychology, but you s
 - [Estimating the Reproducibility of Psychological Science](https://osf.io/ezcuj/wiki/home/)
 - [Mass Replications & Extensions (social psychology)](https://mgto.org/pre-registered-replications/)
 - "Cited by" articles of the course readings
+
+## Choosing the right article(s) for replication
+
+You should keep three criteria in mind while searching for the articles for replication {% cite StojmenovskaTeachingReplicationGraduate2019 -l 305-306 %}: 
+
+1. Interest. You are motivated to replicate the study.
+2. Impact. The article should be published in a disciplinary flagship journal and/or highly cited, making sure you are "learning from the best."
+3. Feasibility. Your replication plan should be feasible regarding data access and complexity of analysis.
+
+TBD.
 
 <br>
 
