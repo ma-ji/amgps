@@ -75,7 +75,7 @@ _Please submit a self-evaluation report for this assignment._
 # 4. Replication projects
 ---
 
-Replication is critical to scientific discovery, however, a substantial mount of studies cannot be replicated, leading to the so-called "reproducibility crisis'' in both natural and social sciences {% cite Baker500scientistslift2016 Hardwickeempiricalassessmenttransparency2020 %}. The replication projects serve two purposes: 1) get familiar with real-word research practices, which are often messy and unclear; 2) practice the empirical methods we learned in class. The reading materials in the first week are important to guiding the replication exercises.
+Replication is critical to scientific discovery, however, a substantial mount of studies cannot be replicated, leading to the so-called "reproducibility crisis'' in both natural and social sciences. The replication projects serve two purposes: 1) get familiar with real-word research practices, which are often messy and unclear; 2) practice the empirical methods we learned in class. The reading materials in the first week are important to guiding the replication exercises.
 
 ## Individual replication project (20 pints)
 
@@ -128,6 +128,7 @@ Present your group replication project in class. Your presentation will be asses
 References
 ---
 
-
+<!-- 
+{% cite Baker500scientistslift2016 Hardwickeempiricalassessmenttransparency2020 %}
 {% bibliography --cited %}
-
+ -->
