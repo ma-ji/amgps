@@ -14,7 +14,7 @@ week: true
   - [Reading annotation - 5 pts](#reading-annotation-(5-points))
   - [In class participation - 5 pts](#in-class-participation-(5-points))
 - [Customized learning - 20 points](#3-customized-learning)
-- [Replication projects](#replication-projects)
+- [Replication projects](#4-replication-projects)
 	- [Individual replication project - 25 points](#individual-replication-project)
 	- [Group replication project - 40 points](#group-replication-project)
 
