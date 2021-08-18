@@ -16,7 +16,7 @@ week: true
 - [3. Customized learning - 20 points](#3-customized-learning)
 - [4. Replication projects](#4-replication-projects)
 
-\
+<br>
 
 # 1. Plagiarisms test
 ----
@@ -29,7 +29,7 @@ You do not need to take this test if you have comparable certification, but the 
 
 _For this assignment, please submit your certificate as a file via Canvas_
 
-\
+<br>
 
 # 2. Participation
 ---
@@ -44,6 +44,7 @@ You are expected to read and [annotate](#) the course materials of each week bef
 
 Your participation is assessed by the instructor and TA based on your performance in class during the lecture, practice, and TA sessions.
 
+<br>
 
 # 3. Customized learning
 ---
@@ -71,8 +72,7 @@ You will assess your own performance using the evaluation plan you proposed.
 
 _Please submit a self-evaluation report for this assignment._
 
-\
-
+---
 # 4. Replication projects
 ---
 
@@ -119,7 +119,7 @@ The replication movement has been progressing very well in psychology, but you s
 - [Mass Replications & Extensions (social psychology)](https://mgto.org/pre-registered-replications/)
 - "Cited by" articles of the course readings
 
-\
+<br>
 
 # References
 ---

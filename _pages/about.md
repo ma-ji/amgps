@@ -34,6 +34,7 @@ Required textbook (previous versions are fine as long as the course content is c
 
 - {% reference MeierAppliedStatisticsPublic2014 %}
 
+---
 ### Grading
 ---
 
@@ -44,6 +45,7 @@ Required textbook (previous versions are fine as long as the course content is c
 - C+ >= 77%, C >= 73%, C- >= 70%
 - D+ >= 67%, D >= 63%, D- >= 60%
 
+---
 ### Assignments
 ---
 
