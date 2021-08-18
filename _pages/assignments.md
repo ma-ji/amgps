@@ -10,7 +10,7 @@ week: true
 
 ---
 - [Plagiarisms test - 5 points](#1-plagiarisms-test)
-- [Participation](#participation)
+- [Participation](#2-participation)
   - [Reading annotation - 5 pts](#reading-annotation-(5-points))
   - [In class participation - 5 pts](#in-class-participation-(5-points))
 - [Customized learning - 20 points](#customized-learning)
