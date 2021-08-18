@@ -111,6 +111,14 @@ The draft manuscript will be evaluated using the criteria for assessing the indi
 
 Present your group replication project in class. Your presentation will be assessed using the criteria for evaluating your individual and group manuscripts.
 
+## 4.3 Replication examples
+
+The replication movement has been progressing very well in psychology, but you should be able to find replication studies in policy and public administration related areas. Here are some resources for your reference:
+
+- [Estimating the Reproducibility of Psychological Science](https://osf.io/ezcuj/wiki/home/)
+- [Mass Replications & Extensions (social psychology)](https://mgto.org/pre-registered-replications/)
+- "Cited by" articles of the course readings
+
 \
 
 # References
