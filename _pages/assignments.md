@@ -50,7 +50,7 @@ Your participation is assessed by the instructor and TA based on your performanc
 
 You may want to develop your own skill set over the semester. For example, learning how to use Python and R rather than using Stata or Excel. This assignment accommodates such a need. This is a DIY and self-motivated module.
 
-## 3.1 Learning plan proposal (10 points)
+## 3.1 Learning plan proposal (5 points)
 
 You are responsible to develop an actionable and feasible learning plan. There is no required structure of the plan, but it should meet the following criteria:
 

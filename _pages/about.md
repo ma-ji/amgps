@@ -51,17 +51,10 @@ See [assignment page](/assignments) for details.
 
 - Plagiarism test - 5 pts
 - Participation - 10 pts
-  - Reading annotation (5 pts)
-  - In class participation (5 pts)
 - Customized learning - 20 pts
-  - Learning plan (5 pts)
-  - Completion (15 pts)
-- Individual replication project - 20 pts
-  - Replication report (15 pts)
-  - In class presentation (5 pts)
 - Replication projects - 65 pts
-  - Individual replication project - (25 pts)
-  - Group replication project - (40 pts)
+  - Individual replication (20 pts)
+  - Group replication (45 pts)
 
 ### License for Open Education
 ---
