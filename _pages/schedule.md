@@ -12,20 +12,14 @@ week: true
 
 How are we going to spend the 3-hour every week? The structure of weekly session ties to our [course purposes](/#purposes).
 
-1. Lecture on reading materials and statistics
+1. _Lecture on reading materials and statistics._ During the first hour of each week, I will typically give a lecture to cover the major points of the week. I will also answer any of your questions.
 
-    During the first hour of each week, I will typically give a lecture to cover the major points of the week. I will also answer any of your questions.
+2. _In class practice on empirical methods_. We will solve problems and practice empirical methods in class.
 
-2. In class practice on empirical methods
+3. _In class preparation and presentation._ The last hour helps you prepare your individual and group replication projects.
 
-    We will solve problems and practice empirical methods in class.
+See weekly schedule below.
 
-3. In class preparation and presentation
-
-    The last hour helps you prepare your individual and group replication projects.
-
-
----
 <div class="post">
 
     {% if page.week %}
