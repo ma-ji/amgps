@@ -13,8 +13,8 @@ week: true
 
 - [1. Plagiarisms test - 5 points](#1-plagiarisms-test)
 - [2. Participation](#2-participation)
-  - [2.1 Reading annotation - 5 pts](#2-1-reading-annotation-(5-points))
-  - [2.2 In class participation - 5 pts](#2-2-in-class-participation-(5-points))
+  - [2.1 Reading annotation - 5 pts](#2.1-reading-annotation-(5-points))
+  - [2.2 In class participation - 5 pts](#2.2-in-class-participation-(5-points))
 - [3. Customized learning - 20 points](#3-customized-learning)
 - [4. Replication projects](#4-replication-projects)
 	- [Individual replication project - 25 points](#individual-replication-project)
