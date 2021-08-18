@@ -32,6 +32,7 @@ You do not need to take this test if you have comparable certification, but the 
 
 _For this assignment, please submit your certificate as a file via Canvas_
 
+<br><br>
 
 # 2. Participation
 ---
