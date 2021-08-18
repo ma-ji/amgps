@@ -122,7 +122,7 @@ The replication movement has been progressing very well in psychology, but you s
 
 ## Choosing the right article(s) for replication
 
-You should keep three criteria in mind while searching for the articles for replication {% cite StojmenovskaTeachingReplicationGraduate2019 -l 305-306 %}: 
+You should keep three criteria in mind while searching for the articles for replication {% cite StojmenovskaTeachingReplicationGraduate2019 -l 305 %}: 
 
 1. Interest. You are motivated to replicate the study.
 2. Impact. The article should be published in a disciplinary flagship journal and/or highly cited, making sure you are "learning from the best."
