@@ -11,12 +11,12 @@ week: true
 
 ---
 
-- [Plagiarisms test - 5 points](#1-plagiarisms-test)
-- [Participation](#participation)
-  - [Reading annotation - 5 pts](#reading-annotation-(5-points))
-  - [In class participation - 5 pts](#in-class-participation-(5-points))
-- [Customized learning - 20 points](#customized-learning)
-- [Replication projects](#replication-projects)
+- [1. Plagiarisms test - 5 points](#1-plagiarisms-test)
+- [2. Participation](#2-participation)
+  - [2.1 Reading annotation - 5 pts](#2-1-reading-annotation-(5-points))
+  - [2.2 In class participation - 5 pts](#2-2-in-class-participation-(5-points))
+- [3. Customized learning - 20 points](#3-customized-learning)
+- [4. Replication projects](#4-replication-projects)
 	- [Individual replication project - 25 points](#individual-replication-project)
 	- [Group replication project - 40 points](#group-replication-project)
 
@@ -33,21 +33,21 @@ You do not need to take this test if you have comparable certification, but the 
 _For this assignment, please submit your certificate as a file via Canvas_
 
 
-# Participation
+# 2. Participation
 ---
 
-## Reading annotation (5 points)
+## 2.1 Reading annotation (5 points)
 
 You are expected to read and [annotate](#) the course materials of each week before class. The purpose is to have a chance to interact with your classmates, and I will have a better idea of your "pain points" before class. At least have one comment on each article, and respond to at least one comment from another classmate. This regular on-going assignment uses online annotation platform, and is due before the class day.
 
 [Log your reading progress here](#)
 
-## In class participation (5 points)
+## 2.2 In class participation (5 points)
 
 Your participation is assessed by the instructor and TA based on your performance in class during the lecture, practice, and TA sessions.
 
 
-# Customized learning
+# 3. Customized learning
 ---
 
 You may want to develop your own skill set over the semester. For example, learning how to use Python and R rather than using Stata or Excel. This assignment accommodates such a need. This is a DIY and self-motivated module.
@@ -74,7 +74,7 @@ You will assess your own performance using the evaluation plan you proposed.
 _Please submit a self-evaluation report for this assignment._
 
 
-# Replication projects
+# 4. Replication projects
 ---
 
 Replication is critical to scientific discovery, however, a substantial mount of studies cannot be replicated, leading to the so-called "reproducibility crisis'' in both natural and social sciences {% cite Baker500scientistslift2016 Hardwickeempiricalassessmenttransparency2020 %}. The replication projects serve two purposes: 1) get familiar with real-word research practices, which are often messy and unclear; 2) practice the empirical methods we learned in class. The reading materials in the first week are important to guiding the replication exercises.
