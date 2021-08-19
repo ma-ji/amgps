@@ -52,6 +52,8 @@ Your participation is assessed by the instructor and TA based on your performanc
 
 You may want to develop your own skill set over the semester. For example, learning how to use Python and R rather than using Stata or Excel. This assignment accommodates such a need. This is a DIY and self-motivated module.
 
+_Expected deliverables_: 1) Learning plan proposal, 2) Self-evaluation report of completion.
+
 <br>
 
 ## 3.1 Learning plan proposal (5 points)
@@ -75,7 +77,6 @@ _The draft proposal is due on xxx; final version is due on xxx. You cannot subst
 
 You will assess your own performance using the evaluation plan you proposed.
 
-_Please submit a self-evaluation report for this assignment._
 
 <br>
 
@@ -87,13 +88,19 @@ Replication is critical to scientific discovery, however, a substantial mount of
 
 Treat the group replication project as a serious manuscript to be submitted to an academic journal. It needs to be in the "robustness" category or above {% cite FreeseReplicationSocialScience2017 -l 152 %}. If you hope a better chance of acceptance, set your target high and also be realistic. A good project needs to be a finished project in the first place. Maximum 4 students per group.
 
-<!-- Both the individual and group replication projects are required. The individual project intends to be simpler, help you get familiar with how to do a replication. The group project is more complex in terms of analysis or the number of empirical studies should be include. It is totally fine and encouraged to include or utilize your individual project in your group project. -->
+_Expected deliverables_:
+
+	- A replication plan.
+	- A presentation of your replication plan in class.
+	- A manuscript of your replication study.
+	- A presentation of your replication study.
+	- A verification report of another group's replication study.
 
 <br>
 
-## 4.2 Plan your replication
+## 4.1 Plan your replication
 
-### 4.2.1 Choosing the right article(s) for replication
+### 4.1.1 Choosing the right article(s) for replication
 
 You should keep three criteria in mind while searching for the articles for replication {% cite StojmenovskaTeachingReplicationGraduate2019 -l 305 %}: 
 
@@ -101,7 +108,7 @@ You should keep three criteria in mind while searching for the articles for repl
 2. Impact. The article should be published in a disciplinary flagship journal and/or highly cited, making sure you are "learning from the best."
 3. Feasibility. Your replication plan should be feasible regarding data access and complexity of analysis.
 
-### 4.2.2 Replication plan
+### 4.1.2 Replication plan
 
 You can think from five aspects while writing your replication plan: "(1) the premise of the paper, (2) the data and empirical design, (3) the key results, (4) why [you] think the paper would be a good candidate for the replication course, and (5) potential problems that might arise in the replication" {% cite StojmenovskaTeachingReplicationGraduate2019 -l 306 %}. 
 
@@ -113,27 +120,36 @@ The contents of the replication plans may vary, but they should include (but not
 	- The following components are required in your replication plan: (a) descriptive statistics, (b) hypothesis testing, (c) regression analysis.
 	- The following methods are optional in replication: qualitative interviews and coding, additional surveys.
 4. Expected results in comparison to original article.
-5. Effective teamwork and project management plan.
+5. Knowledge necessary for replicating the article and your learning plan.
+6. Effective teamwork and project management plan.
 
-### 4.2.3 Present your replication plan
+### 4.1.3 Present your replication plan
 
-Present your replication plan in class, and your presentation will be assessed from 1) significance, 2) novel contribution, 3) analysis of original article, 4) feasibility of replication, 5) teamwork.
+Prepare a 10-minute presentation of your replication plan. Your presentation will be assessed from 1) significance, 2) novel contribution, 3) analysis of original article, 4) feasibility of replication, 5) teamwork.
 
 <br>
 
-## 4.3 Complete your replication
+## 4.2 Write and present your replication
 
-### 4.3.1 Write the manuscript
+Use the published [replication studies](/replication_example) that are close to your areas of interest as examples, prepare a manuscript to be submitted to an academic journal.
 
+Generally, your manuscript should include two parts: a main text published as a regular printed journal article, and an appendix usually published online. The main text summarizes, for example, significance, research design, and findings. The appendix reports all technical details that are necessary for replicating and verifying your work.
 
-### 4.3.2 Present your replication
-
+Prepare a 15-minute presentation of your replication.
 
 <br>
 
 ## 4.4 Verify replications
 
-Your replication report itself needs to be replicable. Your group will be assigned to verify another group's replication report and provide a _verification report_. All groups will revise and finalize their replications using the feedback from the verification reports.
+Your replication report itself needs to be replicable. Each group will be assigned to verify another group's replication report and provide a _verification report_. Ideally, your group should be able to replication another group's replication with the information provided in the replication report. The verification report should point out, for example:
+
+	- Whether you can or cannot replicate the replication study, and why.
+	- Whether the theorization and operationalization is sound.
+	- Whether the analysis is robust.
+	- Whether the findings and conclusions are valid.
+	- How the replication study can be improved.
+
+All groups will revise and finalize their replications using the feedback from the verification reports. 
 
 <br>
 
