@@ -105,33 +105,35 @@ You should keep three criteria in mind while searching for the articles for repl
 
 You can think from five aspects while writing your replication plan: "(1) the premise of the paper, (2) the data and empirical design, (3) the key results, (4) why [you] think the paper would be a good candidate for the replication course, and (5) potential problems that might arise in the replication" {% cite StojmenovskaTeachingReplicationGraduate2019 -l 306 %}. 
 
-<!-- Your replication plan should include:
+The contents of the replication plans may vary, but they should include (but not limited to):
 
-1. Clear data management and documentation;
-2. Replication results. If fail to replicate, point out possible reasons.
-3. The following components are required in your replication plan: (a) descriptive statistics, (b) hypothesis testing, (c) regression analysis.
-4. The following methods are optional in replication: qualitative interviews and coding, additional surveys.
-1. Validation of original analysis, including empirical methods, instruments, and conclusions;
-2. Your novel contributions; 
-3. Effective teamwork and project management. -->
+1. Significance of replicating the article(s) and your novel contribution.
+2. Analysis of the original article from a) theorization, b) research design (e.g., hypothesis and operationalization), c) analysis methods, d) results and conclusions, e) data management and documentation.
+3. Replication plan: How are you going to replicate and extend the original study? You can develop the plan using the structure for analyzing the original article.
+	- The following components are required in your replication plan: (a) descriptive statistics, (b) hypothesis testing, (c) regression analysis.
+	- The following methods are optional in replication: qualitative interviews and coding, additional surveys.
+4. Expected results in comparison to original article.
+5. Effective teamwork and project management plan.
 
 ### 4.2.3 Present your replication plan
 
-TBD.
+Present your replication plan in class, and your presentation will be assessed from 1) significance, 2) novel contribution, 3) analysis of original article, 4) feasibility of replication, 5) teamwork.
 
 <br>
 
 ## 4.3 Complete your replication
 
-TBD.
+### 4.3.1 Write the manuscript
+
+
+### 4.3.2 Present your replication
 
 
 <br>
 
-## 4.4 Verify other's replication
+## 4.4 Verify replications
 
-TBD.
-
+Your replication report itself needs to be replicable. Your group will be assigned to verify another group's replication report and provide a _verification report_. All groups will revise and finalize their replications using the feedback from the verification reports.
 
 <br>
 
@@ -139,9 +141,10 @@ TBD.
 
 The replication movement has been progressing very well in psychology, but you should be able to find replication studies in policy and public administration related areas. Here are some resources for your reference:
 
+- [Example replication studies]().
 - [Estimating the Reproducibility of Psychological Science](https://osf.io/ezcuj/wiki/home/)
 - [Mass Replications & Extensions (social psychology)](https://mgto.org/pre-registered-replications/)
-- "Cited by" articles of the course readings
+- "Cited by" articles of the course readings.
 
 <br>
 
