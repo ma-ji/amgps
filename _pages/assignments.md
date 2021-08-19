@@ -142,7 +142,7 @@ Prepare a 15-minute presentation of your replication.
 
 <br>
 
-## 4.4 Verify replications
+## 4.3 Verify replications
 
 Your replication report itself needs to be replicable. Each group will be assigned to verify another group's replication report and provide a _verification report_. Ideally, your group should be able to replication another group's replication with the information provided in the replication report. The verification report should point out, for example:
 
@@ -156,7 +156,7 @@ All groups will revise and finalize their replications using the feedback from t
 
 <br>
 
-## 4.5 Replication examples
+## 4.4 Replication examples
 
 The replication movement has been progressing very well in psychology, but you should be able to find replication studies in policy and public administration related areas. Here are some resources for your reference:
 
