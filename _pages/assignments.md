@@ -52,7 +52,10 @@ Your participation is assessed by the instructor and TA based on your performanc
 
 You may want to develop your own skill set over the semester. For example, learning how to use Python and R rather than using Stata or Excel. This assignment accommodates such a need. This is a DIY and self-motivated module.
 
-_Expected deliverables_: 1) Learning plan proposal, 2) Self-evaluation report of completion.
+_Expected deliverables_: 
+
+	- Learning plan proposal.
+	- Self-evaluation report of completion.
 
 <br>
 
@@ -92,7 +95,7 @@ _Expected deliverables_:
 
 	- A replication plan.
 	- A presentation of your replication plan in class.
-	- A manuscript of your replication study.
+	- A replication report.
 	- A presentation of your replication study.
 	- A verification report of another group's replication study.
 
@@ -131,7 +134,7 @@ Prepare a 10-minute presentation of your replication plan. Your presentation wil
 
 ## 4.2 Write and present your replication
 
-Use the published [replication studies](/replication_example) that are close to your areas of interest as examples, prepare a manuscript to be submitted to an academic journal.
+Use the published [replication studies](/replication_example) that are close to your areas of interest as examples, prepare a manuscript of your replication report to be submitted to an academic journal.
 
 Generally, your manuscript should include two parts: a main text published as a regular printed journal article, and an appendix usually published online. The main text summarizes, for example, significance, research design, and findings. The appendix reports all technical details that are necessary for replicating and verifying your work.
 
@@ -143,11 +146,11 @@ Prepare a 15-minute presentation of your replication.
 
 Your replication report itself needs to be replicable. Each group will be assigned to verify another group's replication report and provide a _verification report_. Ideally, your group should be able to replication another group's replication with the information provided in the replication report. The verification report should point out, for example:
 
-	- Whether you can or cannot replicate the replication study, and why.
-	- Whether the theorization and operationalization is sound.
-	- Whether the analysis is robust.
-	- Whether the findings and conclusions are valid.
-	- How the replication study can be improved.
+- Whether you can or cannot replicate the replication study, and why.
+- Whether the theorization and operationalization is sound.
+- Whether the analysis is robust.
+- Whether the findings and conclusions are valid.
+- How the replication study can be improved.
 
 All groups will revise and finalize their replications using the feedback from the verification reports. 
 
