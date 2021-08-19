@@ -141,7 +141,7 @@ Your replication report itself needs to be replicable. Your group will be assign
 
 The replication movement has been progressing very well in psychology, but you should be able to find replication studies in policy and public administration related areas. Here are some resources for your reference:
 
-- [Example replication studies]().
+- [Example replication studies](/replication_example).
 - [Estimating the Reproducibility of Psychological Science](https://osf.io/ezcuj/wiki/home/)
 - [Mass Replications & Extensions (social psychology)](https://mgto.org/pre-registered-replications/)
 - "Cited by" articles of the course readings.
