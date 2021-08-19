@@ -10,7 +10,7 @@ nav: true
 
 ---
 
-Jump to: [Plagiarisms test](#1-plagiarisms-test) / [Participation](#2-participation) / [Customized learning](#3-customized-learning) / [Replication projects](#4-replication-projects)
+Jump to: [Plagiarisms test](#1-plagiarisms-test) / [Participation](#2-participation) / [Customized learning](#3-customized-learning) / [Replication projects](#4-replication-project)
 
 <br>
 
