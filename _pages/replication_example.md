@@ -6,7 +6,7 @@ title: Example replication studies
 nav: false
 ---
 
-These example articles are generated through [Web of Science](https://guides.lib.utexas.edu/db/370) by 1) searching "replication" in the title field and 2) specifying the "Web of Science Categories". You can use this strategy to generate a list of example articles in the areas of your interest.
+These example articles are generated through [Web of Science](https://guides.lib.utexas.edu/db/370) by 1) searching "replication" in the title field and 2) specifying the "Web of Science Categories". You can use this strategy and other keywords to generate more relevant articles in the areas of your interest.
 
 # Public Administration
 
@@ -34,4 +34,11 @@ These example articles are generated through [Web of Science](https://guides.lib
 - {% reference WhitneyHeterogeneousEffectsUrban2019 %}
 - {% reference WoodRecallingExtraData2019 %}
 
+# Social Issues
+
+- {% reference FaisalReplicationanalysisCOVID19 %}
+- {% reference CannatelliExploringContingenciesScaling2017 %}
+- {% reference SnelTimepovertyrevisited2013 %}
+- {% reference HelmigReplicationStudiesNonprofit2012 %}
+- {% reference ScruggsWelfarestatedecommodification182006 %}
 
