@@ -9,7 +9,6 @@ nav: true
 
 In-person teaching is an essential part of high-quality education. But given the increasing number of COVID-19 cases and following the instructions from the University, we will make the following teaching adjustments.
 
-
 # First three weeks (8/25--9/17): Online teaching + in-person office hours
 
 1. We will meet during our regular course time on Zoom for the first three weeks. 
@@ -19,3 +18,5 @@ In-person teaching is an essential part of high-quality education. But given the
 # After the first three weeks (9/18--)
 
 We aim to switch to regular in-person teaching, but will follow the University's policy.
+
+**_For protecting our community, we strongly recommend everyone who are eligible to wear a mask and get vaccinated._**
