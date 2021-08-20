@@ -19,4 +19,4 @@ In-person teaching is an essential part of high-quality education. But given the
 
 We aim to switch to regular in-person teaching, but will follow the University's policy.
 
-**_For protecting our community, we strongly recommend everyone who are eligible to wear a mask and get vaccinated._**
+**_For protecting our community, we strongly recommend everyone who are eligible to wear a mask, get tested, and get vaccinated._**
