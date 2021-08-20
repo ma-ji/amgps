@@ -42,6 +42,8 @@ You are expected to read and [annotate](#) the course materials of each week bef
 
 Your participation is assessed by the instructor and TA based on your performance in class during the lecture, practice, and TA sessions.
 
+<br>
+
 ## 2.3 Group project participation (10 points)
 
 Your participation in group project will be assessed by your group members.
