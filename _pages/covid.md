@@ -12,7 +12,10 @@ In-person teaching is an essential part of high-quality education. But given the
 ## First three weeks (8/25--9/17): Online teaching + in-person office hours
 
 1. We will meet during our regular course time on Zoom for the first three weeks. 
-2. We also make weekly in-person experience accessible to everyone in the form of outdoor office hours. We will be [meeting here](/assets/img/office_hour.JPG) from 3pm-5pm on Friday afternoons. This session is optional. Wearing a mask is still strongly recommended and appointment is required ([make your appointment here](#)).
+2. We also make weekly in-person experience accessible to everyone in the form of outdoor office hours. This session is from 3pm to 5pm on Friday afternoons and is optional. Wearing a mask is still strongly recommended and appointment is required ([make your appointment here](#)). We will be meeting in the place below:
+
+<img src="/assets/img/office_hour.JPG" alt="place for outdoor office hours" width="80%"/>
+
 3. We will record the online session for the first three weeks.
 
 ## After the first three weeks (9/18--)
