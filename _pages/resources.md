@@ -4,8 +4,8 @@ layout: page
 permalink: /resources/
 title: Resources
 description: Useful online tutorials and learning platforms.
-nav: true
-week: true
+nav: false
+week: false
 ---
 
 ---

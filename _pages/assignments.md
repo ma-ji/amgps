@@ -10,7 +10,7 @@ nav: true
 
 ---
 
-Jump to: [Plagiarisms test](#1-plagiarisms-test) / [Participation](#2-participation) / [Customized learning](#3-customized-learning) / [Replication projects](#4-replication-project)
+Jump to: [Plagiarisms test](#1-plagiarisms-test) / [Participation](#2-participation) / [Customized learning](#3-customized-learning) / [Replication projects](#4-replication-project) / [Resources for learning](#resources-for-learning)
 
 ---
 # 1. Plagiarisms test
@@ -166,6 +166,16 @@ The replication movement has been progressing very well in psychology, but you s
 - [Estimating the Reproducibility of Psychological Science](https://osf.io/ezcuj/wiki/home/)
 - [Mass Replications & Extensions (social psychology)](https://mgto.org/pre-registered-replications/)
 - "Cited by" articles of the course readings.
+
+<br>
+
+---
+# Resources for learning
+---
+
+- Free license for [DataCamp](https://www.datacamp.com) and [Brilliant](https://brilliant.org/) are available via Canvas.
+- Stata track: http://geocenter.github.io/StataTraining/
+- Other sources: Feel free to help your self!
 
 <br>
 
