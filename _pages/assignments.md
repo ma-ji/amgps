@@ -44,6 +44,10 @@ You are expected to read and [annotate](#) the course materials of each week bef
 
 Your participation is assessed by the instructor and TA based on your performance in class during the lecture, practice, and TA sessions.
 
+## 2.3 Group project participation (10 points)
+
+Your participation in group project will be assessed by your group members.
+
 <br>
 
 ---
@@ -115,7 +119,7 @@ You should keep three criteria in mind while searching for the articles for repl
 
 You can think from five aspects while writing your replication plan: "(1) the premise of the paper, (2) the data and empirical design, (3) the key results, (4) why [you] think the paper would be a good candidate for the replication course, and (5) potential problems that might arise in the replication" {% cite StojmenovskaTeachingReplicationGraduate2019 -l 306 %}. 
 
-The contents of the replication plans may vary, but they should include (but not limited to):
+A substantial part of the replication plan will go to your final replication report. The contents of the plan may vary, but they should include (but not limited to):
 
 1. Significance of replicating the article(s) and your novel contribution.
 2. Analysis of the original article from a) theorization, b) research design (e.g., hypothesis and operationalization), c) analysis methods, d) results and conclusions, e) data management and documentation.

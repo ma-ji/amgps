@@ -52,9 +52,19 @@ Required textbook (previous versions are fine as long as the course content is c
 See [assignment page](/assignments) for details.
 
 - Plagiarism test - 5 pts
-- Participation - 10 pts
+- Participation - 20 pts
+  - Reading annotation, 5 pts.
+  - Class participation, 5 pts.
+  - Group project participation, 10 pts.
 - Customized learning - 20 pts
-- Replication project - 65 pts
+  - Learning plan, 5 pts.
+  - Completion, 15 pts.
+- Group replication project - 55 pts
+  - Replication plan, 10 pts.
+  - Presentation of replication plan, 5 pts.
+  - Replication report, 20 pts.
+  - Presentation of your replication, 10 pts.
+  - Verification report, 10 pts.
 
 ### License for Open Education
 ---
