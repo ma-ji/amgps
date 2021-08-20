@@ -1,8 +1,8 @@
 ---
 order: 5
 layout: page
-permalink: /COVID/
-title: COVID
+permalink: /COVID-19/
+title: COVID-19
 description: Teaching arrangements and other information for COVID-19.
 nav: true
 ---
