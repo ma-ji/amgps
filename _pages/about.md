@@ -18,6 +18,7 @@ profile:
 
 - Time and location: M 9-12am, SRH3.124 (61238); T 9-12am, SRH3.B7 (61239)
 - Office hour: TBD. | TA session: TBD.
+- **[See COVID-19 teaching adjustment here.](/COVID-19/)**
 
 ---
 
