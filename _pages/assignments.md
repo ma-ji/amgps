@@ -151,7 +151,7 @@ Prepare a 15-minute presentation of your replication.
 Your replication report itself needs to be replicable. Each group will be assigned to verify another group's replication report and provide a _verification report_. Ideally, your group should be able to replication another group's replication with the information provided in the replication report. The verification report should point out, for example:
 
 - Whether you can or cannot replicate the replication study, and why.
-- Whether the theorization and operationalization is sound.
+- Whether the theorization and operationalization are sound.
 - Whether the analysis is robust.
 - Whether the findings and conclusions are valid.
 - How the replication study can be improved.
