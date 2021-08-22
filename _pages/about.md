@@ -3,8 +3,7 @@ order: 0
 layout: about
 title: About
 permalink: /
-description: A.K.A., Learn Useful Methods For Solving Real Research Questions But Not (Only) For Passing Course Exams And Assignments<br><br><a href="https://jima.me">Ji Ma</a> and <a href="https://www.linkedin.com/in/felipe-antequera-87489a18/?originalSubdomain=cl">Felipe Antequera</a> @ <a href="https://lbj.utexas.edu/">UT Austin, LBJ School of Public Affairs</a> #<a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
-
+description: A.K.A., Learn Useful Methods For Solving Real Research Questions But Not (Only) For Passing Course Exams And Assignments
 profile:
   align: right
   # image: prof_pic.jpg
@@ -16,9 +15,13 @@ profile:
 # social: true  # includes social icons at the bottom of the page
 ---
 
-- Time and location: M 9-12am, SRH3.124 (61238); T 9-12am, SRH3.B7 (61239)
-- Office hour: TBD. | TA session: TBD.
-- **[See COVID-19 teaching adjustment here.](/COVID-19/)**
+- Instructor team:
+  - [Ji Ma](https://jima.me/) (Primary Instructor)
+  - [Felipe Antequera](https://www.linkedin.com/in/felipe-antequera-87489a18/?originalSubdomain=cl) (Instructor of Statistics and Teaching Assistant)
+  - [Joycelyn Ovalle](https://www.linkedin.com/in/ovallejoycelyn/) (Grader)
+<!-- - Time and location: M 9-12am, SRH3.124 (61238); T 9-12am, SRH3.B7 (61239)
+- Office hour: TBD. | TA session: TBD. -->
+- Time and location: **[See COVID-19 teaching adjustment here.](/COVID-19/)**
 
 ---
 
