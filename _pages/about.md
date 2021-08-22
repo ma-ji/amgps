@@ -19,9 +19,10 @@ profile:
   - [Ji Ma](https://jima.me/) (Primary Instructor)
   - [Felipe Antequera](https://www.linkedin.com/in/felipe-antequera-87489a18/?originalSubdomain=cl) (Instructor of Statistics and Teaching Assistant)
   - [Joycelyn Ovalle](https://www.linkedin.com/in/ovallejoycelyn/) (Grader)
+- Time and location: **[See COVID-19 teaching adjustment here.](/COVID-19/)**
+
 <!-- - Time and location: M 9-12am, SRH3.124 (61238); T 9-12am, SRH3.B7 (61239)
 - Office hour: TBD. | TA session: TBD. -->
-- Time and location: **[See COVID-19 teaching adjustment here.](/COVID-19/)**
 
 ---
 
