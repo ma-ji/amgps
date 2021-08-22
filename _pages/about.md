@@ -31,9 +31,14 @@ Data crunching is hard, applying data crunching methods to empirical social scie
 2. Able to conduct the analysis manually and with software packages;
 3. Know how to apply these analysis methods to answering research questions from a research design perspective.
 
-Required textbook (previous versions are fine as long as the course content is covered):
+Required textbook: {% reference MeierAppliedStatisticsPublic2014 %}
 
-- {% reference MeierAppliedStatisticsPublic2014 %} via [UT Co-op Textbook](https://www.universitycoop.com/adoption-search-results?ccid=293186&itemid=2439)
+Where to get the textbook:
+
+- [UT Co-op Textbook](https://www.universitycoop.com/adoption-search-results?ccid=293186&itemid=2439)
+- Previous versions are fine as long as the course content is covered. If the contents are substantially different from the 9th edition, you can ask your classmates for help, or use the [University Library's service](https://www.lib.utexas.edu/find-borrow-request/get-a-scan).
+- I also have requested the textbook to be available in [PCL](https://www.lib.utexas.edu/about/locations/pcl). But the availability is not guaranteed. Will update when it is available.
+- I will provide the scanned copy of the first two chapters so that you have enough time to prepare.
 
 ---
 ### Grading
