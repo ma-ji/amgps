@@ -46,6 +46,8 @@ Your participation is assessed by the instructor and TA based on your performanc
 
 Your participation in group project will be assessed by your group members.
 
+[Contributor Roles Taxonomy](https://casrai.org/credit/) (details TBD).
+
 <br>
 
 ---
@@ -163,6 +165,9 @@ All groups will revise and finalize their replications using the feedback from t
 The replication movement has been progressing very well in psychology, but you should be able to find replication studies in policy and public administration related areas. Here are some resources for your reference:
 
 - [Example replication studies](/replication_example).
+- Templates (TBD)
+	- [Review and verification template](#)
+	- [Contribution template](#)
 - [Estimating the Reproducibility of Psychological Science](https://osf.io/ezcuj/wiki/home/)
 - [Mass Replications & Extensions (social psychology)](https://mgto.org/pre-registered-replications/)
 - "Cited by" articles of the course readings.
