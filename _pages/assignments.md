@@ -44,9 +44,7 @@ Your participation is assessed by the instructor and TA based on your performanc
 
 ## 2.3 Group project participation (10 points)
 
-Your participation in group project will be assessed by your group members.
-
-[Contributor Roles Taxonomy](https://casrai.org/credit/) (details TBD).
+Your participation and responsibilities will be assessed by your group members [using this form](https://utexas.qualtrics.com/jfe/form/SV_5gqer43HwL8dfFQ).
 
 <br>
 
@@ -122,12 +120,12 @@ You can think from five aspects while writing your replication plan: "(1) the pr
 A substantial part of the replication plan will go to your final replication report. The contents of the plan may vary, but they should include (but not limited to):
 
 1. Significance of replicating the article(s) and your novel contribution.
-2. Analysis of the original article from a) theorization, b) research design (e.g., hypothesis and operationalization), c) analysis methods, d) results and conclusions, e) data management and documentation.
+2. Analysis of the original article from: a) theorization, b) research design (e.g., hypothesis and operationalization), c) analysis methods, d) results and conclusions, e) data management and documentation ([data management checklist](https://utexas.qualtrics.com/jfe/form/SV_9KqVV6FMxAcW5lY)).
 3. Replication plan: How are you going to replicate and extend the original study? You can develop the plan using the structure for analyzing the original article.
 	- The following components are required in your replication plan: (a) descriptive statistics, (b) hypothesis testing, (c) regression analysis.
 	- The following methods are optional in replication: qualitative interviews and coding, additional surveys.
 4. Expected results in comparison to original article.
-5. Knowledge necessary for replicating the article and your learning plan.
+5. Knowledge necessary for replicating the article and your learning plan. You may not understand all the analysis methods used in the original article, set a plan to learn the new knowledge.
 6. Effective teamwork and project management plan.
 
 ### 4.1.3 Present your replication plan
@@ -160,14 +158,11 @@ All groups will revise and finalize their replications using the feedback from t
 
 <br>
 
-## 4.4 Replication examples
+## 4.4 Replication resources
 
 The replication movement has been progressing very well in psychology, but you should be able to find replication studies in policy and public administration related areas. Here are some resources for your reference:
 
 - [Example replication studies](/replication_example).
-- Templates (TBD)
-	- [Review and verification template](#)
-	- [Contribution template](#)
 - [Estimating the Reproducibility of Psychological Science](https://osf.io/ezcuj/wiki/home/)
 - [Mass Replications & Extensions (social psychology)](https://mgto.org/pre-registered-replications/)
 - "Cited by" articles of the course readings.
