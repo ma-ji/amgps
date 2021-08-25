@@ -76,11 +76,11 @@ See [assignment page](/assignments) for details.
   - Presentation of your replication, 10 pts.
   - Verification report, 10 pts.
 
+---
 ### License for Open Education
 ---
 
 This syllabus and all course content created by the instructor, TA, and students are licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
-
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
