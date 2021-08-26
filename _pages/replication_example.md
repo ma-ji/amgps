@@ -9,7 +9,7 @@ nav: false
 ## Typology of replication studies
 ---
 
-My colleague [Dr. René Bekkers](https://renebekkers.wordpress.com/) gave a clear summary of different types of replication studies according to {% cite FreeseReplicationSocialScience2017 -l 152 %} in his course _Replication and Preregistration in Social Science_:
+My colleague [Dr. René Bekkers](https://renebekkers.wordpress.com/) gave a clear summary of different types of replication studies according to {% cite FreeseReplicationSocialScience2017 -l 152 %} in his course _[Replication and Preregistration in Social Science](https://osf.io/bh3yp/)_:
 
 >1. You conduct a verification: from the description of the decisions with respect to the preprocessing and analysis of the data in the paper, you try to reproduce the results reported. This is a good format when the paper reports on data made available to you by the author(s), but there is no code. Which decisions are crucial in order to obtain the results reported?
 
