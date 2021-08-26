@@ -173,7 +173,7 @@ The replication movement has been progressing very well in psychology, but you s
 # 5 Resources for learning
 ---
 
-- Free license for [DataCamp](https://www.datacamp.com) and [Brilliant](https://brilliant.org/) are available via Canvas.
+- Free licenses for [DataCamp](https://www.datacamp.com) and [Brilliant](https://brilliant.org/) are available via Canvas.
 - Stata track: http://geocenter.github.io/StataTraining/
 - Other sources: Feel free to help your self!
 
