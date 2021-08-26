@@ -3,8 +3,7 @@ order: 0
 layout: about
 title: About
 permalink: /
-description: A.K.A., Learn Useful Methods For Solving Real Research Questions But Not (Only) For Passing Course Exams And Assignments<br><br><a href="https://jima.me">Ji Ma @ UT Austin, LBJ School of Public Affairs </a> #<a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
-
+description: A.K.A., Learn Useful Methods For Solving Real Research Questions But Not (Only) For Passing Course Exams And Assignments
 profile:
   align: right
   # image: prof_pic.jpg
@@ -16,8 +15,14 @@ profile:
 # social: true  # includes social icons at the bottom of the page
 ---
 
-- Time and location: M 9-12am, SRH3.124 (61238); T 9-12am, SRH3.B7 (61239)
-- Office hour: TBD. | TA session: TBD.
+- Instructor team:
+  - [Ji Ma](https://jima.me/) (Primary Instructor)
+  - [Felipe Antequera](https://www.linkedin.com/in/felipe-antequera-87489a18/?originalSubdomain=cl) (Instructor of Statistics and Teaching Assistant)
+  - [Joycelyn Ovalle](https://www.linkedin.com/in/ovallejoycelyn/) (Grader)
+- Time and location: **[See COVID-19 teaching adjustment here.](/COVID-19/)**
+
+<!-- - Time and location: M 9-12am, SRH3.124 (61238); T 9-12am, SRH3.B7 (61239)
+- Office hour: TBD. | TA session: TBD. -->
 
 ---
 
@@ -30,10 +35,16 @@ Data crunching is hard, applying data crunching methods to empirical social scie
 2. Able to conduct the analysis manually and with software packages;
 3. Know how to apply these analysis methods to answering research questions from a research design perspective.
 
-Required textbook (previous versions are fine as long as the course content is covered):
+Required textbook: {% reference MeierAppliedStatisticsPublic2014 %}
 
-- {% reference MeierAppliedStatisticsPublic2014 %}
+Where to get the textbook:
 
+- [UT Co-op Textbook](https://www.universitycoop.com/adoption-search-results?ccid=293186&itemid=2439)
+- Previous versions are fine as long as the course content is covered. If the contents are substantially different from the 9th edition, you can ask your classmates for help, or use the [University Library's service](https://www.lib.utexas.edu/find-borrow-request/get-a-scan).
+- I also have requested the textbook to be available in [PCL](https://www.lib.utexas.edu/about/locations/pcl). But the availability is not guaranteed. Will update when I have the result.
+- I will provide the scanned copy of the first two chapters so that you have enough time to prepare.
+
+---
 ### Grading
 ---
 
@@ -44,30 +55,32 @@ Required textbook (previous versions are fine as long as the course content is c
 - C+ >= 77%, C >= 73%, C- >= 70%
 - D+ >= 67%, D >= 63%, D- >= 60%
 
+---
 ### Assignments
 ---
 
 See [assignment page](/assignments) for details.
 
 - Plagiarism test - 5 pts
-- Participation - 10 pts
-  - Reading annotation (5 pts)
-  - In class participation (5 pts)
+- Participation - 20 pts
+  - Reading annotation, 5 pts.
+  - Class participation, 5 pts.
+  - Group project participation, 10 pts.
 - Customized learning - 20 pts
-  - Learning plan (5 pts)
-  - Completion (15 pts)
-- Individual replication project - 20 pts
-  - Replication report (15 pts)
-  - In class presentation (5 pts)
-- Replication projects - 65 pts
-  - Individual replication project - (25 pts)
-  - Group replication project - (40 pts)
+  - Learning plan, 5 pts.
+  - Completion, 15 pts.
+- Group replication project - 55 pts
+  - Replication plan, 10 pts.
+  - Presentation of replication plan, 5 pts.
+  - Replication report, 20 pts.
+  - Presentation of your replication, 10 pts.
+  - Verification report, 10 pts.
 
+---
 ### License for Open Education
 ---
 
 This syllabus and all course content created by the instructor, TA, and students are licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
-
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

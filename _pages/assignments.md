@@ -5,52 +5,63 @@ permalink: /assignments/
 title: Assignments
 # description:
 nav: true
-week: true
 ---
 
+
 ---
-- [Plagiarisms test - 5 points](#plagiarisms-test)
-- [Participation](#participation)
-  - [Reading annotation - 5 pts](#reading-annotation-(5-points))
-  - [In class participation - 5 pts](#in-class-participation-(5-points))
-- [Customized learning - 20 points](#customized-learning)
-- [Replication projects](#replication-projects)
-	- [Individual replication project - 25 points](#individual-replication-project)
-	- [Group replication project - 40 points](#group-replication-project)
 
+Jump to: [Plagiarisms test](#1-plagiarisms-test) / [Participation](#2-participation) / [Customized learning](#3-customized-learning) / [Replication projects](#4-replication-project) / [Resources for learning](#5-resources-for-learning)
 
-# Plagiarisms test
-----
+---
+# 1. Plagiarisms test
+---
 
 The first assignment of this course is to [pass the plagiarism test and obtain a certificate](https://plagiarism.iu.edu/index.html) at the master and doctoral level. Plagiarism is a serious academic misconduct. You will receive zero grade on plagiarized work and there may be other consequences. We have been told not to do this maybe since primary school, and we are always assuming we know what plagiarism is. However, we may assume we know too much (e.g., [famous cases of plagiarism](https://www.google.com/search?q=famous+cases+of+plagiarism)).
 
 You do not need to take this test if you have comparable certification, but the validity of your certification needs to be approved by the instructor.
 
-"All assignments in this course may be processed by TurnItIn, a tool that compares submitted material to an archived database of published work to check for potential plagiarism. Other methods may also be used to determine if a paper is the student’s original work. Regardless of the results of any TurnItIn submission, the faculty member will make the final determination as to whether or not a paper has been plagiarized" (Statement from the Faculty Writing Committee: Guidelines for Preventing Plagiarism).
+"All assignments in this course may be processed by TurnItIn, a tool that compares submitted material to an archived database of published work to check for potential plagiarism. Other methods may also be used to determine if a paper is the student's original work. Regardless of the results of any TurnItIn submission, the faculty member will make the final determination as to whether or not a paper has been plagiarized" (Statement from the Faculty Writing Committee: Guidelines for Preventing Plagiarism).
 
 _For this assignment, please submit your certificate as a file via Canvas_
 
+<br>
 
-# Participation
+---
+# 2. Participation
 ---
 
-## Reading annotation (5 points)
+## 2.1 Reading annotation (5 points)
 
-You are expected to read and [annotate](#) the course materials of each week before class. The purpose is to have a chance to interact with your classmates, and I will have a better idea of your "pain points" before class. At least have one comment on each article, and respond to at least one comment from another classmate. This regular on-going assignment uses online annotation platform, and is due before the class day.
+You are expected to read and annotate the course materials of each week before class (1st week is exempt). The purpose is to have a chance to interact with your classmates, and I will have a better idea of your "pain points" before class. At least have one comment on each article, and respond to at least one comment from another classmate. This regular on-going assignment uses online annotation platform, and is due before the class day.
 
-[Log your reading progress here](#)
+<br>
 
-## In class participation (5 points)
+## 2.2 In class participation (5 points)
 
 Your participation is assessed by the instructor and TA based on your performance in class during the lecture, practice, and TA sessions.
 
+<br>
 
-# Customized learning
+## 2.3 Group project participation (10 points)
+
+Your participation and responsibilities will be assessed by your group members [using this form](https://utexas.qualtrics.com/jfe/form/SV_5gqer43HwL8dfFQ).
+
+<br>
+
+---
+# 3. Customized learning
 ---
 
 You may want to develop your own skill set over the semester. For example, learning how to use Python and R rather than using Stata or Excel. This assignment accommodates such a need. This is a DIY and self-motivated module.
 
-## Learning plan proposal (10 points)
+_Expected deliverables_: 
+
+	- Learning plan proposal.
+	- Self-evaluation report of completion.
+
+<br>
+
+## 3.1 Learning plan proposal (5 points)
 
 You are responsible to develop an actionable and feasible learning plan. There is no required structure of the plan, but it should meet the following criteria:
 
@@ -65,69 +76,111 @@ You can share learning plans with others. You can even assemble learning groups.
 
 _The draft proposal is due on xxx; final version is due on xxx. You cannot substantially revise your proposal to lower the requirements after it is finalized._
 
-## Completion (15 points)
+<br>
+
+## 3.2 Completion (15 points)
 
 You will assess your own performance using the evaluation plan you proposed.
 
-_Please submit a self-evaluation report for this assignment._
 
+<br>
 
-# Replication projects
+---
+# 4. Replication project
 ---
 
 Replication is critical to scientific discovery, however, a substantial mount of studies cannot be replicated, leading to the so-called "reproducibility crisis'' in both natural and social sciences {% cite Baker500scientistslift2016 Hardwickeempiricalassessmenttransparency2020 %}. The replication projects serve two purposes: 1) get familiar with real-word research practices, which are often messy and unclear; 2) practice the empirical methods we learned in class. The reading materials in the first week are important to guiding the replication exercises.
 
-## Individual replication project (20 pints)
+Treat the group replication project as a serious manuscript to be submitted to an academic journal. It needs to be in the "robustness" category or above {% cite FreeseReplicationSocialScience2017 -l 152 %}. If you hope a better chance of acceptance, set your target high and also be realistic. A good project needs to be a finished project in the first place. Maximum 4 students per group.
 
-You will need to identify one or multiple empirical studies from renowned journals in the area of your interest. Your individual replication project should be in the "verifiability" category or above {% cite FreeseReplicationSocialScience2017 -l 152 %}. 
+_Expected deliverables_:
 
-The replication report will be evaluated from the following perspectives:
+	- A replication plan.
+	- A presentation of your replication plan in class.
+	- A replication report.
+	- A presentation of your replication study.
+	- A verification report of another group's replication study.
 
-1. Clear data management and documentation;
-2. Replication results. If fail to replicate, point out possible reasons.
-3. The following components are required in your replication plan: (a) descriptive statistics, (b) hypothesis testing, (c) regression analysis.
-4. The following methods are optional in replication: qualitative interviews and coding, additional surveys.
+<br>
 
-<!-- ### In class presentation (5 points)
+## 4.1 Plan your replication
 
-You will present your replication plan in class. You presentation should include:
+### 4.1.1 Choosing the right article(s) for replication
 
-1. An introduction of the empirical study/studies you selected.
-2. The reasons for choosing the study/studies.
-3. Your replication plan and the work you have done so far. -->
+You should keep three criteria in mind while searching for the articles for replication {% cite StojmenovskaTeachingReplicationGraduate2019 -l 305 %}: 
 
-## Group replication project
+1. Interest. You are motivated to replicate the study.
+2. Impact. The article should be published in a disciplinary flagship journal and/or highly cited, making sure you are "learning from the best."
+3. Feasibility. Your replication plan should be feasible regarding data access and complexity of analysis.
 
-Treat the group replication project as a serious manuscript to be submitted to an academic journal. It needs to be in the "robustness" category or above {% cite FreeseReplicationSocialScience2017 -l 152 %}. If you hope a better chance of acceptance, set your target high and also be realistic. A good project needs to be a finished project in the first place. Maximum 5 students per group.
+### 4.1.2 Replication plan
 
-### Project plan (5 points)
+You can think from five aspects while writing your replication plan: "(1) the premise of the paper, (2) the data and empirical design, (3) the key results, (4) why [you] think the paper would be a good candidate for the replication course, and (5) potential problems that might arise in the replication" {% cite StojmenovskaTeachingReplicationGraduate2019 -l 306 %}. 
 
-TBD.
+A substantial part of the replication plan will go to your final replication report. The contents of the plan may vary, but they should include (but not limited to):
 
-### Draft manuscript (30 points)
+1. Significance of replicating the article(s) and your novel contribution.
+2. Analysis of the original article from: a) theorization, b) research design (e.g., hypothesis and operationalization), c) analysis methods, d) results and conclusions, e) data management and documentation ([data management checklist](https://utexas.qualtrics.com/jfe/form/SV_9KqVV6FMxAcW5lY)).
+3. Replication plan: How are you going to replicate and extend the original study? You can develop the plan using the structure for analyzing the original article.
+	- The following components are required in your replication plan: (a) descriptive statistics, (b) hypothesis testing, (c) regression analysis.
+	- The following methods are optional in replication: qualitative interviews and coding, additional surveys.
+4. Expected results in comparison to original article.
+5. Knowledge necessary for replicating the article and your learning plan. You may not understand all the analysis methods used in the original article, set a plan to learn the new knowledge.
+6. Effective teamwork and project management plan.
 
-The draft manuscript will be evaluated using the criteria for assessing the individual replication report, plus the following: 
+### 4.1.3 Present your replication plan
 
-1. Validation of original analysis, including empirical methods, instruments, and conclusions;
-2. Your novel contributions; 
-3. Effective teamwork and project management.
+Prepare a 10-minute presentation of your replication plan. Your presentation will be assessed from 1) significance, 2) novel contribution, 3) analysis of original article, 4) feasibility of replication, 5) teamwork.
 
-### In class presentation (10 points)
+<br>
 
-Present your group replication project in class. Your presentation will be assessed using the criteria for evaluating your individual and group manuscripts.
+## 4.2 Write and present your replication
 
-[Assessment form is here](#) (students' evaluation 30%, instructor's evaluation 70%).
+Use the published [replication studies](/replication_example) that are close to your areas of interest as examples, prepare a manuscript of your replication report to be submitted to an academic journal.
 
-<!-- Present your group replication project in class. Your presentation should include:
+Generally, your manuscript should include two parts: a main text published as a regular printed journal article, and an appendix usually published online. The main text summarizes, for example, significance, research design, and findings. The appendix reports all technical details that are necessary for replicating and verifying your work.
 
-1. An introduction of the empirical study/studies you selected.
-2. The reasons for choosing the study/studies.
-3. Your replication plan and the work you have done so far. -->
+Prepare a 15-minute presentation of your replication.
 
+<br>
 
-References
+## 4.3 Verify replications
+
+Your replication report itself needs to be replicable. Each group will be assigned to verify another group's replication report and provide a _verification report_. Ideally, your group should be able to replication another group's replication with the information provided in the replication report. The verification report should point out, for example:
+
+- Whether you can or cannot replicate the replication study, and why.
+- Whether the theorization and operationalization are sound.
+- Whether the analysis is robust.
+- Whether the findings and conclusions are valid.
+- How the replication study can be improved.
+
+All groups will revise and finalize their replications using the feedback from the verification reports. 
+
+<br>
+
+## 4.4 Replication resources
+
+The replication movement has been progressing very well in psychology, but you should be able to find replication studies in policy and public administration related areas. Here are some resources for your reference:
+
+- [Example replication studies](/replication_example).
+- [Estimating the Reproducibility of Psychological Science](https://osf.io/ezcuj/wiki/home/)
+- [Mass Replications & Extensions (social psychology)](https://mgto.org/pre-registered-replications/)
+- "Cited by" articles of the course readings.
+
+<br>
+
+---
+# 5 Resources for learning
 ---
 
+- Free license for [DataCamp](https://www.datacamp.com) and [Brilliant](https://brilliant.org/) are available via Canvas.
+- Stata track: http://geocenter.github.io/StataTraining/
+- Other sources: Feel free to help your self!
+
+<br>
+
+---
+# References
+---
 
 {% bibliography --cited %}
-

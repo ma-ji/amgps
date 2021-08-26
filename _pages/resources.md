@@ -4,13 +4,14 @@ layout: page
 permalink: /resources/
 title: Resources
 description: Useful online tutorials and learning platforms.
-nav: true
-week: true
+nav: false
+week: false
 ---
 
+---
 # Learning resources
 ---
 
-- R/Python/Excel track: [DataCamp](https://www.datacamp.com/enterprise/analytical-methods-for-global-policy-studies-2021-fall)
+- Free license for [DataCamp](https://www.datacamp.com) and [Brilliant](https://brilliant.org/) are available via Canvas.
 - Stata track: http://geocenter.github.io/StataTraining/
 - Other sources: Feel free to help your self!

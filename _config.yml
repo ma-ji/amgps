@@ -167,13 +167,13 @@ scholar:
   bibliography: amgps.bib
   # bibliography_template: bib
 
-  replace_strings: true
-  join_strings: true
-  bibtex_filters:
+  # replace_strings: true
+  # join_strings: true
+  # bibtex_filters:
 
-  details_dir: bibliography
-  details_layout: bibtex.html
-  details_link: Details
+  # details_dir: bibliography
+  # details_layout: bibtex.html
+  # details_link: Details
 
   query: "@*"
 

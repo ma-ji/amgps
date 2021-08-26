@@ -8,24 +8,14 @@ nav: true
 week: true
 ---
 
-# Session structure
+A typical weekly session will have three components:
 
-How are we going to spend the 3-hour every week? The structure of weekly session ties to our [course purposes](/#purposes).
+1. **Lecture on reading materials and statistics.** During the first hour, I will typically give a lecture to cover the major points of the week. I will also answer any of your questions.
 
-1. Lecture on reading materials and statistics
+2. **In class practice on empirical methods.** We will solve problems and practice empirical methods in class.
 
-    During the first hour of each week, I will typically give a lecture to cover the major points of the week. I will also answer any of your questions.
+3. **In class preparation and presentation.** The last hour helps you prepare your replication project.
 
-2. In class practice on empirical methods
-
-    We will solve problems and practice empirical methods in class.
-
-3. In class preparation and presentation
-
-    The last hour helps you prepare your individual and group replication projects.
-
-
----
 <div class="post">
 
     {% if page.week %}

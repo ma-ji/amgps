@@ -1,5 +1,5 @@
 ---
-order: 5
+order: 6
 layout: page
 permalink: /policies/
 title: Policies
