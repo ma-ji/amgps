@@ -10,7 +10,7 @@ nav: true
 
 ---
 
-Jump to: [Plagiarisms test](#1-plagiarisms-test) / [Participation](#2-participation) / [Customized learning](#3-customized-learning) / [Replication projects](#4-replication-project) / [Resources for learning](#5-resources-for-learning)
+Jump to: [Plagiarisms test](#1-plagiarisms-test) / [Participation](#2-participation) / [Customized learning](#3-customized-learning) / [Replication projects](#4-replication-project) / [Resources for learning](#5-resources-for-learning) / [Late submission](#6-late-submission)
 
 ---
 # 1. Plagiarisms test
@@ -30,19 +30,19 @@ _For this assignment, please submit your certificate as a file via Canvas_
 # 2. Participation
 ---
 
-## 2.1 Reading annotation (5 points)
+## 2.1 Reading annotation
 
 You are expected to read and annotate the course materials of each week before class (1st week is exempt). The purpose is to have a chance to interact with your classmates, and I will have a better idea of your "pain points" before class. At least have one comment on each article, and respond to at least one comment from another classmate. This regular on-going assignment uses online annotation platform, and is due before the class day.
 
 <br>
 
-## 2.2 In class participation (5 points)
+## 2.2 In class participation
 
 Your participation is assessed by the instructor and TA based on your performance in class during the lecture, practice, and TA sessions.
 
 <br>
 
-## 2.3 Group project participation (10 points)
+## 2.3 Group project participation
 
 Your participation and responsibilities will be assessed by your group members [using this form](https://utexas.qualtrics.com/jfe/form/SV_5gqer43HwL8dfFQ).
 
@@ -61,7 +61,7 @@ _Expected deliverables_:
 
 <br>
 
-## 3.1 Learning plan proposal (5 points)
+## 3.1 Learning plan proposal
 
 You are responsible to develop an actionable and feasible learning plan. There is no required structure of the plan, but it should meet the following criteria:
 
@@ -74,11 +74,11 @@ You are responsible to develop an actionable and feasible learning plan. There i
 
 You can share learning plans with others. You can even assemble learning groups. But this is NOT a group assignment, and you will be assessed individually.
 
-_The draft proposal is due on xxx; final version is due on xxx. You cannot substantially revise your proposal to lower the requirements after it is finalized._
+_You cannot substantially revise your proposal to lower the requirements after it is finalized._
 
 <br>
 
-## 3.2 Completion (15 points)
+## 3.2 Completion
 
 You will assess your own performance using the evaluation plan you proposed.
 
@@ -178,6 +178,12 @@ The replication movement has been progressing very well in psychology, but you s
 - Other sources: Feel free to help your self!
 
 <br>
+
+---
+# 6 Late submission
+---
+
+All work is due as indicated on the course schedule. Late submission will be taken a 30% off the total possible points as late penalty. For example, for an assignment with 100 total possible points, if you submit late and graded 80, your final grade for this assignment will be 50 (= 80 − 100 ∗ 30%). Please send me a notice if you have an emergency (neither travel arrangements nor computer problems are emergencies).  The last week of class is the final makeup date for all late assignments.
 
 ---
 # References
