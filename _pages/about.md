@@ -19,7 +19,7 @@ profile:
   - [Ji Ma](https://jima.me/) (Primary Instructor)
   - [Felipe Antequera](https://www.linkedin.com/in/felipe-antequera-87489a18/?originalSubdomain=cl) (Instructor of Statistics and Teaching Assistant)
   - [Joycelyn Ovalle](https://www.linkedin.com/in/ovallejoycelyn/) (Grader)
-- Time and location (online, ): 
+- Time and location:
   - 8/25--9/17, online: **[See COVID-19 teaching adjustment here.](/COVID-19/)**
   - After 9/17, in person: M 9-12am, [SRH3.124 (61238)](/assets/3_124.pdf); T 9-12am, [SRH3.B7 (61239)](/assets/3_B7.pdf). _Attention: this is an expected plan and may change according to the university's guidelines._
 
