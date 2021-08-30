@@ -15,13 +15,13 @@ profile:
 # social: true  # includes social icons at the bottom of the page
 ---
 
-- Instructor team:
+- Instructor team (J.F.J.):
   - [Ji Ma](https://jima.me/) (Primary Instructor, maji@austin.utexas.edu)
   - [Felipe Antequera](https://www.linkedin.com/in/felipe-antequera-87489a18/?originalSubdomain=cl) (Instructor of Statistics and Teaching Assistant, felipe.antequera@utexas.edu)
   - [Joycelyn Ovalle](https://www.linkedin.com/in/ovallejoycelyn/) (Grader, joyce.ovalle@utexas.edu)
 - Time and location:
   - 8/25--9/17, online: **[See COVID-19 teaching adjustment here.](/COVID-19/)**
-  - After 9/17, expected in person: M 9-12am, [SRH3.124 (61238)](/assets/3_124.pdf); T 9-12am, [SRH3.B7 (61239)](/assets/3_B7.pdf). _Attention: this is an expected plan and may change according to the university's guidelines._
+  - After 9/17, expected in person: M 9-12am, [SRH3.124 (61238)](/assets/seats/3_124.pdf); T 9-12am, [SRH3.B7 (61239)](/assets/seats/3_B7.pdf). _Attention: this is an expected plan and may change according to the university's guidelines._
 
 ---
 
@@ -75,11 +75,13 @@ See [assignment page](/assignments) for details.
   - Presentation of your replication, 10 pts.
   - Verification report, 10 pts.
 
+
 ---
-### License for Open Education
+### Policies
 ---
 
-This syllabus and all course content created by the instructor, TA, and students are licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
+- [University Policies](/policies/)
+- License for Open Education: This syllabus and all course content created by the instructor, TA, and students are licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
