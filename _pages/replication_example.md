@@ -1,9 +1,9 @@
 ---
 layout: page
 permalink: /replication_example/
-title: Example replication studies
-# description:
-nav: false
+title: Examples
+description: A list of example replication studies.
+nav: true
 ---
 
 ---
