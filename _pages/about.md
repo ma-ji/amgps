@@ -36,6 +36,8 @@ Data crunching is hard, applying data crunching methods to empirical social scie
 
 Required textbook: {% reference MeierAppliedStatisticsPublic2014 %}
 
+[Bibliography of all readings](https://www.zotero.org/groups/4409698/pa397g/items/G3F8PFDS/library){:target="_blank"}
+
 Where to get the textbook:
 
 - [UT Co-op Textbook](https://www.universitycoop.com/adoption-search-results?ccid=293186&itemid=2439)
