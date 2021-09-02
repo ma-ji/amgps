@@ -7,7 +7,7 @@ description: A list of example replication studies.
 nav: true
 ---
 
-Jump to: [Typology of replication studies](#typology-of-replication-studies) / [Example studies](#example-studies) in [Public Administration](#public-administration), [Development Studies](#Development-Studies), [Social Issues](#Social-Issues)
+Jump to: [Typology of replication studies](#typology-of-replication-studies) / [Example studies](#example-studies) in [Public Administration](#public-administration), [Development Studies](#development-studies), [Social Issues](#social-issues)
 
 ---
 ## Typology of replication studies
