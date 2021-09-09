@@ -63,14 +63,14 @@ _Expected deliverables_:
 
 ## 3.1 Learning plan proposal
 
-You are responsible to develop an actionable and feasible learning plan. There is no required structure of the plan, but it should meet the following criteria:
+You are responsible to develop an actionable and feasible learning plan. There is no required structure of the plan, but it should have the following contents:
 
 1. Be concrete about your overall learning goals.
 2. Break down your overall goals into specific and actionable items.
-3. The plan should cover the major themes of our weekly sessions.
+3. The plan should cover the major themes of our weekly sessions. Your plan does not need to synchronize with our weekly topics.
 4. A feasible timeline.
 5. A concrete plan for assessing your performance.
-6. Maximum length 2 pages, use the space efficiently.
+6. Maximum length 2 pages, use the space efficiently and keep your plan concise.
 
 You can share learning plans with others. You can even assemble learning groups. But this is NOT a group assignment, and you will be assessed individually.
 
@@ -80,8 +80,7 @@ _You cannot substantially revise your proposal to lower the requirements after i
 
 ## 3.2 Completion
 
-You will assess your own performance using the evaluation plan you proposed.
-
+You will assess your own performance using the evaluation plan you proposed. Submit evidence (e.g., a screenshot of completed courses on DataCamp) via Canvas and we may verify.
 
 <br>
 
