@@ -30,9 +30,9 @@ profile:
 
 Data crunching is hard, applying data crunching methods to empirical social science studies is harder. This course has <a name="purposes">three purposes</a>:
 
-1. Understand basic quantitative and qualitative empirical analysis methods;
-2. Able to conduct the analysis manually and with software packages;
-3. Know how to apply these analysis methods to answering research questions from a research design perspective.
+1. Understand basic quantitative and qualitative empirical analysis methods.
+2. Able to conduct the analysis manually and with software packages.
+3. Know how to apply these analysis methods to answering research questions from a research design perspective, and know how to assess the quality of an empirical study.
 
 Required textbook: {% reference MeierAppliedStatisticsPublic2014 %}
 
