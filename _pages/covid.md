@@ -14,7 +14,7 @@ In-person teaching is an essential part of high-quality education. But given the
 ---
 
 1. **Online synchronous teaching**: We will meet during our [regular course time on Zoom](https://utexas.instructure.com/courses/1311365/external_tools/51041) for the first three weeks. 
-2. **Outdoor in-person office hours**: We also make weekly in-person experience accessible to everyone in the form of outdoor office hours. This session is from 3pm to 5pm on Friday afternoons and is optional. Wearing a mask is still strongly recommended and [appointment is required (`office hour` sheet)](https://docs.google.com/spreadsheets/d/1dTtRQwt6XPxe62AXGHzdDKFAFL9LX7BB1R-M8kk95Sw/edit?usp=sharing). We will be [meeting outside of the LBJ School (click for map direction)](/assets/img/office_hour.JPG).
+2. **Outdoor in-person office hours**: We also make weekly in-person experience accessible to everyone in the form of outdoor office hours. This session is from 3pm to 5pm on Friday afternoons and is optional. Wearing a mask is still strongly recommended and [appointment is required (`office hour` sheet)](https://docs.google.com/spreadsheets/d/1dTtRQwt6XPxe62AXGHzdDKFAFL9LX7BB1R-M8kk95Sw/edit?usp=sharing). We will be meeting in the **lobby at the front of SRH3.318**.
 3. We will record the online session for the first three weeks.
 
 ---
