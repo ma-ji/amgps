@@ -20,8 +20,14 @@ profile:
   - [Felipe Antequera](https://www.linkedin.com/in/felipe-antequera-87489a18/?originalSubdomain=cl) (Instructor of Statistics and Teaching Assistant, felipe.antequera@utexas.edu)
   - [Joycelyn Ovalle](https://www.linkedin.com/in/ovallejoycelyn/) (Grader, joyce.ovalle@utexas.edu)
 - Time and location:
-  - 8/25--9/17, online: **[See COVID-19 teaching adjustment here.](/COVID-19/)**
-  - After 9/17, expected in person: M 9-12am, [SRH3.124 (61238)](/assets/seats/3_124.pdf); T 9-12am, [SRH3.B7 (61239)](/assets/seats/3_B7.pdf). _Attention: this is an expected plan and may change according to the university's guidelines._
+  - [Weekly sessions](/schedule/): 
+    - Mon 9-12am (course# 61238), [SRH3.124](/assets/seats/3_124.pdf)
+    - Tue 9-12am (course# 61239), [SRH3.B7](/assets/seats/3_B7.pdf)
+  - TA hours: Tue 2pm-5pm and Thu 9am-12pm, SRH 3.224 [sign up on the `office_hour` sheet](https://docs.google.com/spreadsheets/d/1dTtRQwt6XPxe62AXGHzdDKFAFL9LX7BB1R-M8kk95Sw/edit?pli=1#gid=0)
+
+<!-- 8/25--9/17, online: **[See COVID-19 teaching adjustment here.](/COVID-19/)**
+  - After 9/17, expected in person:  -->
+<!-- _Attention: this is an expected plan and may change according to the university's guidelines._ -->
 
 ---
 
