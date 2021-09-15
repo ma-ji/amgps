@@ -19,11 +19,10 @@ profile:
   - [Ji Ma](https://jima.me/) (Primary Instructor, maji@austin.utexas.edu)
   - [Felipe Antequera](https://www.linkedin.com/in/felipe-antequera-87489a18/?originalSubdomain=cl) (Instructor of Statistics and Teaching Assistant, felipe.antequera@utexas.edu)
   - [Joycelyn Ovalle](https://www.linkedin.com/in/ovallejoycelyn/) (Grader, joyce.ovalle@utexas.edu)
-- Time and location:
-  - [Weekly sessions](/schedule/): 
-    - Mon 9-12am (course# 61238), [SRH3.124](/assets/seats/3_124.pdf)
-    - Tue 9-12am (course# 61239), [SRH3.B7](/assets/seats/3_B7.pdf)
-  - TA hours: Tue 2pm-5pm and Thu 9am-12pm, SRH 3.224 [sign up on the `office_hour` sheet](https://docs.google.com/spreadsheets/d/1dTtRQwt6XPxe62AXGHzdDKFAFL9LX7BB1R-M8kk95Sw/edit?pli=1#gid=0)
+- [Weekly sessions](/schedule/): 
+  - Mon 9-12am (course# 61238), [SRH3.124](/assets/seats/3_124.pdf)
+  - Tue 9-12am (course# 61239), [SRH3.B7](/assets/seats/3_B7.pdf)
+- TA hours: Tue 2pm-5pm and Thu 9am-12pm, SRH 3.224 [sign up on the `office_hour` sheet](https://docs.google.com/spreadsheets/d/1dTtRQwt6XPxe62AXGHzdDKFAFL9LX7BB1R-M8kk95Sw/edit?pli=1#gid=0)
 
 <!-- 8/25--9/17, online: **[See COVID-19 teaching adjustment here.](/COVID-19/)**
   - After 9/17, expected in person:  -->
@@ -48,8 +47,8 @@ Where to get the textbook:
 
 - [UT Co-op Textbook](https://www.universitycoop.com/adoption-search-results?ccid=293186&itemid=2439)
 - Previous versions are fine as long as the course content is covered. If the contents are substantially different from the 9th edition, you can ask your classmates for help, or use the [University Library's service](https://www.lib.utexas.edu/find-borrow-request/get-a-scan).
-- I also have requested the textbook to be available in [PCL](https://www.lib.utexas.edu/about/locations/pcl). But the availability is not guaranteed. Will update when I have the result.
-- I will provide the scanned copy of the first two chapters so that you have enough time to prepare.
+<!-- - I also have requested the textbook to be available in [PCL](https://www.lib.utexas.edu/about/locations/pcl). But the availability is not guaranteed. Will update when I have the result.
+- I will provide the scanned copy of the first two chapters so that you have enough time to prepare. -->
 
 ---
 ### Grading
