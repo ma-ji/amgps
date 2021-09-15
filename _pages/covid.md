@@ -4,7 +4,7 @@ layout: page
 permalink: /COVID-19/
 title: COVID-19
 description: Teaching arrangements and other information for COVID-19.
-nav: true
+nav: false
 ---
 
 In-person teaching is an essential part of high-quality education. But given the increasing number of COVID-19 cases and following the instructions from the University, we will make the following teaching adjustments.
