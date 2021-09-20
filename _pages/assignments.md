@@ -10,7 +10,7 @@ nav: true
 
 ---
 
-Jump to: [Plagiarisms test](#1-plagiarisms-test) / [Participation](#2-participation) / [Customized learning](#3-customized-learning) / [Replication projects](#4-replication-project) / [Resources for learning](#5-resources-for-learning) / [Late submission](#6-late-submission)
+Jump to: [Plagiarisms test](#1-plagiarisms-test) / [Participation](#2-participation) / [Customized learning](#3-customized-learning) / [Replication projects](#4-replication-project) / [Late submission](#5-late-submission) / [FAQ for Learning Plan and Replication Project](https://docs.google.com/document/d/1ZlsNc7oQ5OCEh70sqWj4kSRlqBNNMHKw2PQavE8-MCk/edit#heading=h.dnvsw5lrfgsn)
 
 ---
 # 1. Plagiarisms test
@@ -82,6 +82,14 @@ _You cannot substantially revise your proposal to lower the requirements after i
 ## 3.2 Completion
 
 You will assess your own performance using the evaluation plan you proposed. Submit evidence (e.g., a screenshot of completed courses on DataCamp) via Canvas and we may verify.
+
+---
+## 3.3 Resources for learning
+---
+
+- Free licenses for [DataCamp](https://www.datacamp.com) and [Brilliant](https://brilliant.org/) are available via Canvas.
+- Stata track: http://geocenter.github.io/StataTraining/
+- Other sources: Feel free to help your self!
 
 <br>
 
@@ -171,18 +179,9 @@ The replication movement has been progressing very well in psychology, but you s
 
 <br>
 
----
-# 5 Resources for learning
----
-
-- Free licenses for [DataCamp](https://www.datacamp.com) and [Brilliant](https://brilliant.org/) are available via Canvas.
-- Stata track: http://geocenter.github.io/StataTraining/
-- Other sources: Feel free to help your self!
-
-<br>
 
 ---
-# 6 Late submission
+# 5 Late submission
 ---
 
 All work is due as indicated on the course schedule. Late submission will be taken a 30% off the total possible points as late penalty. For example, for an assignment with 100 total possible points, if you submit late and graded 80, your final grade for this assignment will be 50 (= 80 − 100 ∗ 30%). Please send me a notice if you have an emergency (neither travel arrangements nor computer problems are emergencies).  The last week of class is the final makeup date for all late assignments.
