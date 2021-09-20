@@ -65,12 +65,13 @@ _Expected deliverables_:
 
 You are responsible to develop an actionable and feasible learning plan. There is no required structure of the plan, but it should have the following contents:
 
-1. Be concrete about your overall learning goals.
-2. Break down your overall goals into specific and actionable items.
-3. The plan should cover the major themes of our weekly sessions. Your plan does not need to synchronize with our weekly topics.
-4. A feasible timeline.
-5. A concrete plan for assessing your performance.
-6. Maximum length 2 pages, use the space efficiently and keep your plan concise.
+1. An analysis of your background, career goals, and needs of learning.
+2. Be concrete about your overall learning goals.
+3. Break down your overall goals into specific and actionable items.
+4. The plan should cover the major themes of our weekly sessions. Your plan does not need to synchronize with our weekly topics.
+5. A feasible timeline.
+6. A concrete plan for assessing your performance.
+7. Maximum length 2 pages, use the space efficiently and keep your plan concise.
 
 You can share learning plans with others. You can even assemble learning groups. But this is NOT a group assignment, and you will be assessed individually.
 
