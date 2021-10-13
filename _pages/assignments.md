@@ -140,7 +140,16 @@ A substantial part of the replication plan will go to your final replication rep
 
 ### 4.1.3 Present your replication plan
 
-Prepare a 10-minute presentation of your replication plan. Your presentation will be assessed from 1) significance, 2) novel contribution, 3) analysis of original article, 4) feasibility of replication, 5) teamwork.
+Prepare a 10-minute presentation of your replication plan. In the presentation, I expect you will discuss, but are not limited to, the following items:
+
+1. Overview of your original study.
+2. Where you will spend most of your time and why.
+3. The design of your replication.
+4. Expected results.
+5. How it ties to your learning plan.
+6. Teamwork and division of labor.
+
+Your presentation will be assessed from 1) significance, 2) novel contribution, 3) analysis of the original article, 4) feasibility of replication, 5) teamwork.
 
 <br>
 
