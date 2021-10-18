@@ -99,7 +99,7 @@ You will assess your own performance using the evaluation plan you proposed. Sub
 
 Replication is critical to scientific discovery, however, a substantial mount of studies cannot be replicated, leading to the so-called "reproducibility crisis'' in both natural and social sciences {% cite Baker500scientistslift2016 Hardwickeempiricalassessmenttransparency2020 %}. The replication projects serve two purposes: 1) get familiar with real-word research practices, which are often messy and unclear; 2) practice the empirical methods we learned in class. The reading materials in the first week are important to guiding the replication exercises.
 
-Treat the group replication project as a serious manuscript to be submitted to an academic journal. It needs to be in the "robustness" category or above {% cite FreeseReplicationSocialScience2017 -l 152 %}. If you hope a better chance of acceptance, set your target high and also be realistic. A good project needs to be a finished project in the first place.
+Treat the group replication project as a serious manuscript to be submitted to an academic journal. Set your target high and also be realistic. *A good project needs to be a finished project in the first place.*
 
 _Expected deliverables_:
 
@@ -133,10 +133,10 @@ A substantial part of the replication plan will go to your final replication rep
 2. Analysis of the original article from: a) theorization, b) research design (e.g., hypothesis and operationalization), c) analysis methods, d) results and conclusions, e) data management and documentation ([data management checklist](https://utexas.qualtrics.com/jfe/form/SV_9KqVV6FMxAcW5lY)).
 3. Replication plan: How are you going to replicate and extend the original study? You can develop the plan using the structure for analyzing the original article.
 	- The following components are required in your replication plan: (a) descriptive statistics, (b) hypothesis testing, (c) regression analysis.
-	- The following methods are optional in replication: qualitative interviews and coding, additional surveys.
+	- The following methods are optional in replication: qualitative interviews and coding, additional surveys, computational social science methods.
 4. Expected results in comparison to original article.
-5. Knowledge necessary for replicating the article and your learning plan. You may not understand all the analysis methods used in the original article, set a plan to learn the new knowledge.
-6. Effective teamwork and project management plan.
+5. Knowledge necessary for replicating the article, and how the knowledge is connected to your learning plan (explain by group member). You may not understand all the analysis methods used in the original article, set a plan to learn the new skills.
+6. Effective teamwork and project management plan. Not all of the members need to know how to run an advanced statistical analysis or how to design a rigorous empirical study, but you need to identify your strength and know how to collaborate with and complement each other. This is a more realistic scenario in the future regardless of the career you hope to pursue.
 
 ### 4.1.3 Present your replication plan
 
