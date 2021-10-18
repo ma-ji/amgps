@@ -136,7 +136,7 @@ A substantial part of the replication plan will go to your final replication rep
 	- The following methods are optional in replication: qualitative interviews and coding, additional surveys, computational social science methods.
 4. Expected results in comparison to original article.
 5. Knowledge necessary for replicating the article, and how the knowledge is connected to your learning plan (explain by group member). You may not understand all the analysis methods used in the original article, set a plan to learn the new skills.
-6. Effective teamwork and project management plan. Not all of the members need to know how to run an advanced statistical analysis or how to design a rigorous empirical study, but you need to identify your strength and know how to collaborate with and complement each other. This is a more realistic scenario in the future regardless of the career you hope to pursue.
+6. Effective teamwork and project management plan. Not all of the members need to be good at running an advanced statistical analysis or designing a rigorous empirical study, but you need to identify your strength and know how to collaborate with and complement each other. This is a more realistic scenario in the future regardless of the career you hope to pursue.
 
 ### 4.1.3 Present your replication plan
 
