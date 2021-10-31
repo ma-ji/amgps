@@ -96,3 +96,12 @@ See [assignment page](/assignments) for details.
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
+
+
+<!-- Ideas for improving:
+1. A problem set to test the understanding of basic and core concepts/methods.
+2. Weight replication project less.
+3. Choose from options: replication or customized learning.
+4. More standardized replication project.
+5. Discuss if research design component is an essential concepts in this course.
+ -->
