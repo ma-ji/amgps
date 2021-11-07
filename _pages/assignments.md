@@ -81,7 +81,12 @@ _You cannot substantially revise your proposal to lower the requirements after i
 
 ## 3.2 Completion
 
-You will assess your own performance using the evaluation plan you proposed. Submit evidence (e.g., a screenshot of completed courses on DataCamp) via Canvas and we may verify.
+You will assess your own performance using the evaluation plan you proposed. Submit your completion report (2-page maximum) via Canvas. No required format for the report, but it should at least include the following items:
+
+1. Evidence showing your completion of the planned modules/courses (e.g., screenshot, certificate, etc.; we may verify).
+2. Reflection on how these learned new skills can help your future career.
+3. What's your next step.
+
 
 ---
 ## 3.3 Resources for learning
