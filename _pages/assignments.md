@@ -81,11 +81,13 @@ _You cannot substantially revise your proposal to lower the requirements after i
 
 ## 3.2 Completion
 
-You will assess your own performance using the evaluation plan you proposed. Submit your completion report (2-page maximum) via Canvas. No required format for the report, but it should at least include the following items:
+You will assess your own performance using the evaluation plan you proposed. Submit your completion report via Canvas. No required format and page number for the report, but it should at least include the following items:
 
 1. Evidence showing your completion of the planned modules/courses (e.g., screenshot, certificate, etc.; changing the page layout & resizing any screenshots and certificates is okay).
 2. Reflection on how these learned new skills can help your future career.
 3. What's your next step.
+
+A completion report in any file format is fine (e.g., PPT/Excel/Word). Although there is no page limit, considering a report that is simple and concise (e.g., equivalent to a 2-page Word document).
 
 
 ---
