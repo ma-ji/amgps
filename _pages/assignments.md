@@ -149,7 +149,7 @@ A substantial part of the replication plan will go to your final replication rep
 
 Prepare a 10-minute presentation of your replication plan. In the presentation, I expect you will discuss, but are not limited to, the following items:
 
-1. Overview of your original study.
+1. Overview of the original study.
 2. Where you will spend most of your time and why.
 3. The design of your replication.
 4. Expected results.
@@ -162,15 +162,27 @@ Your presentation will be assessed from 1) significance, 2) novel contribution, 
 
 ## 4.2 Write and present your replication
 
+### Presenting replication report
+
+Prepare a 15-minute presentation of your replication, which should emphasize:
+
+1. Overview of the original study and its significance.
+2. The design of your replication, and what are the differences in comparison to the original study, and why you are making these changes.
+3. Compare your results to the original results, interpret the difference.
+4. Teamwork and division of labor.
+5. You intellectual growth through the customized learning and replication project.
+
+The class audience will [use this form](https://utexas.qualtrics.com/jfe/form/SV_77EJQrBapfriEZM) to evaluate your presentation, which will be used in grading.
+
+### Writing replication report (detailed instructions TBD)
+
 Use the published [replication studies](/replication_example) that are close to your areas of interest as examples, prepare a manuscript of your replication report to be submitted to an academic journal.
 
 Generally, your manuscript should include two parts: a main text published as a regular printed journal article, and an appendix usually published online. The main text summarizes, for example, significance, research design, and findings. The appendix reports all technical details that are necessary for replicating and verifying your work.
 
-Prepare a 15-minute presentation of your replication.
-
 <br>
 
-## 4.3 Verify replications
+## 4.3 Verify replications (detailed instructions TBD)
 
 Your replication report itself needs to be replicable. Each group will be assigned to verify another group's replication report and provide a _verification report_. Ideally, your group should be able to replication another group's replication with the information provided in the replication report. The verification report should point out, for example:
 
