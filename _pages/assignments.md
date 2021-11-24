@@ -167,10 +167,7 @@ Your presentation will be assessed from 1) significance, 2) novel contribution, 
 Prepare a 15-minute presentation of your replication, which should emphasize:
 
 1. Overview of the original study and its significance.
-2. Analysis of your replication:
-	2.1 The design of your replication, what are the differences in comparison to the original study, and why you are making these changes.
-	2.2 The results of your replication, the differences in comparison to the original study, and your interpretations about the differences. 
-	2.3 Your data management and documentation, and how they support the replication and transparency of your project.
+2. Analysis of your replication. (a) The design of your replication, what are the differences in comparison to the original study, and why you are making these changes. (b) The results of your replication, the differences in comparison to the original study, and your interpretations about the differences. (c) Your data management and documentation, and how they support the replication and transparency of your project.
 3. Teamwork and division of labor.
 4. You intellectual growth through the customized learning and replication project.
 
