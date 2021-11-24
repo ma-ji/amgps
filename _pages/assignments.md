@@ -169,7 +169,7 @@ Prepare a 15-minute presentation of your replication, which should emphasize:
 1. Overview of the original study and its significance.
 2. Analysis of your replication. (a) The design of your replication, what are the differences in comparison to the original study, and why you are making these changes. (b) The results of your replication, the differences in comparison to the original study, and your interpretations about the differences. (c) Your data management and documentation, and how they support the replication and transparency of your project.
 3. Teamwork and division of labor.
-4. You intellectual growth through the customized learning and replication project.
+4. Your intellectual growth through the customized learning and replication project.
 
 The class audience will [use this form](https://utexas.qualtrics.com/jfe/form/SV_77EJQrBapfriEZM) to evaluate your presentation, which will be used in grading.
 
