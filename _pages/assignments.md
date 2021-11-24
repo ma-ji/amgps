@@ -162,30 +162,21 @@ Your presentation will be assessed from 1) significance, 2) novel contribution, 
 
 ## 4.2 Write and present your replication
 
-### Presenting replication report
+### 4.2.1 Presenting replication
 
 Prepare a 15-minute presentation of your replication, which should emphasize:
-
-I just add to the second point (or maybe additional ones)
-- Data collection and data cleaning process.
-- Brief explanation of the regression model / hypothesis test using the tools learned in class.
-
-As for the evaluation form
-- Use group number instead of name could be more straightforward (we can tell them the group number so they include it in the title of the presentation)
-- Add a section to evaluate clarity of conclusions.
-
 
 1. Overview of the original study and its significance.
 2. Analysis of your replication:
 	2.1 The design of your replication, what are the differences in comparison to the original study, and why you are making these changes.
 	2.2 The results of your replication, the differences in comparison to the original study, and your interpretations about the differences. 
-	2.3 Your data management and documentation, and how they support 
+	2.3 Your data management and documentation, and how they support the replication and transparency of your project.
 3. Teamwork and division of labor.
 4. You intellectual growth through the customized learning and replication project.
 
 The class audience will [use this form](https://utexas.qualtrics.com/jfe/form/SV_77EJQrBapfriEZM) to evaluate your presentation, which will be used in grading.
 
-### Writing replication report (detailed instructions TBD)
+### 4.2.2 Writing replication report (detailed instructions TBD)
 
 Use the published [replication studies](/replication_example) that are close to your areas of interest as examples, prepare a manuscript of your replication report to be submitted to an academic journal.
 
