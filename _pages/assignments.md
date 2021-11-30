@@ -202,7 +202,7 @@ The main text summarizes, for example:
 	e. Research findings, comparison to original findings, and interpretations.
 	f. Discuss the implications and limitations of your replication, and the directions for future studies (either replication or original study).
 
-The appendix reports all technical details that are necessary for replicating and verifying your work.
+The appendix reports all technical details that are necessary for replicating and verifying your work. Please also include a Contributor Roles Taxonomy (e.g., [page 3 of this document](https://airtable.com/shrl5UMskMvXAQtJZ/tblRP1FEjVqLJj4Oc/viwP8TKBc1fVjs8By/rec8w5b2URfH3nKOc/fldhLKSsSRj1AwSAO/attHArL66gTQO6WAy?backgroundColor=blue&viewControls=on)) and any other documents that you want to present to us.
 
 Organize all the files in one single directory with full documentation (e.g., "readme" files and annotations in code scripts). You are expected to submit that single directory as a compressed file (e.g., .zip file) via Canvas.
 
