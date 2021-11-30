@@ -15,6 +15,9 @@ profile:
 # social: true  # includes social icons at the bottom of the page
 ---
 
+<!-- 1. Make WOS core DB required for selecting articles. -->
+2. 
+
 - Instructor team (J.F.J.):
   - [Ji Ma](https://jima.me/) (Primary Instructor, maji@austin.utexas.edu)
   - [Felipe Antequera](https://www.linkedin.com/in/felipe-antequera-87489a18/?originalSubdomain=cl) (Instructor of Statistics and Teaching Assistant, felipe.antequera@utexas.edu)

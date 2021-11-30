@@ -160,9 +160,7 @@ Your presentation will be assessed from 1) significance, 2) novel contribution, 
 
 <br>
 
-## 4.2 Write and present your replication
-
-### 4.2.1 Presenting replication
+## 4.2 Present your replication
 
 Prepare a 15-minute presentation of your replication, which should emphasize:
 
@@ -173,29 +171,42 @@ Prepare a 15-minute presentation of your replication, which should emphasize:
 
 The class audience will [use this form](https://utexas.qualtrics.com/jfe/form/SV_77EJQrBapfriEZM) to evaluate your presentation, which will be used in grading.
 
-### 4.2.2 Writing replication report (detailed instructions TBD)
-
-Use the published [replication studies](/replication_example) that are close to your areas of interest as examples, prepare a manuscript of your replication report to be submitted to an academic journal.
-
-Generally, your manuscript should include two parts: a main text published as a regular printed journal article, and an appendix usually published online. The main text summarizes, for example, significance, research design, and findings. The appendix reports all technical details that are necessary for replicating and verifying your work.
-
 <br>
 
-## 4.3 Verify replications (detailed instructions TBD)
+## 4.3 Verify replications
 
-Your replication report itself needs to be replicable. Each group will be assigned to verify another group's replication report and provide a _verification report_. Ideally, your group should be able to replication another group's replication with the information provided in the replication report. The verification report should point out, for example:
+Your replication report itself needs to be replicable. Each group will be assigned to verify another group's replication and provide a verification report. Ideally, your group should be able to replicate another group's project with the information provided in the replication report. The verification report should point out, for example:
 
-- Whether you can or cannot replicate the replication study, and why.
-- Whether the theorization and operationalization are sound.
+- Whether you can or cannot run through the replication study, and why. You don't have be crystal clear about the other group's analysis, but there should be no obstacles for running the analysis through.
+- Whether the theorization and operationalization are sound and clear.
 - Whether the analysis is robust.
-- Whether the findings and conclusions are valid.
+- Whether the findings and conclusions are valid and robust.
 - How the replication study can be improved.
 
-All groups will revise and finalize their replications using the feedback from the verification reports. 
+The purpose of the verification report is to provide concrete feedback on how to improve the replication report. So be constructive, insightful, and concise. *No page limit but 2 pages are expected if excluding tables and figures.* All groups will revise and finalize their replication reports using the feedback from the verification reports.
 
 <br>
 
-## 4.4 Replication resources
+## 4.3 Final replication report
+
+Use the [published replication studies](/replication_example/#example-studies) that are close to your areas of interest as references.
+
+Generally, your manuscript should include two parts: a main text published as a regular printed journal article, and an appendix usually published online. 
+
+The main text summarizes, for example:
+
+	a. Theories and significance of the research topic/question.
+	b. How original study(s) responded to the research gaps and challenges.
+	c. Your replication contribution.
+	d. The research design of your replication, and how it ties to your contribution.
+	e. Research findings, comparison to original findings, and interpretations.
+	f. Discuss the implications and limitations of your replication, and the directions for future studies (either replication or original study).
+
+The appendix reports all technical details that are necessary for replicating and verifying your work.
+
+Organize all the files in one single directory with full documentation (e.g., "readme" files and annotations in code scripts). You are expected to submit that single directory as a compressed file (e.g., .zip file) via Canvas.
+
+## 4.5 Replication resources
 
 The replication movement has been progressing very well in psychology, but you should be able to find replication studies in policy and public administration related areas. Here are some resources for your reference:
 
