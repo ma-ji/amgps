@@ -204,7 +204,12 @@ The main text summarizes, for example:
 
 The appendix reports all technical details that are necessary for replicating and verifying your work. Please also include a Contributor Roles Taxonomy (e.g., [page 3 of this document](https://airtable.com/shrl5UMskMvXAQtJZ/tblRP1FEjVqLJj4Oc/viwP8TKBc1fVjs8By/rec8w5b2URfH3nKOc/fldhLKSsSRj1AwSAO/attHArL66gTQO6WAy?backgroundColor=blue&viewControls=on)) and any other documents that you want to present to us.
 
-Organize all the files in one single directory with full documentation (e.g., "readme" files and annotations in code scripts). You are expected to submit that single directory as a compressed file (e.g., .zip file) via Canvas.
+There is no required format for the report, but a few suggestions on formatting and submission:
+
+	- Include page numbers, all figures and tables need a title (see other studies as examples).
+	- Do not use excessive decimal positions when presenting numbers (up to 3 valid decimal positions is more than enough, e.g., 0.000123).
+	- Tables and figures should be mentioned in the context of the report (A figure/table does not explain by itself, you guide the reader to understand/read/interpret tables and figures). 
+	- Organize all the files in one single directory with full documentation (e.g., "readme" files and annotations in code scripts). You are expected to submit that single directory as a compressed file (e.g., .zip file) via Canvas.
 
 ## 4.5 Replication resources
 
