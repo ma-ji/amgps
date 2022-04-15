@@ -8,6 +8,11 @@ nav: true
 ---
 
 
+# Assignment structure
+
+![Assignment structure](/assets/img/structure-assignments.png)
+
+
 ---
 
 Jump to: [Plagiarisms test](#1-plagiarisms-test) / [Participation](#2-participation) / [Customized learning](#3-customized-learning) / [Replication projects](#4-replication-project) / [Late submission](#5-late-submission) / [FAQ for Learning Plan and Replication Project](https://docs.google.com/document/d/1ZlsNc7oQ5OCEh70sqWj4kSRlqBNNMHKw2PQavE8-MCk/edit#heading=h.dnvsw5lrfgsn)
