@@ -16,7 +16,6 @@ profile:
 ---
 
 <!-- 1. Make WOS core DB required for selecting articles. -->
-2. 
 
 - Instructor team (J.F.J.):
   - [Ji Ma](https://jima.me/) (Primary Instructor, maji@austin.utexas.edu)
