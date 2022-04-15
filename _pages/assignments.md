@@ -10,8 +10,7 @@ nav: true
 
 # Assignment structure
 
-![Assignment structure](/assets/img/structure-assignments.png | width=200)
-
+<img src="/assets/img/structure-assignments.png" width="200"/>
 
 ---
 
