@@ -7,8 +7,7 @@ title: Assignments
 nav: true
 ---
 
-[![Assignment structure](https://amgps.jima.me/assets/img/structure-assignments.png
-)](https://amgps.jima.me/assets/img/structure-assignments.png)
+{% include figure.html path="assets/img/structure-assignments.png" class="img-fluid rounded z-depth-1" zoomable=true %}
 
 ---
 
