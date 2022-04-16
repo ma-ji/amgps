@@ -12,7 +12,7 @@ nav: true
 
 ---
 
-Jump to: [Plagiarisms test](#1-plagiarisms-test) / [Participation](#2-participation) / [Customized learning](#3-customized-learning) / [Replication projects](#4-replication-project) / [Late submission](#5-late-submission) / [FAQ for Learning Plan and Replication Project](https://docs.google.com/document/d/1ZlsNc7oQ5OCEh70sqWj4kSRlqBNNMHKw2PQavE8-MCk/edit#heading=h.dnvsw5lrfgsn)
+Jump to: [Plagiarisms test](#1-plagiarisms-test) / [Participation](#2-participation) / [Customized learning](#3-customized-learning) / [Standard test - qualitative](#) / [Standard test - quantitative](#) / [Research replication](#4-research-replication) / [Late submission](#5-late-submission) / [FAQ for Learning Plan and Replication Project](https://docs.google.com/document/d/1ZlsNc7oQ5OCEh70sqWj4kSRlqBNNMHKw2PQavE8-MCk/edit#heading=h.dnvsw5lrfgsn)
 
 ---
 # 1. Plagiarisms test
@@ -103,7 +103,7 @@ A completion report in any file format is fine (e.g., PPT/Excel/Word). Although 
 <br>
 
 ---
-# 4. Replication project
+# 4. Research replication
 ---
 
 Replication is critical to scientific discovery, however, a substantial mount of studies cannot be replicated, leading to the so-called "reproducibility crisis'' in both natural and social sciences {% cite Baker500scientistslift2016 Hardwickeempiricalassessmenttransparency2020 %}. The replication projects serve two purposes: 1) get familiar with real-word research practices, which are often messy and unclear; 2) practice the empirical methods we learned in class. The reading materials in the first week are important to guiding the replication exercises.
