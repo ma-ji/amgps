@@ -4,7 +4,7 @@ layout: page
 permalink: /test_qual/
 title: Standard test - qualitative (TBD)
 # description:
-nav: true
+nav: false
 ---
 
 This is a open book test. It has X questions. 
