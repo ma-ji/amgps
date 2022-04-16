@@ -7,7 +7,11 @@ title: Assignments
 nav: true
 ---
 
-{% include figure.html path="assets/img/structure-assignments.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/structure-assignments.png" data-zoomable>
+    </div>
+</div>
 
 ---
 
