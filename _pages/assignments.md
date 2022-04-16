@@ -7,10 +7,8 @@ title: Assignments
 nav: true
 ---
 
-
-# Assignment structure
-
-[<img src="/assets/img/structure-assignments.png" width="800"/>](/assets/img/structure-assignments.png)
+[![Assignment structure](https://amgps.jima.me/assets/img/structure-assignments.png
+)](https://amgps.jima.me/assets/img/structure-assignments.png)
 
 ---
 
