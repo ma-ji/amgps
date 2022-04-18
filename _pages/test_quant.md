@@ -7,7 +7,9 @@ title: Standard test - quantitative (TBD)
 nav: false
 ---
 
-This is a partial open-book test. You can review and practice on these questions, which will remain the same in the final test. The actual dataset will be provided when you take the final test.
+This is a partial open-book test. You can review and practice on these questions using the sample dataset. The questions will remain the same in the final test (but instructors reserve the rights to change anything as they like!). The actual dataset will be provided when you take the final test.
+
+The final test will be administered on Dec xxx, 2022. Submit a Word document with your analysis, code, figures, and tables etc. on Canvas.
 
 1. Read or open the dataset using the analysis program of your choice.
 
