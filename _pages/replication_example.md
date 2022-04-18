@@ -4,7 +4,7 @@ layout: page
 permalink: /replication_example/
 title: Examples
 description: A list of example replication studies.
-nav: true
+nav: false
 ---
 
 Jump to: [Typology of replication studies](#typology-of-replication-studies) / [Example studies](#example-studies) in [Public Administration](#public-administration), [Development Studies](#development-studies), [Social Issues](#social-issues)
