@@ -10,7 +10,7 @@ nav: false
 Jump to: [Typology of replication studies](#typology-of-replication-studies) / [Example studies](#example-studies) in [Public Administration](#public-administration), [Development Studies](#development-studies), [Social Issues](#social-issues)
 
 ---
-## Typology of replication studies
+## Types of replication studies
 ---
 
 My colleague [Dr. René Bekkers](https://renebekkers.wordpress.com/) gave a clear summary of different types of replication studies according to {% cite FreeseReplicationSocialScience2017 -l 152 %} in his course _[Replication and Preregistration in Social Science](https://osf.io/bh3yp/)_:
