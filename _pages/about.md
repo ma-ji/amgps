@@ -65,8 +65,6 @@ See a list of [Assignments](/assignments/)
 
 See [assignment page](/assignments) for details.
 
-TBD.
-
 <!-- - Plagiarism test - 5 pts
 - Participation - 20 pts
   - Reading annotation, 5 pts.
