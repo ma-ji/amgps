@@ -19,14 +19,11 @@ profile:
 
 - Instructor team:
   - [Ji Ma](https://jima.me/) (Primary Instructor, maji@austin.utexas.edu)
-  - **TA and Grader positions are open to UT graduate students, send me an email with your CV if you are interested.**
-- [Weekly sessions](/schedule/): 2022 fall, TBD.
+  - [Felipe Antequera](https://www.linkedin.com/in/felipe-antequera-87489a18/?originalSubdomain=cl) (Instructor of Statistics and Teaching Assistant, felipe.antequera@utexas.edu)
+  - [Joycelyn Ovalle](https://www.linkedin.com/in/ovallejoycelyn/) (Teaching Assistant and Grader, joyce.ovalle@utexas.edu)
+- [Weekly session](/schedule/): TH 9:00AM-12:00PM, SRH 3.122
 - TA hours: TBD.
 
-<!-- 
-  - [Felipe Antequera](https://www.linkedin.com/in/felipe-antequera-87489a18/?originalSubdomain=cl) (Instructor of Statistics and Teaching Assistant, felipe.antequera@utexas.edu)
-  - [Joycelyn Ovalle](https://www.linkedin.com/in/ovallejoycelyn/) (Grader, joyce.ovalle@utexas.edu)
- -->
 ---
 
 ### Overview
