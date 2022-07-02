@@ -16,6 +16,8 @@ A typical weekly session will have three components:
 
 3. **In class preparation and presentation.** The last hour helps you prepare your replication project.
 
+\*\: Attendance optional if pass the [Standardized Quantitative Test](/test_quant/) in Week 3.
+
 <div class="post">
 
     {% if page.week %}
