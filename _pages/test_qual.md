@@ -17,11 +17,16 @@ _Research question statement._
 
 ## 1. Research design report
 
-In narrative form: major concepts, questions, mechanisms, "sampling strategy," interview outline, and coding plan.
+1.1 Statements of specific research questions.
+1.2 Major concepts and supporting literature.
+1.3 Sampling strategy for interview.
 
-## 2. Interview questionnaire
+## 2. Interview
 
-Detailed interview questions.
+2.1 Interview outline.
+2.2 Framework of interview.
+2.3 Detailed interview questions.
+2.4 Coding plan.
 
 ## 3. Timeline
 
