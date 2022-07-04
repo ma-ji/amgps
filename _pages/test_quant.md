@@ -11,7 +11,7 @@ This is a partial open-book test. You can review and practice on these questions
 
 There will be two opportunities to take the final test.
 
-- Week 4: If you are very familiar to these topics, you can take the final test during office hours.
+- Week 4: If you are very familiar with these topics, you can take the final test during office hours.
 	- If you pass the test with A- or above:
 		1. Attendance for Weeks 4-9 are optional.
 		2. The [Research Replication](#4-research-replication) is required to be final project.
