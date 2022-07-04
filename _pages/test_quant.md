@@ -23,6 +23,8 @@ There will be two opportunities to take the final test.
 	- For all conditions, the assignment on which you are scored higher will be counted toward your final grade for this course.
 - On Dec xxx, 2022: This is the final and only chance for those who haven't taken the test. Submit a Word document with your analysis, code, figures, and tables etc. via Canvas.
 
+# Sample questions
+
 1. Read or open the dataset using the analysis program of your choice (code, screenshot of the data).
 
 2. Describe the dataset: 
