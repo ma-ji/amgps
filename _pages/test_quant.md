@@ -13,14 +13,14 @@ There will be two opportunities to take the final test.
 
 - Week 4: If you are very familiar with these topics, you can take the final test during office hours.
 	- If you pass the test with A- or above:
-		1. Attendance for Weeks 4-9 are optional.
-		2. The [Research Replication](#4-research-replication) is required to be final project.
+		1. Attendance for Weeks 4-9 is optional.
+		2. The [Research Replication](#4-research-replication) is required to be your final project.
 		3. You need to meet TA at office hours to report and discuss your replication project weekly.
 	- If below A-:
-		1. There is no second chance to take the test again.
-		2. Attendance for Weeks 4-9 are required.
-		3. You have the option to do the [Research Replication](#4-research-replication) as your final project.
-	- For all scenarios, the assignment on which you are scored higher will be counted toward your final grade for this course.
+		1. No second chance to take the test again.
+		2. Attendance for Weeks 4-9 is required.
+		3. You have the option to do the [Research Replication](#4-research-replication) as your final project. If you choose to do the Replication, you need to meet TA at office hours to report and discuss your replication project weekly.
+	- For all conditions, the assignment on which you are scored higher will be counted toward your final grade for this course.
 - On Dec xxx, 2022: This is the final and only chance for those who haven't taken the test. Submit a Word document with your analysis, code, figures, and tables etc. via Canvas.
 
 1. Read or open the dataset using the analysis program of your choice (code, screenshot of the data).
