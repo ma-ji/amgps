@@ -15,7 +15,7 @@ nav: true
 
 ---
 
-Assignments: [Plagiarism test (5%)](#1-plagiarisms-test) / [Participation (10%)](#2-participation) / [Customized learning (30%)](#3-customized-learning) / [Standard Test - Qualitative (25%)](/test_qual) / [Standard Test - Quantitative (30%)](/test_quant) / [Research Replication](#4-research-replication)
+Assignments: [Plagiarism test (5%)](#1-plagiarisms-test) / [Participation (10%)](#2-participation) / [Customized learning (30%)](#3-customized-learning) / [Standard Test - Qualitative (25%)](/test_qual) / [Standard Test - Quantitative (30%)](/test_quant) / [Research Replication (30%)](#4-research-replication)
 
 Resources: [FAQ for Learning Plan and Replication Project](https://docs.google.com/document/d/1ZlsNc7oQ5OCEh70sqWj4kSRlqBNNMHKw2PQavE8-MCk/edit#heading=h.dnvsw5lrfgsn) / From previous semesters: [Example learning plan](#) / [Example replication studies](#) / [Peer-reviewed example replication studies](https://amgps.jima.me/replication_example/) / [Late submission](#5-late-submission) /
 
@@ -34,29 +34,29 @@ _For this assignment, please submit your certificate as a file via Canvas_
 <br>
 
 ---
-# 2. Participation
+# 2. Participation (10%)
 ---
 
-## 2.1 Reading annotation
+## 2.1 Reading annotation (5%)
 
 You are expected to read and annotate the course materials of each week before class (1st week is exempt). The purpose is to have a chance to interact with your classmates, and I will have a better idea of your "pain points" before class. At least have one comment on each article, and respond to at least one comment from another classmate. This regular on-going assignment uses online annotation platform, and is due before the class day.
 
 <br>
 
-## 2.2 In class participation
+## 2.2 In class participation (5%)
 
 Your participation is assessed by the instructor and TA based on your performance in class during the lecture, practice, and TA sessions.
-
+<!-- 
 <br>
 
 ## 2.3 Group project participation
 
 Your participation and responsibilities will be assessed by your group members [using this form](https://utexas.qualtrics.com/jfe/form/SV_5gqer43HwL8dfFQ).
-
+ -->
 <br>
 
 ---
-# 3. Customized learning
+# 3. Customized learning (30%)
 ---
 
 You may want to develop your own skill set over the semester. For example, learning how to use Python and R rather than using Stata or Excel. This assignment accommodates such a need. This is a DIY and self-motivated module.
@@ -68,7 +68,7 @@ _Expected deliverables_:
 
 <br>
 
-## 3.1 Learning plan proposal
+## 3.1 Learning plan proposal (10%)
 
 You are responsible to develop an actionable and feasible learning plan. There is no required structure of the plan, but it should have the following contents:
 
@@ -86,7 +86,7 @@ _You cannot substantially revise your proposal to lower the requirements after i
 
 <br>
 
-## 3.2 Completion
+## 3.2 Completion (20%)
 
 You will assess your own performance using the evaluation plan you proposed. Submit your completion report via Canvas. No required format and page number for the report, but it should at least include the following items:
 
@@ -108,7 +108,7 @@ A completion report in any file format is fine (e.g., PPT/Excel/Word). Although 
 <br>
 
 ---
-# 4. Research replication
+# 4. Research replication (30%)
 ---
 
 Replication is critical to scientific discovery, however, a substantial mount of studies cannot be replicated, leading to the so-called "reproducibility crisis'' in both natural and social sciences {% cite Baker500scientistslift2016 Hardwickeempiricalassessmenttransparency2020 %}. The replication projects serve two purposes: 1) get familiar with real-word research practices, which are often messy and unclear; 2) practice the empirical methods we learned in class. The reading materials in the first week are important to guiding the replication exercises.
@@ -117,7 +117,7 @@ Treat the group replication project as a serious manuscript to be submitted to a
 
 _Expected deliverables_:
 
-**Maximum 4 students per group.**
+<!-- **Maximum 4 students per group.** -->
 
 	- A replication plan.
 	- A presentation of your replication plan in class.
@@ -127,7 +127,7 @@ _Expected deliverables_:
 
 <br>
 
-## 4.1 Plan your replication
+## 4.1 Plan your replication (10%)
 
 ### 4.1.1 Choosing the right article(s) for replication
 
@@ -161,12 +161,12 @@ Prepare a 10-minute presentation of your replication plan. In the presentation, 
 3. The design of your replication.
 4. Expected results.
 5. How it ties to your learning plan.
-6. Teamwork and division of labor.
+<!-- 6. Teamwork and division of labor. -->
 
-Your presentation will be assessed from 1) significance, 2) novel contribution, 3) analysis of the original article, 4) feasibility of replication, 5) teamwork.
+Your presentation will be assessed from 1) significance, 2) novel contribution, 3) analysis of the original article, 4) feasibility of replication.
 
 <br>
-
+<!-- 
 ## 4.2 Present your replication
 
 Prepare a 15-minute presentation of your replication, which should emphasize:
@@ -178,9 +178,9 @@ Prepare a 15-minute presentation of your replication, which should emphasize:
 
 The class audience will [use this form](https://utexas.qualtrics.com/jfe/form/SV_77EJQrBapfriEZM) to evaluate your presentation, which will be used in grading.
 
-<br>
+<br> -->
 
-## 4.3 Verify replications
+<!-- ## 4.3 Verify replications
 
 Your replication report itself needs to be replicable. Each group will be assigned to verify another group's replication and provide a verification report. Ideally, your group should be able to replicate another group's project with the information provided in the replication report. The verification report should point out, for example:
 
@@ -192,9 +192,9 @@ Your replication report itself needs to be replicable. Each group will be assign
 
 The purpose of the verification report is to provide concrete feedback on how to improve the replication report. So be constructive, insightful, and concise. *No page limit but 2 pages are expected if excluding tables and figures.* All groups will revise and finalize their replication reports using the feedback from the verification reports.
 
-<br>
+<br> -->
 
-## 4.3 Final replication report
+## 4.2 Final replication report (20%)
 
 Use the [published replication studies](/replication_example/#example-studies) that are close to your areas of interest as references.
 
