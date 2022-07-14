@@ -36,18 +36,19 @@ _For this assignment, please submit your certificate as a file via Canvas_
 <br>
 
 ---
-# 2. Participation (10%)
+# 2. Participation (5%)
 ---
 
-## 2.1 Reading annotation (5%)
+## 2.1 Reading annotation (3%)
 
 You are expected to read and annotate the course materials of each week before class (1st week is exempt). The purpose is to have a chance to interact with your classmates, and I will have a better idea of your "pain points" before class. At least have one comment on each article, and respond to at least one comment from another classmate. This regular on-going assignment uses online annotation platform, and is due before the class day.
 
 <br>
 
-## 2.2 In class participation (5%)
+## 2.2 In class participation (2%)
 
 Your participation is assessed by the instructor and TA based on your performance in class during the lecture, practice, and TA sessions.
+
 <!-- 
 <br>
 
@@ -55,6 +56,7 @@ Your participation is assessed by the instructor and TA based on your performanc
 
 Your participation and responsibilities will be assessed by your group members [using this form](https://utexas.qualtrics.com/jfe/form/SV_5gqer43HwL8dfFQ).
  -->
+
 <br>
 
 ---
@@ -125,7 +127,6 @@ _Expected deliverables_:
 	- A presentation of your replication plan in class.
 	- A replication report.
 	- A presentation of your replication study.
-	- A verification report of another group's replication study.
 
 <br>
 
@@ -168,6 +169,7 @@ Prepare a 10-minute presentation of your replication plan. In the presentation, 
 Your presentation will be assessed from 1) significance, 2) novel contribution, 3) analysis of the original article, 4) feasibility of replication.
 
 <br>
+
 <!-- 
 ## 4.2 Present your replication
 
@@ -220,7 +222,7 @@ There is no required format for the report, but a few suggestions on formatting 
 	- Tables and figures should be mentioned in the context of the report (A figure/table does not explain by itself, you guide the reader to understand/read/interpret tables and figures). 
 	- Organize all the files in one single directory with full documentation (e.g., "readme" files and annotations in code scripts). You are expected to submit that single directory as a compressed file (e.g., .zip file) via Canvas.
 
-## 4.5 Replication resources
+## 4.3 Replication resources
 
 The replication movement has been progressing very well in psychology, but you should be able to find replication studies in policy and public administration related areas. Here are some resources for your reference:
 
