@@ -16,7 +16,7 @@ week: true
 
 3. **In class preparation and presentation.** The last hour helps you prepare your replication project. -->
 
-\*\: Attendance optional if pass the [Standard Test - Quantitative](/test_quant/) in Week 3.
+\*\: Attendance optional if pass the [Standard Test - Quantitative](/test_quant/) in Week 4.
 
 <div class="post">
 
