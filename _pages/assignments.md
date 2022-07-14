@@ -20,7 +20,7 @@ nav: true
 Assignment list:
 
 - [Plagiarism test (5%)](#1-plagiarisms-test) / [Participation (5%)](#2-participation) / [Customized learning (30%)](#3-customized-learning)
-- [Standard Test - Qualitative (30%)](/test_qual) / [Standard Test - Quantitative (30%)](/test_quant)
+- Standard Tests: [Qualitative (30%)](/test_qual) / [Quantitative (30%)](/test_quant)
 - [Research Replication (30%)](#4-research-replication)
 
 Resources:
