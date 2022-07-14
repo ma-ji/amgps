@@ -15,7 +15,9 @@ nav: true
 
 ---
 
-Assignments: [Plagiarism test (5%)](#1-plagiarisms-test) / [Participation (10%)](#2-participation) / [Customized learning (30%)](#3-customized-learning) / [Standard Test - Qualitative (25%)](/test_qual) / [Standard Test - Quantitative (30%)](/test_quant) / [Research Replication (30%)](#4-research-replication)
+[Deadlines Overview](https://docs.google.com/spreadsheets/d/1BodknGLQXk-SalurPwSca07uoTo8e3bgXPgFnsbRrE8/edit#gid=1609820407)
+
+Assignment list: [Plagiarism test (5%)](#1-plagiarisms-test) / [Participation (10%)](#2-participation) / [Customized learning (30%)](#3-customized-learning) / [Standard Test - Qualitative (25%)](/test_qual) / [Standard Test - Quantitative (30%)](/test_quant) / [Research Replication (30%)](#4-research-replication)
 
 Resources: [FAQ for Learning Plan and Replication Project](https://docs.google.com/document/d/1ZlsNc7oQ5OCEh70sqWj4kSRlqBNNMHKw2PQavE8-MCk/edit#heading=h.dnvsw5lrfgsn) / From previous semesters: [Example learning plan](#) / [Example replication studies](#) / [Peer-reviewed example replication studies](https://amgps.jima.me/replication_example/) / [Late submission](#5-late-submission) /
 
