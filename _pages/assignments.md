@@ -142,7 +142,7 @@ _Expected deliverables_:
 
 ## 4.1 Plan your replication (10%)
 
-### 4.1.1 Choosing the right article(s) for replication
+### 4.1.1 Choose the right article(s) for replication
 
 You should keep three criteria in mind while searching for the articles for replication {% cite StojmenovskaTeachingReplicationGraduate2019 -l 305 %}: 
 
@@ -167,13 +167,13 @@ A substantial part of the replication plan will go to your final replication rep
 
 ### 4.1.3 Present your replication plan
 
-Prepare a 10-minute presentation of your replication plan. In the presentation, I expect you will discuss, but are not limited to, the following items:
+Prepare a 10-minute presentation of your replication plan. In the presentation, you are expected to discuss, but not limited to, the following items:
 
-1. Overview of the original study.
+1. Overview of the original study, with a focus on its analysis methods.
 2. Where you will spend most of your time and why.
 3. The design of your replication.
 4. Expected results.
-5. How it ties to your learning plan.
+5. How the replication project ties to your learning plan.
 <!-- 6. Teamwork and division of labor. -->
 
 Your presentation will be assessed from 1) significance, 2) novel contribution, 3) analysis of the original article, 4) feasibility of replication.
