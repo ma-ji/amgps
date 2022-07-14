@@ -26,7 +26,7 @@ Assignment list:
 Resources:
 
 - [FAQ for Learning Plan and Replication Project](https://docs.google.com/document/d/1ZlsNc7oQ5OCEh70sqWj4kSRlqBNNMHKw2PQavE8-MCk/edit#heading=h.dnvsw5lrfgsn)
-- From previous semesters: [Example learning plan](#) / [Example replication studies](#)
+- From previous semesters: [Learning plan](#) / [Replication study](#)
 - [Peer-reviewed example replication studies](https://amgps.jima.me/replication_example/)
 
 [Late submission](#5-late-submission)
