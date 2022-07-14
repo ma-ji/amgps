@@ -13,7 +13,7 @@ There will be two opportunities to take the final test.
 
 - **Week 4: If you are very familiar with these topics, you can take the final test during office hours.**
 	- If you pass the test with A- or above:
-		1. Attendance for Weeks 4-9 is optional.
+		1. Attendance for [selected weeks](/schedule/) is optional.
 		2. The [Research Replication](#4-research-replication) is required to be your final project.
 		3. You need to meet TA at office hours to report and discuss your replication project weekly.
 	- If below A-:
