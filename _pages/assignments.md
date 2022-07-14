@@ -36,7 +36,7 @@ _For this assignment, please submit your certificate as a file via Canvas_
 <br>
 
 ---
-# 2. Participation (5%)
+# 2. Participation
 ---
 
 ## 2.1 Reading annotation (3%)
@@ -60,7 +60,7 @@ Your participation and responsibilities will be assessed by your group members [
 <br>
 
 ---
-# 3. Customized learning (30%)
+# 3. Customized learning
 ---
 
 You may want to develop your own skill set over the semester. For example, learning how to use Python and R rather than using Stata or Excel. This assignment accommodates such a need. This is a DIY and self-motivated module.
@@ -112,7 +112,7 @@ A completion report in any file format is fine (e.g., PPT/Excel/Word). Although 
 <br>
 
 ---
-# 4. Research replication (30%)
+# 4. Research replication
 ---
 
 Replication is critical to scientific discovery, however, a substantial mount of studies cannot be replicated, leading to the so-called "reproducibility crisis'' in both natural and social sciences {% cite Baker500scientistslift2016 Hardwickeempiricalassessmenttransparency2020 %}. The replication projects serve two purposes: 1) get familiar with real-word research practices, which are often messy and unclear; 2) practice the empirical methods we learned in class. The reading materials in the first week are important to guiding the replication exercises.
