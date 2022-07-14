@@ -3,7 +3,7 @@ order: 1
 layout: page
 permalink: /schedule/
 title: Schedule
-description: Course schedule by week. Click for weekly details. Subject to change.
+description: TH 9:00AM-12:00PM, SRH 3.122. Click for weekly details. Subject to change.
 nav: true
 week: true
 ---
