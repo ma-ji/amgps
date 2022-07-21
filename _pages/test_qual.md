@@ -2,7 +2,7 @@
 order: 
 layout: page
 permalink: /test_qual/
-title: Standard test - qualitative (TBD)
+title: Standard Test - Qualitative (TBD)
 # description:
 nav: false
 ---
