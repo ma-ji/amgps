@@ -19,7 +19,7 @@ nav: true
 
 Assignment list:
 
-- [Plagiarism test (5%)](#1-plagiarisms-test) / [Participation (5%)](#2-participation) / [Customized learning (30%)](#3-customized-learning)
+- [Plagiarism test (5%)](#1-plagiarisms-test) / [Participation (10%)](#2-participation) / [Customized learning (25%)](#3-customized-learning)
 - Standard Tests: [Qualitative (30%)](/test_qual) / [Quantitative (30%)](/test_quant)
 - [Research Replication (30%)](#4-research-replication)
 
@@ -49,13 +49,13 @@ _For this assignment, please submit your certificate as a file via Canvas_
 # 2. Participation
 ---
 
-## 2.1 Reading annotation (3%)
+## 2.1 Reading annotation (5%)
 
 You are expected to read and annotate the course materials of each week before class (1st week is exempt). The purpose is to have a chance to interact with your classmates, and I will have a better idea of your "pain points" before class. At least have one comment on each article, and respond to at least one comment from another classmate. This regular on-going assignment uses online annotation platform, and is due before the class day.
 
 <br>
 
-## 2.2 In class participation (2%)
+## 2.2 In class participation (5%)
 
 Your participation is assessed by the instructor and TA based on your performance in class during the lecture, practice, and TA sessions.
 
@@ -100,7 +100,7 @@ _You cannot substantially revise your proposal to lower the requirements after i
 
 <br>
 
-## 3.2 Completion (20%)
+## 3.2 Completion (15%)
 
 You will assess your own performance using the evaluation plan you proposed. Submit your completion report via Canvas. No required format and page number for the report, but it should at least include the following items:
 
