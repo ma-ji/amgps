@@ -115,6 +115,7 @@ A completion report in any file format is fine (e.g., PPT/Excel/Word). Although 
 ## 3.3 Resources for learning
 ---
 
+- [Find your next job in data science in the Federal Government](https://usajobs.github.io/microsite-data-science/)
 - Free licenses for [DataCamp](https://www.datacamp.com) and [Brilliant](https://brilliant.org/) are available via Canvas.
 - Stata track: http://geocenter.github.io/StataTraining/
 - Other sources: Feel free to help your self!
