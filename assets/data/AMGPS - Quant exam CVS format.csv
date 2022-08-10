@@ -1,0 +1,643 @@
+﻿Country Name,Country Code,Indicator Name,Indicator Code,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+Aruba,ABW,GDP (current US$),NY.GDP.MKTP.CD,2615083799,2727932961,2791061453,2963128492,2983798883,3092178771,3202234637,3310055866,2496648045,
+Aruba,ABW,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+Aruba,ABW,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,75.299,75.441,75.583,75.725,75.868,76.01,76.152,76.293,76.434,
+Afghanistan,AFG,GDP (current US$),NY.GDP.MKTP.CD,19907317066,20146404996,20497126770,19134211764,18116562465,18753469630,18053228579,18799450743,20116137326,
+Afghanistan,AFG,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,54.5,,,,,
+Afghanistan,AFG,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,62.054,62.525,62.966,63.377,63.763,64.13,64.486,64.833,65.173,
+Angola,AGO,GDP (current US$),NY.GDP.MKTP.CD,1.25E+11,1.33E+11,1.37E+11,87219290029,49840494026,68972763787,77792940077,69309104807,53619071176,72546985709
+Angola,AGO,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,32.3,,,
+Angola,AGO,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,57.236,58.054,58.776,59.398,59.925,60.379,60.782,61.147,61.487,
+Albania,ALB,GDP (current US$),NY.GDP.MKTP.CD,12319830437,12776220507,13228147516,11386850130,11861199831,13019689337,15156432310,15401830754,15131866271,18260043500
+Albania,ALB,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,14.3,,,,23.7,23.4,23,21.8,,
+Albania,ALB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,77.252,77.554,77.813,78.025,78.194,78.333,78.458,78.573,78.686,
+Andorra,AND,GDP (current US$),NY.GDP.MKTP.CD,3188652765,3193512950,3271685597,2789881259,2896610480,3000162081,3218419897,3155149348,2891001149,3329910724
+Andorra,AND,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+Andorra,AND,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,,,,,,,,,,
+United Arab Emirates,ARE,GDP (current US$),NY.GDP.MKTP.CD,3.75E+11,3.90E+11,4.03E+11,3.58E+11,3.57E+11,3.86E+11,4.22E+11,4.17E+11,3.59E+11,
+United Arab Emirates,ARE,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+United Arab Emirates,ARE,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,76.711,76.903,77.095,77.285,77.47,77.647,77.814,77.972,78.12,
+Argentina,ARG,GDP (current US$),NY.GDP.MKTP.CD,5.46E+11,5.52E+11,5.26E+11,5.95E+11,5.58E+11,6.44E+11,5.25E+11,4.53E+11,3.90E+11,4.91E+11
+Argentina,ARG,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,30.3,25.7,32,35.5,42,
+Argentina,ARG,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,75.598,75.756,75.913,76.068,76.221,76.372,76.52,76.667,76.813,
+Armenia,ARM,GDP (current US$),NY.GDP.MKTP.CD,10619320049,11121465767,11609512940,10553337673,10546135160,11527458566,12457941907,13619291361,12641209802,13861183874
+Armenia,ARM,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,26.4,27,
+Armenia,ARM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,73.82,74.056,74.273,74.467,74.64,74.797,74.945,75.087,75.224,
+American Samoa,ASM,GDP (current US$),NY.GDP.MKTP.CD,640000000,638000000,643000000,673000000,671000000,612000000,639000000,648000000,709000000,
+American Samoa,ASM,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+American Samoa,ASM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,,,,,,,,,,
+Antigua and Barbuda,ATG,GDP (current US$),NY.GDP.MKTP.CD,1199948148,1181448148,1249733333,1336692593,1436585185,1467977778,1605944444,1687533333,1370281481,1471125926
+Antigua and Barbuda,ATG,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+Antigua and Barbuda,ATG,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,76.087,76.218,76.349,76.483,76.617,76.752,76.885,77.016,77.146,
+Australia,AUS,GDP (current US$),NY.GDP.MKTP.CD,1.55E+12,1.58E+12,1.47E+12,1.35E+12,1.21E+12,1.33E+12,1.43E+12,1.39E+12,1.33E+12,1.54E+12
+Australia,AUS,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+Australia,AUS,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,82.04634146,82.14878049,82.3,82.4,82.44878049,82.5,82.74878049,82.9,83.2,
+Austria,AUT,GDP (current US$),NY.GDP.MKTP.CD,4.09E+11,4.30E+11,4.43E+11,3.82E+11,3.96E+11,4.17E+11,4.55E+11,4.45E+11,4.33E+11,4.77E+11
+Austria,AUT,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,14.4,14.1,13.9,14.1,14.4,14.3,13.3,13.9,,
+Austria,AUT,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,80.93658537,81.13658537,81.4902439,81.1902439,81.64146341,81.64390244,81.69268293,81.89512195,81.19268293,
+Azerbaijan,AZE,GDP (current US$),NY.GDP.MKTP.CD,69683935845,74164435946,75244294275,53074370486,37867518957,40865558912,47112941176,48174235294,42693000000,54622176471
+Azerbaijan,AZE,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,6,,,,,,,,,
+Azerbaijan,AZE,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.506,71.768,72.022,72.266,72.493,72.693,72.864,73.005,73.123,
+Burundi,BDI,GDP (current US$),NY.GDP.MKTP.CD,2333341375,2451606684,2705783272,3104003611,2639321196,2712324087,2660123624,2581268126,2780510625,2902029386
+Burundi,BDI,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,64.9,,,,,,,,
+Burundi,BDI,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,58.568,59.148,59.665,60.123,60.528,60.898,61.247,61.584,61.916,
+Belgium,BEL,GDP (current US$),NY.GDP.MKTP.CD,4.96E+11,5.22E+11,5.35E+11,4.62E+11,4.76E+11,5.03E+11,5.43E+11,5.35E+11,5.22E+11,6.00E+11
+Belgium,BEL,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,14.8,14.1,,
+Belgium,BEL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,80.38536585,80.58780488,81.28780488,80.99268293,81.43902439,81.49268293,81.59512195,81.99512195,80.79512195,
+Benin,BEN,GDP (current US$),NY.GDP.MKTP.CD,11141358945,12517845732,13284528654,11388160958,11821066153,12701654743,14262407011,14391686633,15651545332,17785640079
+Benin,BEN,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,40.1,,,,38.5,,
+Benin,BEN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,59.842,60.092,60.345,60.608,60.885,61.174,61.47,61.771,62.077,
+Burkina Faso,BFA,GDP (current US$),NY.GDP.MKTP.CD,12561016091,13444301139,13943016924,11832159276,12833363370,14106956830,15890065020,16178162030,17933606353,19737615114
+Burkina Faso,BFA,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,41.4,,,
+Burkina Faso,BFA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,58.374,58.937,59.45,59.919,60.354,60.768,61.174,61.577,61.981,
+Bangladesh,BGD,GDP (current US$),NY.GDP.MKTP.CD,1.33E+11,1.50E+11,1.73E+11,1.95E+11,2.65E+11,2.94E+11,3.21E+11,3.51E+11,3.74E+11,4.16E+11
+Bangladesh,BGD,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,24.3,,,,,
+Bangladesh,BGD,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.606,70.93,71.231,71.514,71.785,72.052,72.32,72.591,72.868,
+Bulgaria,BGR,GDP (current US$),NY.GDP.MKTP.CD,54300857424,55810138436,57082011260,50781996713,53953897624,59199447421,66363422450,68915416142,69889347433,80271119426
+Bulgaria,BGR,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,22.9,23.4,22,22.6,23.8,,
+Bulgaria,BGR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,74.31463415,74.86097561,74.46585366,74.61463415,74.81219512,74.81463415,74.96341463,75.11219512,73.60731707,
+Bahrain,BHR,GDP (current US$),NY.GDP.MKTP.CD,30749308511,32539468085,33387712766,31050638298,32234973404,35473776596,37802005319,38653318085,34723357447,38868663032
+Bahrain,BHR,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+Bahrain,BHR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,76.342,76.484,76.624,76.762,76.899,77.032,77.163,77.292,77.419,
+"Bahamas, The",BHS,GDP (current US$),NY.GDP.MKTP.CD,10720500000,10562800000,11176100000,11861900000,11834600000,12357600000,12755800000,13192800000,9699500000,11208600000
+"Bahamas, The",BHS,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+"Bahamas, The",BHS,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,72.424,72.62,72.847,73.088,73.329,73.554,73.752,73.918,74.053,
+Bosnia and Herzegovina,BIH,GDP (current US$),NY.GDP.MKTP.CD,17221192487,18172335776,18560861398,16219819344,16914287593,18079076427,20177422311,20201323283,19955120005,22571512867
+Bosnia and Herzegovina,BIH,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,16.9,,,,,,
+Bosnia and Herzegovina,BIH,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,76.401,76.569,76.723,76.865,76.998,77.128,77.262,77.401,77.545,
+Belarus,BLR,GDP (current US$),NY.GDP.MKTP.CD,65685102555,75527984234,78813839984,56454734397,47722657821,54726595249,60031262269,64409647194,61489588895,68218816484
+Belarus,BLR,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,6.3,5.5,4.8,5.1,5.7,5.9,5.6,5,4.8,
+Belarus,BLR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.96585366,72.47073171,72.97073171,73.62439024,73.82682927,74.12926829,74.17560976,74.22682927,74.22682927,
+Belize,BLZ,GDP (current US$),NY.GDP.MKTP.CD,1531348953,1581844936,1676406802,1734320479,1796928937,1844906693,1887465218,1945250236,1585631670,1789923264
+Belize,BLZ,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+Belize,BLZ,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,73.044,73.452,73.782,74.034,74.219,74.365,74.496,74.623,74.754,
+Bermuda,BMU,GDP (current US$),NY.GDP.MKTP.CD,6378188000,6465756000,6413988000,6654541000,6899911000,7142316000,7225977000,7423465000,6881662000,7080900000
+Bermuda,BMU,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+Bermuda,BMU,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,81.67780488,80.57243902,80.79731707,81.01219512,81.22707317,81.44195122,81.65170732,81.86658537,82.05609756,
+Bolivia,BOL,GDP (current US$),NY.GDP.MKTP.CD,27084497482,30659338886,32996188017,33000198249,33941126194,37508642171,40287647931,40895322851,36629843806,40408208524
+Bolivia,BOL,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,37.2,39,
+Bolivia,BOL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.01,69.468,69.891,70.277,70.626,70.945,71.239,71.513,71.771,
+Brazil,BRA,GDP (current US$),NY.GDP.MKTP.CD,2.47E+12,2.47E+12,2.46E+12,1.80E+12,1.80E+12,2.06E+12,1.92E+12,1.87E+12,1.45E+12,1.61E+12
+Brazil,BRA,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+Brazil,BRA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,74.209,74.483,74.745,74.994,75.23,75.456,75.672,75.881,76.084,
+Barbados,BRB,GDP (current US$),NY.GDP.MKTP.CD,4610095998,4677248302,4696344342,4724691213,4832811756,4981588900,5097283213,5304164323,4689534962,4900800000
+Barbados,BRB,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+Barbados,BRB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,78.547,78.633,78.717,78.801,78.888,78.981,79.081,79.19,79.308,
+Brunei Darussalam,BRN,GDP (current US$),NY.GDP.MKTP.CD,19047940301,18093829923,17098342541,12930394938,11400854268,12128104859,13567351175,13469422959,12005825770,14006569576
+Brunei Darussalam,BRN,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+Brunei Darussalam,BRN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,74.962,75.075,75.193,75.318,75.45,75.585,75.722,75.86,75.998,
+Bhutan,BTN,GDP (current US$),NY.GDP.MKTP.CD,1781281282,1756215665,1907090813,2003598213,2158972129,2450364928,2446866405,2535657069,2315436303,
+Bhutan,BTN,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,12,,,,,8.2,,,,
+Bhutan,BTN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.263,69.662,70.046,70.419,70.781,71.129,71.46,71.777,72.08,
+Botswana,BWA,GDP (current US$),NY.GDP.MKTP.CD,14380004175,14901750991,15654660710,13578754072,15082578065,16088437675,16914245098,16695925027,14930072799,17613846473
+Botswana,BWA,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+Botswana,BWA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,63.511,64.976,66.265,67.338,68.178,68.812,69.275,69.592,69.793,
+Central African Republic,CAF,GDP (current US$),NY.GDP.MKTP.CD,2510126699,1691544192,1894813505,1695825708,1825018191,2072349974,2220978978,2221301401,2326720921,2516498299
+Central African Republic,CAF,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+Central African Republic,CAF,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,48.638,49.371,50.129,50.881,51.593,52.24,52.805,53.283,53.679,
+Canada,CAN,GDP (current US$),NY.GDP.MKTP.CD,1.83E+12,1.85E+12,1.81E+12,1.56E+12,1.53E+12,1.65E+12,1.73E+12,1.74E+12,1.65E+12,1.99E+12
+Canada,CAN,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+Canada,CAN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,81.64878049,81.74878049,81.8,81.9,81.9,81.9,82.04878049,82.04878049,81.74878049,
+Switzerland,CHE,GDP (current US$),NY.GDP.MKTP.CD,6.92E+11,7.13E+11,7.34E+11,7.02E+11,6.96E+11,7.04E+11,7.36E+11,7.32E+11,7.52E+11,8.13E+11
+Switzerland,CHE,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,14.5,13.8,15.6,14.7,15.5,14.6,16,15.5,,
+Switzerland,CHE,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,82.69756098,82.79756098,83.19756098,82.89756098,83.60243902,83.55121951,83.75365854,83.90487805,83.1,
+Chile,CHL,GDP (current US$),NY.GDP.MKTP.CD,2.67E+11,2.77E+11,2.59E+11,2.42E+11,2.49E+11,2.76E+11,2.95E+11,2.79E+11,2.53E+11,3.17E+11
+Chile,CHL,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,14.4,,11.7,,8.6,,,10.8,
+Chile,CHL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,79.176,79.349,79.504,79.646,79.779,79.909,80.042,80.181,80.329,
+China,CHN,GDP (current US$),NY.GDP.MKTP.CD,8.53E+12,9.57E+12,1.05E+13,1.11E+13,1.12E+13,1.23E+13,1.39E+13,1.43E+13,1.47E+13,1.77E+13
+China,CHN,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,10.2,8.5,7.2,5.7,4.5,3.1,1.7,0.6,0,
+China,CHN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,75.013,75.321,75.629,75.928,76.21,76.47,76.704,76.912,77.097,
+Cote d'Ivoire,CIV,GDP (current US$),NY.GDP.MKTP.CD,36302305578,42760237561,48843008580,45814637971,47964234560,51588158718,58011466451,58539424930,61348579465,69764827467
+Cote d'Ivoire,CIV,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,44.4,,,39.5,,,
+Cote d'Ivoire,CIV,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,54.271,54.906,55.508,56.065,56.567,57.017,57.422,57.783,58.104,
+Cameroon,CMR,GDP (current US$),NY.GDP.MKTP.CD,30155064574,33728622819,36386546918,32210232912,33814337900,36098550142,39973839065,39670977333,40804449726,45238613480
+Cameroon,CMR,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,37.5,,,,,,,
+Cameroon,CMR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,56.073,56.576,57.083,57.583,58.063,58.511,58.921,59.292,59.626,
+"Congo, Dem. Rep.",COD,GDP (current US$),NY.GDP.MKTP.CD,29306235826,32679745298,35909040266,37917704900,37134799975,38019265626,47568210068,51775830726,48716960860,53958573693
+"Congo, Dem. Rep.",COD,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,63.9,,,,,,,,,
+"Congo, Dem. Rep.",COD,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,57.914,58.381,58.828,59.254,59.655,60.026,60.368,60.681,60.971,
+"Congo, Rep.",COG,GDP (current US$),NY.GDP.MKTP.CD,17692911281,17958720704,17912907682,11890259177,10219341017,11094823677,13670038020,12750338736,10483151094,12523961677
+"Congo, Rep.",COG,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+"Congo, Rep.",COG,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,61.423,62.022,62.582,63.097,63.556,63.954,64.29,64.57,64.804,
+Colombia,COL,GDP (current US$),NY.GDP.MKTP.CD,3.71E+11,3.82E+11,3.81E+11,2.93E+11,2.83E+11,3.12E+11,3.34E+11,3.23E+11,2.70E+11,3.14E+11
+Colombia,COL,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,35.7,42.5,
+Colombia,COL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,75.882,76.105,76.322,76.531,76.732,76.925,77.109,77.287,77.46,
+Comoros,COM,GDP (current US$),NY.GDP.MKTP.CD,1015843369,1116224161,1149587652,966029542,1012835518,1077439663,1188797575,1195019559,1223876065,1327964249
+Comoros,COM,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,42.4,,,,,,,,
+Comoros,COM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,62.595,62.922,63.214,63.471,63.7,63.912,64.118,64.321,64.525,
+Cabo Verde,CPV,GDP (current US$),NY.GDP.MKTP.CD,1741809809,1850470042,1859898513,1596800287,1663008687,1769787215,1966501118,1981845741,1703698677,1936174043
+Cabo Verde,CPV,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,35,,,,,,
+Cabo Verde,CPV,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.445,71.661,71.886,72.117,72.347,72.57,72.782,72.981,73.166,
+Costa Rica,CRI,GDP (current US$),NY.GDP.MKTP.CD,47231651863,50949672206,52016408951,56441917653,58847016045,60516043590,62420165100,64417670083,62158002233,64282438667
+Costa Rica,CRI,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,23.5,23.3,24.6,23.6,22.9,22.1,22.9,23.9,30,
+Costa Rica,CRI,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,79.074,79.234,79.398,79.565,79.738,79.914,80.095,80.279,80.465,
+Cuba,CUB,GDP (current US$),NY.GDP.MKTP.CD,73141000000,77148000000,80656000000,87133000000,91370000000,96851000000,1.00E+11,1.03E+11,1.07E+11,
+Cuba,CUB,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+Cuba,CUB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,78.446,78.485,78.521,78.561,78.607,78.662,78.726,78.802,78.892,
+Curacao,CUW,GDP (current US$),NY.GDP.MKTP.CD,3024525140,3039944134,3048435754,3042737430,3014748603,3009497207,3020388817,2995185487,2496174736,
+Curacao,CUW,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+Curacao,CUW,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,77.52439024,77.82682927,77.97560976,78.07560976,77.7195122,78.01707317,,,,
+Cyprus,CYP,GDP (current US$),NY.GDP.MKTP.CD,24978513427,23900872626,23156850007,19842404305,20953442550,22870833710,25522671233,25758357775,24692095945,27719337670
+Cyprus,CYP,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,15.3,14.4,16.2,16.1,15.7,15.4,14.7,14.3,,
+Cyprus,CYP,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,79.812,79.999,80.178,80.35,80.513,80.672,80.828,80.982,81.135,
+Czech Republic,CZE,GDP (current US$),NY.GDP.MKTP.CD,2.09E+11,2.12E+11,2.09E+11,1.88E+11,1.96E+11,2.19E+11,2.49E+11,2.52E+11,2.45E+11,2.82E+11
+Czech Republic,CZE,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,9.7,9.7,9.1,9.6,10.1,9.5,,
+Czech Republic,CZE,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,78.07560976,78.17560976,78.82439024,78.57804878,79.02682927,78.97804878,79.02926829,79.22926829,78.22682927,
+Germany,DEU,GDP (current US$),NY.GDP.MKTP.CD,3.53E+12,3.73E+12,3.89E+12,3.36E+12,3.47E+12,3.69E+12,3.98E+12,3.89E+12,3.85E+12,4.22E+12
+Germany,DEU,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,16.1,16.7,16.7,16.5,16.1,16,18.9,18.5,,
+Germany,DEU,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,80.53902439,80.4902439,81.0902439,80.64146341,80.9902439,80.99268293,80.89268293,81.29268293,80.94146341,
+Djibouti,DJI,GDP (current US$),NY.GDP.MKTP.CD,1353632942,2042817163,2214679081,2424391785,2604955229,2762581334,2913466732,3088853639,3181071154,3371102124
+Djibouti,DJI,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,21.1,,,,
+Djibouti,DJI,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,61.395,62.239,63.171,64.136,65.064,65.893,66.582,67.112,67.49,
+Dominica,DMA,GDP (current US$),NY.GDP.MKTP.CD,485996296.3,498296296.3,520207407.4,540737037,576229629.6,521551851.9,554770370.4,611537037,504214814.8,545618518.5
+Dominica,DMA,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+Dominica,DMA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,,,,,,,,,,
+Denmark,DNK,GDP (current US$),NY.GDP.MKTP.CD,3.27E+11,3.44E+11,3.53E+11,3.03E+11,3.13E+11,3.32E+11,3.57E+11,3.48E+11,3.56E+11,3.97E+11
+Denmark,DNK,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,12.1,,
+Denmark,DNK,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,80.05121951,80.3,80.7,80.70243902,80.85365854,81.10243902,80.95365854,81.45121951,81.55121951,
+Dominican Republic,DOM,GDP (current US$),NY.GDP.MKTP.CD,60681537196,62682163837,67179914027,71164825257,75704720190,79997975622,85555378043,88941299734,78844702329,94243453937
+Dominican Republic,DOM,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,25.6,22.8,21,,
+Dominican Republic,DOM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,72.523,72.763,73.003,73.241,73.471,73.689,73.892,74.081,74.257,
+Algeria,DZA,GDP (current US$),NY.GDP.MKTP.CD,2.09E+11,2.10E+11,2.14E+11,1.66E+11,1.60E+11,1.70E+11,1.75E+11,1.72E+11,1.45E+11,1.68E+11
+Algeria,DZA,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+Algeria,DZA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,75.436,75.661,75.878,76.09,76.298,76.499,76.693,76.88,77.063,
+Ecuador,ECU,GDP (current US$),NY.GDP.MKTP.CD,87924544000,95129659000,1.02E+11,99290381000,99937696000,1.04E+11,1.08E+11,1.08E+11,99291124000,1.06E+11
+Ecuador,ECU,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,27.3,25.6,22.5,23.3,22.9,21.5,23.2,25,33,
+Ecuador,ECU,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,75.495,75.707,75.923,76.143,76.365,76.584,76.8,77.01,77.216,
+"Egypt, Arab Rep.",EGY,GDP (current US$),NY.GDP.MKTP.CD,2.79E+11,2.88E+11,3.06E+11,3.29E+11,3.32E+11,2.36E+11,2.50E+11,3.03E+11,3.65E+11,4.04E+11
+"Egypt, Arab Rep.",EGY,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,27.8,,32.5,,,,
+"Egypt, Arab Rep.",EGY,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.736,70.928,71.117,71.302,71.482,71.656,71.825,71.99,72.15,
+Eritrea,ERI,GDP (current US$),NY.GDP.MKTP.CD,,,,,,,,,,
+Eritrea,ERI,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+Eritrea,ERI,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,63.238,63.726,64.201,64.664,65.111,65.538,65.941,66.321,66.679,
+Spain,ESP,GDP (current US$),NY.GDP.MKTP.CD,1.32E+12,1.36E+12,1.37E+12,1.20E+12,1.23E+12,1.31E+12,1.42E+12,1.39E+12,1.28E+12,1.43E+12
+Spain,ESP,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,20.4,22.2,22.1,22.3,21.6,21.5,20.7,21,,
+Spain,ESP,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,82.42682927,83.07804878,83.22926829,82.83170732,83.32926829,83.28292683,83.43170732,83.83170732,82.33414634,
+Estonia,EST,GDP (current US$),NY.GDP.MKTP.CD,23019150071,25115753366,26634083965,22890762090,24072829277,26924385103,30489500905,31045591753,30650285472,36262924354
+Estonia,EST,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,18.6,,21.6,21.7,21,21.9,21.7,20.7,,
+Estonia,EST,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,76.32682927,77.14146341,77.03414634,77.5902439,77.64146341,78.09268293,78.24390244,78.64634146,78.34634146,
+Ethiopia,ETH,GDP (current US$),NY.GDP.MKTP.CD,43310721414,47648211133,55612228234,64589334979,74296618481,81770791971,84269348327,95912590628,1.08E+11,1.11E+11
+Ethiopia,ETH,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,23.5,,,,,,
+Ethiopia,ETH,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,63.281,63.961,64.547,65.048,65.482,65.872,66.24,66.597,66.953,
+Finland,FIN,GDP (current US$),NY.GDP.MKTP.CD,2.58E+11,2.71E+11,2.75E+11,2.35E+11,2.41E+11,2.56E+11,2.76E+11,2.69E+11,2.72E+11,2.99E+11
+Finland,FIN,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,11.8,12.8,12.4,11.6,11.5,12,11.6,12.2,,
+Finland,FIN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,80.62682927,80.97560976,81.1804878,81.4804878,81.42926829,81.63170732,81.73414634,81.98292683,82.13170732,
+Fiji,FJI,GDP (current US$),NY.GDP.MKTP.CD,3972012571,4190143206,4856963230,4682546863,4930204230,5353404422,5581371850,5496264766,4574413823,4592118710
+Fiji,FJI,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,24.1,,
+Fiji,FJI,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,66.859,66.95,67.03,67.103,67.175,67.252,67.341,67.444,67.561,
+France,FRA,GDP (current US$),NY.GDP.MKTP.CD,2.68E+12,2.81E+12,2.86E+12,2.44E+12,2.47E+12,2.60E+12,2.79E+12,2.73E+12,2.63E+12,2.94E+12
+France,FRA,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,13.8,,
+France,FRA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,81.96829268,82.2195122,82.7195122,82.32195122,82.57317073,82.57560976,82.67560976,82.82682927,82.17560976,
+Faroe Islands,FRO,GDP (current US$),NY.GDP.MKTP.CD,2414380665,2677296441,2901131403,2561824641,2804863556,2969876872,3180074747,3268839776,3240759989,
+Faroe Islands,FRO,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+Faroe Islands,FRO,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,81.1902439,81.44146341,81.59268293,81.79268293,82.09268293,82.29268293,82.54390244,82.79268293,83.09268293,
+"Micronesia, Fed. Sts.",FSM,GDP (current US$),NY.GDP.MKTP.CD,327248700,317214400,319271200,316489900,332265200,366666800,401932300,412479413.4,407515928,404178049.8
+"Micronesia, Fed. Sts.",FSM,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,41.2,,,,,,,,
+"Micronesia, Fed. Sts.",FSM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,66.817,66.986,67.152,67.315,67.471,67.618,67.755,67.883,68.002,
+Gabon,GAB,GDP (current US$),NY.GDP.MKTP.CD,17170465294,17595745653,18203968002,14383107714,14023890620,14929488771,16867325127,16874405840,15316824039,18269350434
+Gabon,GAB,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,33.4,,,,
+Gabon,GAB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,62.924,63.648,64.318,64.913,65.418,65.839,66.187,66.467,66.69,
+United Kingdom,GBR,GDP (current US$),NY.GDP.MKTP.CD,2.72E+12,2.80E+12,3.09E+12,2.96E+12,2.72E+12,2.70E+12,2.90E+12,2.88E+12,2.76E+12,3.19E+12
+United Kingdom,GBR,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,17,18.6,,,,
+United Kingdom,GBR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,80.90487805,81.00487805,81.30487805,80.95609756,81.15609756,81.25609756,81.25609756,81.20487805,80.90243902,
+Georgia,GEO,GDP (current US$),NY.GDP.MKTP.CD,16488403076,17189551521,17627003455,14953950557,15141758567,16242916916,17596922470,17470436259,15842922533,18700241392
+Georgia,GEO,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,30,26.2,23.5,21.6,22,21.9,20.1,19.5,21.3,
+Georgia,GEO,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,72.097,72.412,72.707,72.973,73.207,73.414,73.6,73.767,73.919,
+Ghana,GHA,GDP (current US$),NY.GDP.MKTP.CD,41270954737,62823043706,54782847753,49406568433,56165172899,60406382899,67299280680,68337537816,70043199814,77594279055
+Ghana,GHA,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,24.2,,,,23.4,,,,,
+Ghana,GHA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,61.72,62.064,62.416,62.772,63.124,63.463,63.78,64.074,64.347,
+Gibraltar,GIB,GDP (current US$),NY.GDP.MKTP.CD,,,,,,,,,,
+Gibraltar,GIB,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+Gibraltar,GIB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,,,,,,,,,,
+Guinea,GIN,GDP (current US$),NY.GDP.MKTP.CD,7638045254,8376613843,8778473615,8794202444,8595955581,10324668267,11857030337,13442861444,14169626010,15850520384
+Guinea,GIN,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,43.7,,,
+Guinea,GIN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,57.905,58.447,59.016,59.598,60.17,60.706,61.185,61.602,61.962,
+"Gambia, The",GMB,GDP (current US$),NY.GDP.MKTP.CD,1415006238,1375608956,1229460602,1378176868,1484579844,1504909753,1670670669,1813608280,1830413000,2078070684
+"Gambia, The",GMB,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,48.6,,,,,,
+"Gambia, The",GMB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,60.178,60.426,60.667,60.91,61.166,61.44,61.735,62.05,62.383,
+Guinea-Bissau,GNB,GDP (current US$),NY.GDP.MKTP.CD,989271229.6,1046087418,1054915645,1048229629,1179004941,1350177128,1504630121,1439638443,1431758243,1638517533
+Guinea-Bissau,GNB,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,47.7,,,
+Guinea-Bissau,GNB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,55.645,56.117,56.556,56.959,57.328,57.673,58.003,58.322,58.634,
+Equatorial Guinea,GNQ,GDP (current US$),NY.GDP.MKTP.CD,22388345810,21948835350,21765454404,13185496836,11240809132,12200912828,13097011208,11364134109,10099157270,12269392789
+Equatorial Guinea,GNQ,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+Equatorial Guinea,GNQ,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,56.288,56.642,57.001,57.359,57.713,58.061,58.402,58.735,59.057,
+Greece,GRC,GDP (current US$),NY.GDP.MKTP.CD,2.42E+11,2.39E+11,2.35E+11,1.96E+11,1.93E+11,2.00E+11,2.12E+11,2.05E+11,1.89E+11,2.16E+11
+Greece,GRC,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,23.1,22.1,21.4,21.2,20.2,18.5,17.9,17.7,,
+Greece,GRC,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,80.63414634,81.28536585,81.38536585,81.03658537,81.38780488,81.28780488,81.78780488,81.63902439,81.08780488,
+Grenada,GRD,GDP (current US$),NY.GDP.MKTP.CD,799882259.3,842620111.1,911497407.4,997007925.9,1061640741,1125685185,1166523556,1213485185,1043411111,1122083185
+Grenada,GRD,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+Grenada,GRD,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,72.669,72.579,72.503,72.445,72.408,72.388,72.384,72.397,72.426,
+Greenland,GRL,GDP (current US$),NY.GDP.MKTP.CD,2609667674,2684952727,2842048998,2499115623,2707146783,2851610656,3055791341,2994332324,3075968329,
+Greenland,GRL,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+Greenland,GRL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.55,71.57341463,71.98560976,71.97731707,71.82512195,71.5797561,71.88658537,72.04756098,71.40463415,
+Guatemala,GTM,GDP (current US$),NY.GDP.MKTP.CD,49593961142,52996540704,57852399964,62186186576,66053725049,71654134379,73208583759,77020015201,77604632621,85986321551
+Guatemala,GTM,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,59.3,,,,,,,
+Guatemala,GTM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,72.236,72.596,72.935,73.25,73.541,73.81,74.063,74.302,74.529,
+Guam,GUM,GDP (current US$),NY.GDP.MKTP.CD,5265000000,5399000000,5610000000,5799000000,5901000000,6013000000,6060000000,6364000000,5844000000,
+Guam,GUM,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+Guam,GUM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,78.408,78.649,78.895,79.144,79.391,79.631,79.859,80.074,80.277,
+Guyana,GUY,GDP (current US$),NY.GDP.MKTP.CD,4063089192,4167800259,4127659492,4279840194,4482697337,4748174334,4787636237,5173760192,5471256595,7409179921
+Guyana,GUY,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+Guyana,GUY,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,68.575,68.819,69.049,69.262,69.454,69.624,69.774,69.906,70.023,
+"Hong Kong SAR, China",HKG,GDP (current US$),NY.GDP.MKTP.CD,2.63E+11,2.76E+11,2.91E+11,3.09E+11,3.21E+11,3.41E+11,3.62E+11,3.63E+11,3.45E+11,3.68E+11
+"Hong Kong SAR, China",HKG,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+"Hong Kong SAR, China",HKG,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,83.4804878,83.83170732,83.9804878,84.27804878,84.22682927,84.6804878,84.93414634,85.07804878,85.38780488,
+Honduras,HND,GDP (current US$),NY.GDP.MKTP.CD,18528601901,18499710128,19756494435,20979767785,21717622071,23136232230,24067778954,25089976947,23827840810,28488668302
+Honduras,HND,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,49.7,51.5,49.7,49.8,50.4,48,,
+Honduras,HND,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,73.814,74.051,74.278,74.495,74.701,74.898,75.088,75.27,75.448,
+Croatia,HRV,GDP (current US$),NY.GDP.MKTP.CD,57192346923,58889082315,58330289757,50163192883,52295158344,56214427431,62247874949,62246206341,57203783203,67837788544
+Croatia,HRV,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,19.5,19.4,20,19.5,20,19.3,18.3,18.3,,
+Croatia,HRV,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,76.92439024,77.12682927,77.47804878,77.27560976,78.02195122,77.82682927,78.07073171,78.42439024,77.72439024,
+Haiti,HTI,GDP (current US$),NY.GDP.MKTP.CD,13708926466,14902474091,15139264670,14833154472,13987693739,15035560373,16455034353,14785839383,14508218017,20944392615
+Haiti,HTI,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,58.5,,,,,,,,,
+Haiti,HTI,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,61.26,61.658,62.069,62.485,62.896,63.29,63.66,64.001,64.315,
+Hungary,HUN,GDP (current US$),NY.GDP.MKTP.CD,1.29E+11,1.36E+11,1.41E+11,1.25E+11,1.29E+11,1.43E+11,1.61E+11,1.64E+11,1.57E+11,1.82E+11
+Hungary,HUN,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,14.5,13.4,12.8,12.3,12.3,,
+Hungary,HUN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,75.06341463,75.56585366,75.76341463,75.56829268,76.06341463,75.81707317,76.06585366,76.3195122,75.61707317,
+Indonesia,IDN,GDP (current US$),NY.GDP.MKTP.CD,9.18E+11,9.13E+11,8.91E+11,8.61E+11,9.32E+11,1.02E+12,1.04E+12,1.12E+12,1.06E+12,1.19E+12
+Indonesia,IDN,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,12,11.4,11.3,11.2,10.9,10.6,9.8,9.4,9.8,
+Indonesia,IDN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.866,70.179,70.481,70.768,71.035,71.282,71.509,71.716,71.908,
+India,IND,GDP (current US$),NY.GDP.MKTP.CD,1.83E+12,1.86E+12,2.04E+12,2.10E+12,2.29E+12,2.65E+12,2.70E+12,2.83E+12,2.67E+12,3.17E+12
+India,IND,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+India,IND,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,67.545,67.931,68.286,68.607,68.897,69.165,69.416,69.656,69.887,
+Ireland,IRL,GDP (current US$),NY.GDP.MKTP.CD,2.25E+11,2.38E+11,2.59E+11,2.92E+11,2.99E+11,3.35E+11,3.85E+11,3.99E+11,4.26E+11,4.99E+11
+Ireland,IRL,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,13.9,,
+Ireland,IRL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,80.84634146,80.94878049,81.34878049,81.45365854,81.65365854,82.15609756,82.20487805,82.70243902,82.20487805,
+"Iran, Islamic Rep.",IRN,GDP (current US$),NY.GDP.MKTP.CD,6.44E+11,4.93E+11,4.60E+11,4.08E+11,4.58E+11,4.87E+11,3.31E+11,2.91E+11,2.32E+11,
+"Iran, Islamic Rep.",IRN,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+"Iran, Islamic Rep.",IRN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,74.776,75.162,75.502,75.796,76.047,76.271,76.479,76.677,76.87,
+Iraq,IRQ,GDP (current US$),NY.GDP.MKTP.CD,2.18E+11,2.35E+11,2.28E+11,1.67E+11,1.67E+11,1.87E+11,2.27E+11,2.34E+11,1.84E+11,2.08E+11
+Iraq,IRQ,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,18.9,,,,,,,,,
+Iraq,IRQ,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.148,69.437,69.7,69.929,70.122,70.294,70.454,70.604,70.748,
+Iceland,ISL,GDP (current US$),NY.GDP.MKTP.CD,14751508134,16125060515,17867662178,17517210519,20793168031,24728285177,26267063758,24857740445,21718075725,25458933916
+Iceland,ISL,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,9.3,7.9,9.2,8.8,10.1,8.8,,,,
+Iceland,ISL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,82.91707317,82.06097561,82.86097561,82.46829268,82.20487805,82.66097561,82.86097561,83.16341463,83.06585366,
+Israel,ISR,GDP (current US$),NY.GDP.MKTP.CD,2.58E+11,2.94E+11,3.11E+11,3.00E+11,3.19E+11,3.55E+11,3.74E+11,3.98E+11,4.07E+11,4.82E+11
+Israel,ISR,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+Israel,ISR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,81.70487805,82.05609756,82.15365854,82.05121951,82.40731707,82.55121951,82.80243902,82.80487805,82.7,
+Italy,ITA,GDP (current US$),NY.GDP.MKTP.CD,2.09E+12,2.14E+12,2.16E+12,1.84E+12,1.88E+12,1.96E+12,2.09E+12,2.01E+12,1.89E+12,2.10E+12
+Italy,ITA,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,19.3,19.4,19.9,20.6,20.3,20.3,20.1,,,
+Italy,ITA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,82.23902439,82.6902439,83.0902439,82.54390244,83.24390244,82.94634146,83.34634146,83.49756098,82.34390244,
+Jamaica,JAM,GDP (current US$),NY.GDP.MKTP.CD,14807086889,14264202737,13899228824,14188935948,14077109397,14808989993,15730793853,15830768550,13812425037,13638230996
+Jamaica,JAM,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,19.9,,,,,,,,,
+Jamaica,JAM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,74.001,74.01,74.042,74.098,74.175,74.267,74.368,74.475,74.586,
+Jordan,JOR,GDP (current US$),NY.GDP.MKTP.CD,31634561690,34454440141,36847643521,38587017887,39892551127,41408960845,42932112676,44502895915,43697659296,45243661972
+Jordan,JOR,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,15.7,,,
+Jordan,JOR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,73.722,73.851,73.969,74.078,74.184,74.292,74.405,74.526,74.655,
+Japan,JPN,GDP (current US$),NY.GDP.MKTP.CD,6.27E+12,5.21E+12,4.90E+12,4.44E+12,5.00E+12,4.93E+12,5.04E+12,5.12E+12,5.04E+12,4.94E+12
+Japan,JPN,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+Japan,JPN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,83.09609756,83.33195122,83.58780488,83.79390244,83.98487805,84.0997561,84.21097561,84.35634146,84.61560976,
+Kazakhstan,KAZ,GDP (current US$),NY.GDP.MKTP.CD,2.08E+11,2.37E+11,2.21E+11,1.84E+11,1.37E+11,1.67E+11,1.79E+11,1.82E+11,1.71E+11,1.91E+11
+Kazakhstan,KAZ,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,4.3,4.3,5.3,
+Kazakhstan,KAZ,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.52,70.62,71.44,71.97,72.41,72.95,73.15,73.18,71.37,
+Kenya,KEN,GDP (current US$),NY.GDP.MKTP.CD,56396706006,61671425370,68285768554,70120413329,74815121315,82035800868,92202956321,1.00E+11,1.01E+11,1.10E+11
+Kenya,KEN,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,36.1,,,,,,
+Kenya,KEN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,62.659,63.419,64.135,64.798,65.393,65.909,66.342,66.699,66.991,
+Kyrgyz Republic,KGZ,GDP (current US$),NY.GDP.MKTP.CD,6605139933,7335027592,7468096567,6678178340,6813092066,7702934800,8271108638,8871026074,7780874537,8543423503
+Kyrgyz Republic,KGZ,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,38,37,30.6,32.1,25.4,25.6,22.4,20.1,25.3,
+Kyrgyz Republic,KGZ,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.00243902,70.20243902,70.40243902,70.65121951,70.95121951,71.2,71.4,71.6,71.8,
+Cambodia,KHM,GDP (current US$),NY.GDP.MKTP.CD,14054443213,15227991395,16702610842,18049954289,20016747754,22177200512,24571753583,27089389787,25872798012,26961061120
+Cambodia,KHM,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,17.7,,,,,,,,,
+Cambodia,KHM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,67.48,67.888,68.273,68.637,68.977,69.289,69.57,69.823,70.054,
+Kiribati,KIR,GDP (current US$),NY.GDP.MKTP.CD,189630114.9,184550740.1,177862310.4,170291002,178509814.1,188192060.1,196230573.8,177935349.3,180911843.6,
+Kiribati,KIR,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,21.9,
+Kiribati,KIR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,66.381,66.69,66.995,67.291,67.577,67.851,68.116,68.369,68.611,
+St. Kitts and Nevis,KNA,GDP (current US$),NY.GDP.MKTP.CD,826231629.6,875376407.4,954062481.5,958407222.2,1008942296,1060638333,1078505889,1164877852,980905888.9,976150666.7
+St. Kitts and Nevis,KNA,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+St. Kitts and Nevis,KNA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,,,,,,,,,,
+"Korea, Rep.",KOR,GDP (current US$),NY.GDP.MKTP.CD,1.28E+12,1.37E+12,1.48E+12,1.47E+12,1.50E+12,1.62E+12,1.72E+12,1.65E+12,1.64E+12,1.80E+12
+"Korea, Rep.",KOR,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+"Korea, Rep.",KOR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,80.8195122,81.27073171,81.72195122,82.02439024,82.27560976,82.62682927,82.62682927,83.22682927,83.42682927,
+Kuwait,KWT,GDP (current US$),NY.GDP.MKTP.CD,1.74E+11,1.74E+11,1.63E+11,1.15E+11,1.09E+11,1.21E+11,1.38E+11,1.36E+11,1.06E+11,
+Kuwait,KWT,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+Kuwait,KWT,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,74.728,74.885,75.019,75.13,75.224,75.311,75.398,75.489,75.586,
+Lao PDR,LAO,GDP (current US$),NY.GDP.MKTP.CD,10192848926,11983252611,13279248479,14426381187,15912495369,17071162084,18141651381,18740559554,18981800705,18827148530
+Lao PDR,LAO,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,18.3,,,
+Lao PDR,LAO,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,65.267,65.717,66.144,66.546,66.924,67.277,67.61,67.923,68.219,
+Lebanon,LBN,GDP (current US$),NY.GDP.MKTP.CD,44016799516,46880103081,48095213746,49929337837,51147308774,53027680686,54901519156,51605959131,25948915861,18076624840
+Lebanon,LBN,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+Lebanon,LBN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,78.611,78.683,78.732,78.768,78.8,78.833,78.875,78.93,79.004,
+Liberia,LBR,GDP (current US$),NY.GDP.MKTP.CD,2791614000,3177198100,3225652000,3227075700,3398419600,3390703400,3422754800,3319596500,3039982540,3486741370
+Liberia,LBR,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,54.1,,50.9,,,,,
+Liberia,LBR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,60.663,61.186,61.723,62.269,62.802,63.295,63.73,64.104,64.423,
+Libya,LBY,GDP (current US$),NY.GDP.MKTP.CD,92538004280,75350633011,57372445772,48717854040,49910960875,67158415842,76684175824,69252306372,52320215472,41879579677
+Libya,LBY,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+Libya,LBY,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.901,71.907,71.981,72.121,72.311,72.52,72.724,72.913,73.082,
+St. Lucia,LCA,GDP (current US$),NY.GDP.MKTP.CD,1605146778,1664816741,1755130815,1808079889,1865513430,1996771441,2065127263,2118791548,1616772748,1764901133
+St. Lucia,LCA,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,25,,,,,
+St. Lucia,LCA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,75.138,75.286,75.44,75.596,75.752,75.907,76.057,76.203,76.343,
+Liechtenstein,LIE,GDP (current US$),NY.GDP.MKTP.CD,5456009385,6391735894,6657170923,6268391521,6237264055,6474256119,6692504346,6427248943,,
+Liechtenstein,LIE,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+Liechtenstein,LIE,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,82.38292683,82.26097561,82.07317073,82.65609756,82.25853659,83.74634146,83.04146341,84.16097561,81.80731707,
+Sri Lanka,LKA,GDP (current US$),NY.GDP.MKTP.CD,68434409315,74317806538,79356449841,80604080689,82401038710,87428128124,87963042341,83902574443,80969683537,84518830393
+Sri Lanka,LKA,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,6.7,,,,4.1,,,,,
+Sri Lanka,LKA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,75.796,75.974,76.147,76.316,76.482,76.648,76.812,76.978,77.144,
+Lesotho,LSO,GDP (current US$),NY.GDP.MKTP.CD,2477702253,2367113170,2441053176,2359759799,2114020380,2306185361,2514146888,2451257579,2250717718,2518468891
+Lesotho,LSO,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,49.7,,,,
+Lesotho,LSO,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,47.416,48.663,49.891,51.038,52.059,52.947,53.705,54.331,54.836,
+Lithuania,LTU,GDP (current US$),NY.GDP.MKTP.CD,42927454291,46523420074,48533659592,41435533340,43047309306,47758736932,53750911866,54697379017,56546957475,65503849705
+Lithuania,LTU,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,21.9,22.9,22.9,20.6,20.9,,
+Lithuania,LTU,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,73.86341463,73.91463415,74.51707317,74.32195122,74.67073171,75.4804878,75.6804878,76.28292683,74.92926829,
+Luxembourg,LUX,GDP (current US$),NY.GDP.MKTP.CD,59776383527,65203276467,68804811898,60071584216,62216885436,65712180343,71285019397,70195715496,73353132794,86710803337
+Luxembourg,LUX,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,17.4,,
+Luxembourg,LUX,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,81.39268293,81.8,82.22926829,82.29268293,82.68536585,82.09512195,82.29512195,82.63902439,81.74146341,
+Latvia,LVA,GDP (current US$),NY.GDP.MKTP.CD,28169902669,30204783462,31386896487,27263090547,28083597512,30483806018,34429023435,34308783825,33645460617,38872546229
+Latvia,LVA,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,21.8,22.1,23.3,22.9,21.6,,
+Latvia,LVA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,73.77804878,73.98292683,74.12439024,74.4804878,74.5804878,74.62926829,74.78292683,75.38780488,75.38780488,
+"Macao SAR, China",MAC,GDP (current US$),NY.GDP.MKTP.CD,43189526778,51536304808,54903031138,45047964934,45070605746,50440941939,55284360483,55204758070,25586111076,29905190182
+"Macao SAR, China",MAC,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+"Macao SAR, China",MAC,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,83.158,83.361,83.543,83.707,83.854,83.989,84.118,84.244,84.37,
+St. Martin (French part),MAF,GDP (current US$),NY.GDP.MKTP.CD,,,772921756.3,,,,,,,
+St. Martin (French part),MAF,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+St. Martin (French part),MAF,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,78.87317073,79.02195122,79.17317073,79.32195122,79.52195122,79.62195122,79.82195122,79.97317073,80.12195122,
+Morocco,MAR,GDP (current US$),NY.GDP.MKTP.CD,98266306615,1.07E+11,1.10E+11,1.01E+11,1.03E+11,1.10E+11,1.18E+11,1.20E+11,1.15E+11,1.33E+11
+Morocco,MAR,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,4.8,,,,,,,,
+Morocco,MAR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,74.97,75.227,75.477,75.726,75.974,76.218,76.453,76.68,76.901,
+Monaco,MCO,GDP (current US$),NY.GDP.MKTP.CD,5743029680,6555983530,7069616049,6261622101,6472990923,6431314957,7194024563,7383745662,6816219303,
+Monaco,MCO,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+Monaco,MCO,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,,,,,,,,,,
+Moldova,MDA,GDP (current US$),NY.GDP.MKTP.CD,8709138765,9496717702,9510198962,7745241913,8071469355,9669741744,11457443185,11971345003,11859730544,13679221333
+Moldova,MDA,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,25.2,26.8,
+Moldova,MDA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.581,70.968,71.267,71.478,71.617,71.717,71.808,71.901,72.006,
+Madagascar,MDG,GDP (current US$),NY.GDP.MKTP.CD,11578974888,12423555269,12522957228,11323020829,11848613735,13176313594,13614412551,14191911512,13225591804,14637400396
+Madagascar,MDG,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,70.7,,,,,,,,,
+Madagascar,MDG,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,64.28,64.713,65.133,65.539,65.931,66.311,66.681,67.041,67.39,
+Maldives,MDV,GDP (current US$),NY.GDP.MKTP.CD,2886170572,3295011382,3697351597,4109424800,4379136462,4754175869,5300962660,5607762625,3742769967,4889666932
+Maldives,MDV,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,5.4,,
+Maldives,MDV,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,76.664,77.018,77.36,77.691,78.013,78.325,78.627,78.921,79.208,
+Mexico,MEX,GDP (current US$),NY.GDP.MKTP.CD,1.20E+12,1.27E+12,1.32E+12,1.17E+12,1.08E+12,1.16E+12,1.22E+12,1.27E+12,1.09E+12,1.29E+12
+Mexico,MEX,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,41.9,,43.9,
+Mexico,MEX,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,74.966,74.93,74.908,74.904,74.917,74.947,74.992,75.054,75.131,
+Marshall Islands,MHL,GDP (current US$),NY.GDP.MKTP.CD,180436300,184840400,182142800,183814300,201510900,213204100,221588900,239462200,244462400,248665600
+Marshall Islands,MHL,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+Marshall Islands,MHL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,,,,,,,,,,
+North Macedonia,MKD,GDP (current US$),NY.GDP.MKTP.CD,9745251126,10817712139,11362272838,10064515432,10672471861,11307058382,12683070061,12606338449,12116981815,13879269152
+North Macedonia,MKD,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,24.2,22.1,21.5,21.9,22.2,21.9,21.6,,,
+North Macedonia,MKD,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,74.90243902,75.4,75.45121951,75.40243902,75.4,75.95365854,76.64878049,76.60243902,75.69317073,
+Mali,MLI,GDP (current US$),NY.GDP.MKTP.CD,12442035328,13242690790,14364937128,13104764379,14026048334,15365713059,17070867578,17280250805,17465392779,19143741503
+Mali,MLI,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,47.1,46.9,47.2,46.8,44.9,43.8,42.3,41.9,
+Mali,MLI,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,56.135,56.578,57.036,57.509,57.987,58.452,58.893,59.306,59.692,
+Malta,MLT,GDP (current US$),NY.GDP.MKTP.CD,9462238211,10551661177,11626281387,11091434484,11668286795,13505056442,15301279478,15719500921,14917038504,17189730470
+Malta,MLT,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,15.8,15.8,16.6,16.5,16.7,16.8,17.1,16.9,,
+Malta,MLT,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,80.74634146,81.74634146,82.04634146,81.89756098,82.45365854,82.34634146,82.44878049,82.85853659,82.65365854,
+Myanmar,MMR,GDP (current US$),NY.GDP.MKTP.CD,58318677645,60572257122,63264892768,63045305229,60291736894,61449392056,67144725831,68697759361,78930257227,65067808985
+Myanmar,MMR,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,32.1,,24.8,,,,
+Myanmar,MMR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,64.453,64.921,65.378,65.81,66.205,66.558,66.867,67.134,67.363,
+Montenegro,MNE,GDP (current US$),NY.GDP.MKTP.CD,4087725813,4465771673,4593852089,4054728173,4376929572,4856602179,5506944403,5542201151,4780722122,5809170962
+Montenegro,MNE,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,25.2,24.1,24.4,24,23.6,23.8,24.5,22.6,,
+Montenegro,MNE,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,76.2,76.4902439,76.44146341,76.44878049,76.44146341,76.48536585,76.84146341,76.68292683,75.93170732,
+Mongolia,MNG,GDP (current US$),NY.GDP.MKTP.CD,12292770631,12582122604,12226514722,11619892396,11181350461,11480847745,13178094459,14206359007,13312981595,15098022829
+Mongolia,MNG,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,27.4,,21.6,,29.6,,28.4,,27.8,
+Mongolia,MNG,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,68.217,68.566,68.863,69.111,69.321,69.509,69.689,69.87,70.056,
+Northern Mariana Islands,MNP,GDP (current US$),NY.GDP.MKTP.CD,746000000,772000000,832000000,910000000,1230000000,1560000000,1302000000,1182000000,,
+Northern Mariana Islands,MNP,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+Northern Mariana Islands,MNP,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,,,,,,,,,,
+Mozambique,MOZ,GDP (current US$),NY.GDP.MKTP.CD,16350813487,16974314296,17716091057,15950979333,11936993087,13219079498,14845400593,15390031040,14028811072,16095828897
+Mozambique,MOZ,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,46.1,,,,,,,
+Mozambique,MOZ,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,53.931,54.949,56.062,57.206,58.309,59.309,60.163,60.854,61.387,
+Mauritania,MRT,GDP (current US$),NY.GDP.MKTP.CD,6728208836,7223071177,6592537782,6166863960,6398747532,6800135962,7352533586,7889655284,7915985514,8227580740
+Mauritania,MRT,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,31,,,,,,,
+Mauritania,MRT,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,63.079,63.366,63.654,63.936,64.208,64.464,64.704,64.925,65.129,
+Mauritius,MUS,GDP (current US$),NY.GDP.MKTP.CD,11668685524,12129642296,12803445934,11692287066,12232463656,13259351418,14181951059,14045808843,10926820603,11156657770
+Mauritius,MUS,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,7.9,,,,,10.3,,,,
+Mauritius,MUS,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,73.86341463,74.01707317,74.19439024,74.35317073,74.39487805,74.51463415,74.41634146,74.23585366,74.17707317,
+Malawi,MWI,GDP (current US$),NY.GDP.MKTP.CD,6028487929,5518880769,6047813437,6373212641,5433040160,8943543677,9880676219,11025370769,12172128470,12626718074
+Malawi,MWI,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,51.5,,,50.7,,
+Malawi,MWI,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,58.629,59.931,61.042,61.953,62.681,63.279,63.798,64.263,64.694,
+Malaysia,MYS,GDP (current US$),NY.GDP.MKTP.CD,3.14E+11,3.23E+11,3.38E+11,3.01E+11,3.01E+11,3.19E+11,3.59E+11,3.65E+11,3.37E+11,3.73E+11
+Malaysia,MYS,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,7.6,,,5.6,8.4,,
+Malaysia,MYS,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,74.877,75.072,75.268,75.461,75.649,75.828,75.997,76.156,76.306,
+Namibia,NAM,GDP (current US$),NY.GDP.MKTP.CD,13042007432,12043276397,12435416060,11335179562,10721994677,12895153160,13682062249,12543203411,10562637376,12236250784
+Namibia,NAM,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,17.4,,,,,,
+Namibia,NAM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,59.387,60.513,61.425,62.119,62.625,63.021,63.373,63.708,64.045,
+New Caledonia,NCL,GDP (current US$),NY.GDP.MKTP.CD,9659153061,10151385306,10635039739,8738205837,8724570250,9173668102,9846922416,9438130987,9435529927,
+New Caledonia,NCL,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+New Caledonia,NCL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,77.07804878,77.17804878,77.23658537,77.2804878,76.93170732,77.53902439,77.43414634,77.63414634,77.77117073,
+Niger,NER,GDP (current US$),NY.GDP.MKTP.CD,9426913349,10224897935,10862944204,9683867894,10398862245,11185102400,12808660528,12916455161,13741378450,14950949875
+Niger,NER,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,40.8,,,
+Niger,NER,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,58.79,59.455,60.07,60.631,61.137,61.599,62.024,62.42,62.792,
+Nigeria,NGA,GDP (current US$),NY.GDP.MKTP.CD,4.56E+11,5.09E+11,5.47E+11,4.87E+11,4.05E+11,3.76E+11,3.97E+11,4.48E+11,4.32E+11,4.41E+11
+Nigeria,NGA,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,40.1,,,
+Nigeria,NGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,51.786,52.228,52.672,53.112,53.541,53.95,54.332,54.687,55.018,
+Nicaragua,NIC,GDP (current US$),NY.GDP.MKTP.CD,10532006608,10982979274,11880434071,12756706583,13286083645,13785909906,13025239912,12596636042,12586941393,14013022092
+Nicaragua,NIC,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,29.6,,24.9,,,,,
+Nicaragua,NIC,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,72.951,73.197,73.429,73.649,73.86,74.068,74.275,74.485,74.697,
+Netherlands,NLD,GDP (current US$),NY.GDP.MKTP.CD,8.39E+11,8.77E+11,8.92E+11,7.66E+11,7.84E+11,8.34E+11,9.14E+11,9.10E+11,9.14E+11,1.02E+12
+Netherlands,NLD,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,12.7,13.2,13.3,13.2,13.4,,
+Netherlands,NLD,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,81.10487805,81.30487805,81.70731707,81.5097561,81.56097561,81.76097561,81.81219512,82.11219512,81.4097561,
+Norway,NOR,GDP (current US$),NY.GDP.MKTP.CD,5.10E+11,5.23E+11,4.98E+11,3.86E+11,3.69E+11,3.98E+11,4.37E+11,4.05E+11,3.62E+11,4.82E+11
+Norway,NOR,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,10.9,10.9,11.9,12.2,12.3,12.9,12.7,12.7,,
+Norway,NOR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,81.45121951,81.75121951,82.1,82.30487805,82.40731707,82.6097561,82.75853659,82.95853659,83.2097561,
+Nepal,NPL,GDP (current US$),NY.GDP.MKTP.CD,21703106502,22162208956,22731602970,24360795411,24524098185,28971589213,33111525872,34186190996,33433670512,36288830373
+Nepal,NPL,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+Nepal,NPL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,68.426,68.806,69.168,69.515,69.848,70.169,70.478,70.778,71.067,
+Nauru,NRU,GDP (current US$),NY.GDP.MKTP.CD,96927201.48,98491843.64,104654365.2,86529661.37,99723394.96,109359680.2,124021393.7,118724073.8,114626625.6,133218896.9
+Nauru,NRU,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+Nauru,NRU,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,,,,,,,,,,
+New Zealand,NZL,GDP (current US$),NY.GDP.MKTP.CD,1.76E+11,1.91E+11,2.01E+11,1.78E+11,1.89E+11,2.07E+11,2.12E+11,2.13E+11,2.12E+11,2.50E+11
+New Zealand,NZL,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+New Zealand,NZL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,81.15609756,81.40731707,81.40487805,81.45682927,81.61243902,81.65853659,81.85853659,81.70731707,82.05609756,
+Oman,OMN,GDP (current US$),NY.GDP.MKTP.CD,87408842653,89936020806,92699089727,78710793238,75128738622,80856697009,91505851756,88060858257,73971391417,85868626528
+Oman,OMN,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+Oman,OMN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,76.149,76.388,76.634,76.887,77.142,77.393,77.633,77.861,78.078,
+Pakistan,PAK,GDP (current US$),NY.GDP.MKTP.CD,2.24E+11,2.31E+11,2.44E+11,2.71E+11,3.14E+11,3.39E+11,3.56E+11,3.21E+11,3.00E+11,3.46E+11
+Pakistan,PAK,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,29.5,,24.3,,,21.9,,,
+Pakistan,PAK,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,65.849,66.117,66.36,66.577,66.77,66.947,67.114,67.273,67.428,
+Panama,PAN,GDP (current US$),NY.GDP.MKTP.CD,40429734400,45599994000,49921464400,54091713800,57907695400,62202725200,64929409200,66984427200,53977037000,63605065800
+Panama,PAN,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,26.5,25.8,25.6,23,22.1,20.7,21.4,21.5,,
+Panama,PAN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,77.188,77.386,77.583,77.776,77.964,78.149,78.329,78.506,78.68,
+Peru,PER,GDP (current US$),NY.GDP.MKTP.CD,1.93E+11,2.01E+11,2.01E+11,1.90E+11,1.92E+11,2.11E+11,2.23E+11,2.28E+11,2.02E+11,2.23E+11
+Peru,PER,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,25.8,23.9,22.7,21.8,20.7,21.7,20.5,20.2,30.1,
+Peru,PER,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,74.981,75.258,75.529,75.792,76.044,76.286,76.516,76.736,76.947,
+Philippines,PHL,GDP (current US$),NY.GDP.MKTP.CD,2.62E+11,2.84E+11,2.97E+11,3.06E+11,3.19E+11,3.28E+11,3.47E+11,3.77E+11,3.62E+11,3.94E+11
+Philippines,PHL,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,25.2,,,23.5,,,16.7,,,
+Philippines,PHL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.149,70.315,70.481,70.644,70.802,70.952,71.095,71.231,71.36,
+Palau,PLW,GDP (current US$),NY.GDP.MKTP.CD,212397800,221117200,241669800,280457700,298300000,285300000,284700000,274200000,257700000,
+Palau,PLW,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+Palau,PLW,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,,,,,,,,,,
+Papua New Guinea,PNG,GDP (current US$),NY.GDP.MKTP.CD,21295659244,21261432791,23210682538,21723531173,20759069103,22742613554,24109509853,24751344561,24667052023,26594277246
+Papua New Guinea,PNG,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+Papua New Guinea,PNG,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,62.604,62.892,63.181,63.466,63.744,64.01,64.263,64.501,64.725,
+Poland,POL,GDP (current US$),NY.GDP.MKTP.CD,4.99E+11,5.21E+11,5.42E+11,4.78E+11,4.73E+11,5.27E+11,5.87E+11,5.97E+11,5.97E+11,6.74E+11
+Poland,POL,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,17.3,17,17.6,17.3,15,14.8,15.4,14.8,,
+Poland,POL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,76.74634146,77,77.60243902,77.45121951,77.85121951,77.75365854,77.60243902,77.90487805,76.6,
+Puerto Rico,PRI,GDP (current US$),NY.GDP.MKTP.CD,1.02E+11,1.02E+11,1.02E+11,1.03E+11,1.04E+11,1.03E+11,1.01E+11,1.05E+11,1.03E+11,
+Puerto Rico,PRI,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+Puerto Rico,PRI,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,78.84758537,79.03434146,79.20246341,79.3534878,79.49497561,79.63453659,79.77819512,79.9285122,80.08746341,
+"Korea, Dem. People's Rep.",PRK,GDP (current US$),NY.GDP.MKTP.CD,,,,,,,,,,
+"Korea, Dem. People's Rep.",PRK,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+"Korea, Dem. People's Rep.",PRK,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.454,70.853,71.198,71.481,71.711,71.91,72.095,72.274,72.453,
+Portugal,PRT,GDP (current US$),NY.GDP.MKTP.CD,2.16E+11,2.26E+11,2.30E+11,1.99E+11,2.06E+11,2.21E+11,2.42E+11,2.40E+11,2.29E+11,2.50E+11
+Portugal,PRT,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,18.7,19.5,19.5,19,18.3,17.3,17.2,16.2,,
+Portugal,PRT,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,80.37317073,80.72195122,81.12195122,81.12439024,81.12439024,81.42439024,81.32439024,81.67560976,80.97560976,
+Paraguay,PRY,GDP (current US$),NY.GDP.MKTP.CD,33296438306,38651334288,40377987209,36211372703,36089550659,38997129474,40225448341,37925338329,35432178068,38986810989
+Paraguay,PRY,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,31.4,28,27.2,26.6,28.9,26.4,24.2,23.5,26.9,
+Paraguay,PRY,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,73.068,73.274,73.473,73.662,73.836,73.992,74.131,74.254,74.363,
+West Bank and Gaza,PSE,GDP (current US$),NY.GDP.MKTP.CD,12208400000,13515500000,13989700000,13972400000,15405400000,16128000000,16276600000,17133500000,15531700000,18036800000
+West Bank and Gaza,PSE,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,29.2,,,,,
+West Bank and Gaza,PSE,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,73.041,73.17,73.303,73.442,73.589,73.74,73.895,74.053,74.213,
+French Polynesia,PYF,GDP (current US$),NY.GDP.MKTP.CD,,,,5325848045,5497037293,5833351478,6135117589,6008055248,5669368717,
+French Polynesia,PYF,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+French Polynesia,PYF,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,76.074,76.307,76.546,76.787,77.024,77.251,77.462,77.657,77.836,
+Qatar,QAT,GDP (current US$),NY.GDP.MKTP.CD,1.87E+11,1.99E+11,2.06E+11,1.62E+11,1.52E+11,1.61E+11,1.83E+11,1.76E+11,1.44E+11,1.80E+11
+Qatar,QAT,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+Qatar,QAT,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,79.399,79.527,79.646,79.758,79.868,79.981,80.1,80.227,80.363,
+Romania,ROU,GDP (current US$),NY.GDP.MKTP.CD,1.71E+11,1.91E+11,2.00E+11,1.78E+11,1.88E+11,2.12E+11,2.41E+11,2.50E+11,2.50E+11,2.84E+11
+Romania,ROU,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,23.4,,
+Romania,ROU,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,74.41219512,75.06341463,74.9097561,74.91219512,75.2097561,75.3097561,75.35853659,75.60731707,74.35365854,
+Russian Federation,RUS,GDP (current US$),NY.GDP.MKTP.CD,2.21E+12,2.29E+12,2.06E+12,1.36E+12,1.28E+12,1.57E+12,1.66E+12,1.69E+12,1.49E+12,1.78E+12
+Russian Federation,RUS,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,10.7,10.8,11.2,13.3,13.3,13.2,12.6,12.3,12.1,
+Russian Federation,RUS,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.07219512,70.57878049,70.74365854,71.18341463,71.65121951,72.45146341,72.66219512,73.08390244,71.33878049,
+Rwanda,RWA,GDP (current US$),NY.GDP.MKTP.CD,7650671477,7815975294,8234762201,8539424910,8690878328,9252834120,9642440646,10356327149,10184345442,11070356519
+Rwanda,RWA,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,39.1,,,38.2,,,,,
+Rwanda,RWA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,65.438,66.219,66.884,67.45,67.93,68.341,68.7,69.024,69.329,
+Saudi Arabia,SAU,GDP (current US$),NY.GDP.MKTP.CD,7.36E+11,7.47E+11,7.56E+11,6.54E+11,6.45E+11,6.89E+11,8.17E+11,8.04E+11,7.03E+11,8.34E+11
+Saudi Arabia,SAU,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+Saudi Arabia,SAU,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,74.254,74.402,74.533,74.651,74.761,74.874,74.998,75.133,75.28,
+Sudan,SDN,GDP (current US$),NY.GDP.MKTP.CD,63195499524,66026600235,76818327442,84985132167,1.03E+11,1.30E+11,32333780383,32338079165,26987563444,34326058557
+Sudan,SDN,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+Sudan,SDN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,63.542,63.875,64.169,64.429,64.663,64.881,65.095,65.311,65.53,
+Senegal,SEN,GDP (current US$),NY.GDP.MKTP.CD,17660871726,18918668644,19797254643,17774766636,19040312815,20996564752,23116897847,23398811424,24493157583,27625388352
+Senegal,SEN,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+Senegal,SEN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,65.448,65.939,66.37,66.747,67.078,67.38,67.665,67.941,68.213,
+Singapore,SGP,GDP (current US$),NY.GDP.MKTP.CD,2.95E+11,3.08E+11,3.15E+11,3.08E+11,3.19E+11,3.43E+11,3.77E+11,3.75E+11,3.45E+11,3.97E+11
+Singapore,SGP,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+Singapore,SGP,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,81.99512195,82.24634146,82.49512195,82.74390244,82.84634146,83.09512195,83.29756098,83.59512195,83.74390244,
+Solomon Islands,SLB,GDP (current US$),NY.GDP.MKTP.CD,1191045573,1284763287,1335584912,1307082934,1378543909,1483793468,1574622018,1570093229,1545888426,1645213882
+Solomon Islands,SLB,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,12.7,,,,,,,,,
+Solomon Islands,SLB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.296,71.601,71.896,72.173,72.424,72.645,72.835,72.996,73.132,
+Sierra Leone,SLE,GDP (current US$),NY.GDP.MKTP.CD,3801862611,4920343195,5015157816,4218723875,3674794530,3719369107,4085114794,4076578543,4063289450,4200380124
+Sierra Leone,SLE,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,56.8,,,
+Sierra Leone,SLE,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,51.018,51.731,52.372,52.941,53.444,53.895,54.309,54.696,55.066,
+El Salvador,SLV,GDP (current US$),NY.GDP.MKTP.CD,21386150000,21990960000,22593470000,23438240000,24191430000,24979190000,26020850000,26896660000,24638720000,28736940000
+El Salvador,SLV,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,26.2,
+El Salvador,SLV,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.692,71.935,72.175,72.412,72.644,72.872,73.096,73.317,73.533,
+San Marino,SMR,GDP (current US$),NY.GDP.MKTP.CD,1604779648,1678841812,1673973695,1419394763,1468377242,1528630705,1655300897,1616231696,1544713785,
+San Marino,SMR,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+San Marino,SMR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,,,,,,,,,,
+Somalia,SOM,GDP (current US$),NY.GDP.MKTP.CD,,4574495667,5021956321,5331761394,5529873480,5609000000,5850677296,6476674592,6965285325,7292721820
+Somalia,SOM,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+Somalia,SOM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,54.713,55.104,55.509,55.92,56.324,56.709,57.068,57.397,57.697,
+Serbia,SRB,GDP (current US$),NY.GDP.MKTP.CD,43309252921,48394239475,47062206678,39655958843,40692643373,44179055280,50640650221,51514222382,53335016425,63068134601
+Serbia,SRB,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,24.5,25,26.7,25.9,25.7,24.3,23.2,21.7,,
+Serbia,SRB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,74.83658537,75.18536585,75.33658537,75.28780488,75.68780488,75.53902439,75.8902439,75.93658537,74.22926829,
+South Sudan,SSD,GDP (current US$),NY.GDP.MKTP.CD,11931472169,18426469017,13962212847,11997800760,,,,,,
+South Sudan,SSD,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,82.3,,,,,
+South Sudan,SSD,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,55.791,56.2,56.552,56.855,57.12,57.365,57.604,57.846,58.095,
+Sao Tome and Principe,STP,GDP (current US$),NY.GDP.MKTP.CD,250680845.7,300554483.6,346528329.2,316066072.3,345495615,375614126.2,412253809.7,427425039.7,472914469.9,547092915
+Sao Tome and Principe,STP,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+Sao Tome and Principe,STP,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,68.306,68.695,69.052,69.377,69.67,69.933,70.17,70.385,70.583,
+Suriname,SUR,GDP (current US$),NY.GDP.MKTP.CD,4980000000,5145757576,5240606061,5126291451,3317438911,3591623596,3996247906,3984483762,2884248048,2862131980
+Suriname,SUR,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+Suriname,SUR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.851,71.002,71.133,71.249,71.358,71.463,71.57,71.682,71.802,
+Slovak Republic,SVK,GDP (current US$),NY.GDP.MKTP.CD,94253181330,98569320343,1.01E+11,88636928905,89674927723,95393515078,1.06E+11,1.05E+11,1.05E+11,1.15E+11
+Slovak Republic,SVK,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,12.8,12.6,12.3,12.7,12.4,12.2,11.9,11.4,,
+Slovak Republic,SVK,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,76.1097561,76.41219512,76.81219512,76.56341463,77.16585366,77.16585366,77.26585366,77.66585366,76.86585366,
+Slovenia,SVN,GDP (current US$),NY.GDP.MKTP.CD,46577793184,48415657265,49997186439,43107506024,44766722791,48589100043,54163591695,54178877606,53589609581,61526331889
+Slovenia,SVN,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,13.9,13.3,13.3,12,12.4,,
+Slovenia,SVN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,80.12439024,80.32195122,81.07804878,80.77560976,81.17560976,81.02926829,81.37804878,81.52926829,80.53170732,
+Sweden,SWE,GDP (current US$),NY.GDP.MKTP.CD,5.52E+11,5.87E+11,5.82E+11,5.05E+11,5.16E+11,5.41E+11,5.55E+11,5.34E+11,5.41E+11,6.27E+11
+Sweden,SWE,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,16,15.6,16.3,16.2,15.8,16.4,17.1,16.1,,
+Sweden,SWE,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,81.70487805,81.95609756,82.25365854,82.20487805,82.30731707,82.4097561,82.55853659,83.1097561,82.40731707,
+Eswatini,SWZ,GDP (current US$),NY.GDP.MKTP.CD,4886533033,4597532030,4422968340,4063245671,3816022047,4402969226,4666784618,4466066557,3984840580,4941373182
+Eswatini,SWZ,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,58.9,,,,,
+Eswatini,SWZ,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,49.862,51.699,53.569,55.359,56.962,58.319,59.401,60.194,60.721,
+Sint Maarten (Dutch part),SXM,GDP (current US$),NY.GDP.MKTP.CD,985865921.8,1022905028,1245251397,1253072626,1263687151,1191620112,1185474860,,,
+Sint Maarten (Dutch part),SXM,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+Sint Maarten (Dutch part),SXM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,73.05365854,,77.06829268,77.2195122,78.29268293,,,,,
+Seychelles,SYC,GDP (current US$),NY.GDP.MKTP.CD,1059496470,1328089686,1387577763,1415998663,1490226454,1573428277,1636310049,1684228529,1200634489,1320053793
+Seychelles,SYC,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,39.3,,,,,25.3,,,
+Seychelles,SYC,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,74.27560976,73.1195122,73.22926829,74.29512195,74.3097561,74.3,72.84146341,74.04634146,77.23658537,
+Syrian Arab Republic,SYR,GDP (current US$),NY.GDP.MKTP.CD,44117799607,22552466245,22075987602,17622064892,12453459335,16340665432,21445775364,,,
+Syrian Arab Republic,SYR,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+Syrian Arab Republic,SYR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.55,70.049,69.821,69.908,70.315,70.967,71.779,72.697,73.651,
+Turks and Caicos Islands,TCA,GDP (current US$),NY.GDP.MKTP.CD,727161000,754238000,841070000,942070000,1032452000,1022365000,1113178000,1197415000,924583000,943269768
+Turks and Caicos Islands,TCA,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+Turks and Caicos Islands,TCA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,,,,,,,,,,
+Chad,TCD,GDP (current US$),NY.GDP.MKTP.CD,12367363678,12953535496,13940768066,10950392220,10097778354,10000395242,11239167048,11314951343,10715396135,11779980802
+Chad,TCD,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,42.3,,,
+Chad,TCD,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,51.928,52.386,52.789,53.137,53.438,53.712,53.977,54.239,54.505,
+Togo,TGO,GDP (current US$),NY.GDP.MKTP.CD,3873308389,4321655656,4574986537,4180866177,6031632168,6395472574,7112200725,7220395248,7574636979,8413200568
+Togo,TGO,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,55.1,,,,,,
+Togo,TGO,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,58.661,59.16,59.58,59.927,60.22,60.489,60.76,61.042,61.34,
+Thailand,THA,GDP (current US$),NY.GDP.MKTP.CD,3.98E+11,4.20E+11,4.07E+11,4.01E+11,4.13E+11,4.56E+11,5.07E+11,5.44E+11,5.00E+11,5.06E+11
+Thailand,THA,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,12.6,10.9,10.5,7.2,8.6,7.9,9.9,6.2,6.8,
+Thailand,THA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,74.992,75.378,75.747,76.091,76.403,76.683,76.931,77.15,77.344,
+Tajikistan,TJK,GDP (current US$),NY.GDP.MKTP.CD,7633049792,8448469838,9112544556,8271454301,6992393787,7536439875,7765014424,8300784857,8133996648,8746270636
+Tajikistan,TJK,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,34.3,32,31.3,30.3,29.5,27.4,26.3,,
+Tajikistan,TJK,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.34,69.609,69.874,70.137,70.397,70.647,70.879,71.097,71.301,
+Turkmenistan,TKM,GDP (current US$),NY.GDP.MKTP.CD,35164210526,39197543860,43524210526,35799714286,36169428571,37926285714,40765428571,45231428571,,
+Turkmenistan,TKM,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+Turkmenistan,TKM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,67.167,67.375,67.552,67.704,67.835,67.956,68.073,68.191,68.313,
+Timor-Leste,TLS,GDP (current US$),NY.GDP.MKTP.CD,1160389500,1395519600,1447307100,1594410900,1650618500,1615609700,1583876200,2047931700,1902156800,1959134744
+Timor-Leste,TLS,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,41.8,,,,,,,
+Timor-Leste,TLS,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,67.72,67.953,68.197,68.459,68.735,69.007,69.26,69.495,69.712,
+Tonga,TON,GDP (current US$),NY.GDP.MKTP.CD,470714083.4,450643615.2,439878828,437006227.2,420540178.6,460379145,489235527.4,512350059.4,488829964.1,
+Tonga,TON,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+Tonga,TON,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.242,70.335,70.427,70.517,70.607,70.701,70.801,70.907,71.018,
+Trinidad and Tobago,TTO,GDP (current US$),NY.GDP.MKTP.CD,25781712703,27294453245,27642525749,25191551350,22373566810,23180107752,23820742957,23886216403,21392536138,21391802311
+Trinidad and Tobago,TTO,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+Trinidad and Tobago,TTO,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,72.382,72.582,72.768,72.941,73.1,73.245,73.38,73.507,73.628,
+Tunisia,TUN,GDP (current US$),NY.GDP.MKTP.CD,47311159485,48684187850,50271072628,45780128467,44360614525,42164007605,42685972269,41772900763,42514151614,46840042941
+Tunisia,TUN,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,15.2,,,,,,
+Tunisia,TUN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,75.376,75.552,75.734,75.922,76.115,76.31,76.505,76.699,76.891,
+Turkiye,TUR,GDP (current US$),NY.GDP.MKTP.CD,8.81E+11,9.58E+11,9.39E+11,8.64E+11,8.70E+11,8.59E+11,7.78E+11,7.61E+11,7.20E+11,8.15E+11
+Turkiye,TUR,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,15,15,14.7,14.3,13.5,13.9,14.4,15,,
+Turkiye,TUR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,75.373,75.784,76.172,76.532,76.86,77.161,77.437,77.691,77.928,
+Tuvalu,TUV,GDP (current US$),NY.GDP.MKTP.CD,39345620.21,38617493.72,38759689.92,36811659.53,41629497.47,45217657.88,47818290.5,54223149.11,55054710.62,63100961.54
+Tuvalu,TUV,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+Tuvalu,TUV,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,,,,,,,,,,
+Tanzania,TZA,GDP (current US$),NY.GDP.MKTP.CD,39650530214,45680532614,49964788814,47378599025,49774021003,53320625959,57003713611,61136873692,62409709111,67775101794
+Tanzania,TZA,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,26.4,,,,
+Tanzania,TZA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,60.47,61.398,62.288,63.111,63.844,64.479,65.015,65.456,65.815,
+Uganda,UGA,GDP (current US$),NY.GDP.MKTP.CD,27305915761,28915786997,32612397758,32387183845,29203988815,30744473912,32927025573,35353060634,37600368181,40434701517
+Uganda,UGA,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,19.7,,,,21.4,,,20.3,,
+Uganda,UGA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,59.017,59.881,60.669,61.373,61.986,62.516,62.973,63.368,63.713,
+Ukraine,UKR,GDP (current US$),NY.GDP.MKTP.CD,1.83E+11,1.90E+11,1.34E+11,91030959455,93355993629,1.12E+11,1.31E+11,1.54E+11,1.57E+11,2.00E+11
+Ukraine,UKR,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,1.1,,
+Ukraine,UKR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.94414634,71.1595122,71.18658537,71.1895122,71.47634146,71.78097561,71.58268293,71.82731707,71.18512195,
+Uruguay,URY,GDP (current US$),NY.GDP.MKTP.CD,51264390116,57531233351,57236013086,53274304222,57236652490,64233966861,64515038268,61231149881,53560755047,59319547636
+Uruguay,URY,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,11.6,
+Uruguay,URY,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,77.004,77.124,77.244,77.369,77.498,77.632,77.77,77.911,78.056,
+United States,USA,GDP (current US$),NY.GDP.MKTP.CD,1.63E+13,1.68E+13,1.76E+13,1.82E+13,1.87E+13,1.95E+13,2.05E+13,2.14E+13,2.09E+13,2.30E+13
+United States,USA,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+United States,USA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,78.74146341,78.74146341,78.84146341,78.6902439,78.53902439,78.53902439,78.63902439,78.78780488,77.2804878,
+Uzbekistan,UZB,GDP (current US$),NY.GDP.MKTP.CD,67517349212,73180036692,80845384375,86196265192,86138288615,62081323299,52633143808,59907674027,59894305353,69238903106
+Uzbekistan,UZB,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,15,14.1,,,,,,,,
+Uzbekistan,UZB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.155,70.41,70.671,70.928,71.171,71.388,71.573,71.725,71.848,
+St. Vincent and the Grenadines,VCT,GDP (current US$),NY.GDP.MKTP.CD,730032600.1,764781242.7,770901436.4,786554580.8,814302267.1,847620214.8,884328180.5,910149698.9,872134546.8,889775243.4
+St. Vincent and the Grenadines,VCT,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+St. Vincent and the Grenadines,VCT,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.879,71.939,72.01,72.095,72.193,72.3,72.415,72.534,72.658,
+"Venezuela, RB",VEN,GDP (current US$),NY.GDP.MKTP.CD,3.81E+11,3.71E+11,4.82E+11,,,,,,,
+"Venezuela, RB",VEN,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,27.2,29.4,29.5,33.1,,,,,,
+"Venezuela, RB",VEN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,73.037,72.918,72.762,72.584,72.405,72.246,72.128,72.064,72.066,
+British Virgin Islands,VGB,GDP (current US$),NY.GDP.MKTP.CD,,,,,,,,,,
+British Virgin Islands,VGB,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+British Virgin Islands,VGB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,,,,,,,,,,
+Virgin Islands (U.S.),VIR,GDP (current US$),NY.GDP.MKTP.CD,4089000000,3738000000,3565000000,3663000000,3798000000,3794000000,3922000000,4117000000,4204000000,
+Virgin Islands (U.S.),VIR,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,,
+Virgin Islands (U.S.),VIR,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,78.51707317,78.71707317,78.86829268,79.01707317,79.16829268,79.36829268,79.5195122,79.66829268,79.8195122,
+Vietnam,VNM,GDP (current US$),NY.GDP.MKTP.CD,1.96E+11,2.14E+11,2.33E+11,2.39E+11,2.57E+11,2.81E+11,3.09E+11,3.30E+11,3.43E+11,3.63E+11
+Vietnam,VNM,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,17.2,,13.5,,9.8,,6.7,,,
+Vietnam,VNM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,74.958,75.006,75.056,75.11,75.172,75.241,75.317,75.4,75.493,
+Vanuatu,VUT,GDP (current US$),NY.GDP.MKTP.CD,747839697.7,758304466.2,772315721.3,730870581.7,780889605.9,880062103,914736985.4,936526267.6,896827873.1,983469256.8
+Vanuatu,VUT,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,,,,15.9,
+Vanuatu,VUT,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.421,69.57,69.719,69.869,70.021,70.172,70.323,70.474,70.623,
+Samoa,WSM,GDP (current US$),NY.GDP.MKTP.CD,760549577.7,770059565,756805950.2,788307314.9,799493897.5,832025556.1,821286938.9,852007104.7,807147527.6,788389971.6
+Samoa,WSM,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,20.3,,,,,,,,
+Samoa,WSM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,72.136,72.351,72.549,72.73,72.895,73.046,73.187,73.321,73.45,
+Kosovo,XKX,GDP (current US$),NY.GDP.MKTP.CD,6163785173,6735731173,7074657898,6295820482,6682832632,7180813376,7878508503,7899879086,7716925356,9007159196
+Kosovo,XKX,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,22.9,17.6,21.1,17.6,,,,,,
+Kosovo,XKX,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.49756098,70.79756098,71.09756098,71.34634146,71.84634146,72.29512195,72.69512195,73.09268293,71.08780488,
+"Yemen, Rep.",YEM,GDP (current US$),NY.GDP.MKTP.CD,35401341663,40415235702,43228585321,42444495590,31317828584,26842231205,21606161066,21887614217,18840511908,21061691630
+"Yemen, Rep.",YEM,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,48.6,,,,,,,
+"Yemen, Rep.",YEM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,65.92,66.016,66.066,66.085,66.087,66.086,66.096,66.125,66.181,
+South Africa,ZAF,GDP (current US$),NY.GDP.MKTP.CD,4.34E+11,4.01E+11,3.81E+11,3.47E+11,3.24E+11,3.81E+11,4.05E+11,3.88E+11,3.35E+11,4.20E+11
+South Africa,ZAF,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,55.5,,,,,,,
+South Africa,ZAF,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,60.06,61.099,61.968,62.649,63.153,63.538,63.857,64.131,64.379,
+Zambia,ZMB,GDP (current US$),NY.GDP.MKTP.CD,25503060420,28037239463,27141023558,21251216799,20958412538,25873601261,26311590297,23308667781,18110631358,21203059080
+Zambia,ZMB,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,54.4,,,,,,
+Zambia,ZMB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,58.502,59.746,60.831,61.737,62.464,63.043,63.51,63.886,64.194,
+Zimbabwe,ZWE,GDP (current US$),NY.GDP.MKTP.CD,17114849900,19091020000,19495519600,19963120600,20548678100,17584890937,18115543791,19284289739,18051170799,26217726717
+Zimbabwe,ZWE,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,,,,,,30.4,,38.3,,
+Zimbabwe,ZWE,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,55.032,56.897,58.41,59.534,60.294,60.812,61.195,61.49,61.738,
