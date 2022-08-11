@@ -141,7 +141,7 @@ _Expected deliverables_:
 
 <br>
 
-## 4.1 Plan your replication (10%)
+## 4.1 Plan your replication (15%)
 
 ### 4.1.1 Choose the right article(s) for replication
 
@@ -209,7 +209,7 @@ The purpose of the verification report is to provide concrete feedback on how to
 
 <br> -->
 
-## 4.2 Final replication report (20%)
+## 4.2 Final replication report (15%)
 
 Use the [published replication studies](/replication_example/#example-studies) that are close to your areas of interest as references.
 
