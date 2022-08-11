@@ -23,6 +23,6 @@ There will be two opportunities to take the final test.
 		2. Attendance for Weeks 4-9 is required.
 		3. You have the option to do the [Research Replication](#4-research-replication) as your final project. If you choose to do the Replication, you need to meet TA at office hours to report and discuss your replication project weekly.
 	- For all conditions, the assignment on which you are scored higher will be counted as your final grade for this course.
-- **On Dec xxx, 2022: This is the final and only chance for those who haven't taken this test.**
+- **On Dec 1, 2022: This is the final and only chance for those who haven't taken this test.**
 
 <!-- Submit a Word document with your analysis, code, figures, and tables etc. via Canvas. -->
