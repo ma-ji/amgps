@@ -27,7 +27,6 @@ Resources:
 
 - [FAQ for Learning Plan and Replication Project](https://docs.google.com/document/d/1ZlsNc7oQ5OCEh70sqWj4kSRlqBNNMHKw2PQavE8-MCk/edit#heading=h.dnvsw5lrfgsn)
 - From previous semesters: [Learning plan](#) / [Replication study](#)
-- [Peer-reviewed example replication studies](https://amgps.jima.me/replication_example/)
 
 [Late submission](#5-late-submission)
 
@@ -237,7 +236,7 @@ There is no required format for the report, but a few suggestions on formatting 
 
 The replication movement has been progressing very well in psychology, but you should be able to find replication studies in policy and public administration related areas. Here are some resources for your reference:
 
-- [Example replication studies](/replication_example).
+- [Peer-reviewed example replication studies](/replication_example)
 - [Estimating the Reproducibility of Psychological Science](https://osf.io/ezcuj/wiki/home/)
 - [Mass Replications & Extensions (social psychology)](https://mgto.org/pre-registered-replications/)
 - "Cited by" articles of the course readings.
