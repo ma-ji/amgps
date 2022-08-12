@@ -19,9 +19,9 @@ nav: true
 
 Assignment list:
 
-- [Plagiarism test (5%)](#1-plagiarisms-test) / [Participation (10%)](#2-participation) / [Customized learning (25%)](#3-customized-learning)
-- Standard Tests: [Qualitative (30%)](/test_qual) / [Quantitative (30%)](/test_quant)
-- [Research Replication (30%)](#4-research-replication)
+- [Plagiarism test (5%)](#1-plagiarisms-test) / [Participation (10%)](#2-participation) / [Customized learning (30%)](#3-customized-learning)
+- Standard Tests: [Qualitative (20%)](/test_qual) / [Quantitative (35%)](/test_quant)
+- [Research Replication (35%)](#4-research-replication)
 
 Resources:
 
@@ -100,7 +100,7 @@ _You cannot substantially revise your proposal to lower the requirements after i
 
 <br>
 
-## 3.2 Completion (15%)
+## 3.2 Completion (20%)
 
 You will assess your own performance using the evaluation plan you proposed. Submit your completion report via Canvas. No required format and page number for the report, but it should at least include the following items:
 
@@ -209,7 +209,7 @@ The purpose of the verification report is to provide concrete feedback on how to
 
 <br> -->
 
-## 4.2 Final replication report (15%)
+## 4.2 Final replication report (20%)
 
 Use the [published replication studies](/replication_example/#example-studies) that are close to your areas of interest as references.
 

@@ -6,15 +6,15 @@ title: Standard Test - Qualitative (TBD)
 # description:
 nav: false
 ---
-
-This is a open book test. You can complete the test either before or on the test day, which is Dec xxx, 2022. Submit a Word document on Canvas. 
+<!-- 
+**Review the questions here: [Standard Test - Qualitative](https://docs.google.com/document/d/1aHq1pvW7hB6q_6YzGfvduvAxuFL6utohXmFUPLkKhuE/edit?usp=sharing)**
+ -->
+This is a take-home and open-book test. Students are expected to work in groups and submit MS Word documents on Canvas before the deadlines.
 
 <!-- (IRB not covered, but very important, we should briefly mention in class) -->
 
-_Research background statement._
 
-_Research question statement._
-
+<!-- 
 # Expected deliverables:
 
 ## 1. Research design (10% points)
@@ -34,3 +34,4 @@ _Research question statement._
 ## 3. Discussion
 
 xxx (reflection on: research content and research design).
+ -->
