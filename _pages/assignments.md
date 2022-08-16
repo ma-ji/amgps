@@ -133,10 +133,10 @@ _Expected deliverables_:
 
 <!-- **Maximum 4 students per group.** -->
 
-	- A replication plan.
-	- A presentation of your replication plan in class.
-	- A replication report.
-	- A presentation of your replication study.
+	- Replication plan.
+	- Presentation of your replication plan in class.
+	- Presentation of your replication study.
+	- Replication report.
 
 <br>
 
@@ -240,6 +240,10 @@ The replication movement has been progressing very well in psychology, but you s
 - [Estimating the Reproducibility of Psychological Science](https://osf.io/ezcuj/wiki/home/)
 - [Mass Replications & Extensions (social psychology)](https://mgto.org/pre-registered-replications/)
 - "Cited by" articles of the course readings.
+
+## 4.4 Bonus points for non-Early-Pass students
+
+For non-Early-Pass students, you can join a replication project and get up to 5% bonus points. The lead Early-Pass students are solely responsible for the projects' final quality.
 
 <br>
 
