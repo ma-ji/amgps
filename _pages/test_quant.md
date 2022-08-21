@@ -7,7 +7,7 @@ title: Standard Test - Quantitative
 nav: false
 ---
 
-**Review the questions here: [Standard Test - Quantitative](https://docs.google.com/document/d/1DMwZjShq1L7Q167UH1mzuo_d7TUZ-Lfh-id-vz6ND4I/edit?usp=sharing)** (subject to minor revision for clarity)
+**Review the questions here: [Standard Test - Quantitative](https://docs.google.com/document/d/1DMwZjShq1L7Q167UH1mzuo_d7TUZ-Lfh-id-vz6ND4I/edit?usp=sharing)** (subject to revision for clarity)
 
 This is a partial open-book test. You can review and practice on these questions using the sample dataset. When you take the final test, a different dataset will be provided, but the questions will be the same (random selected, not all the questions for time sake). 
 

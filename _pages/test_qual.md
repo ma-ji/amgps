@@ -7,7 +7,7 @@ title: Standard Test - Qualitative (TBD)
 nav: false
 ---
 
-**Review the questions here: [Standard Test - Qualitative](https://docs.google.com/document/d/1V2jr_-KRzmuDkhOUu6rlitjK8VmmQmi8iAzJm7XXdUs/edit?usp=sharing)**
+**Review the questions here: [Standard Test - Qualitative](https://docs.google.com/document/d/1V2jr_-KRzmuDkhOUu6rlitjK8VmmQmi8iAzJm7XXdUs/edit?usp=sharing)** (subject to revision for clarity)
 
 This is a take-home and open-book test. Students are expected to work in groups and submit MS Word documents on Canvas before the deadlines.
 
