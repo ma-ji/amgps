@@ -22,7 +22,11 @@ profile:
   - [Felipe Antequera](https://www.linkedin.com/in/felipe-antequera-87489a18/?originalSubdomain=cl) (Instructor of Statistics and Teaching Assistant, felipe.antequera@utexas.edu)
   - [Joycelyn Ovalle](https://www.linkedin.com/in/ovallejoycelyn/) (Teaching Assistant and Grader, joyce.ovalle@utexas.edu)
 - Weekly session: TH 9:00AM-12:00PM, SRH 3.122 [(See schedule page for details)](/schedule/)
-- [TA/Office hours](https://docs.google.com/spreadsheets/d/1BodknGLQXk-SalurPwSca07uoTo8e3bgXPgFnsbRrE8/edit#gid=0)
+- [TA/Office hours](https://docs.google.com/spreadsheets/d/1BodknGLQXk-SalurPwSca07uoTo8e3bgXPgFnsbRrE8/edit#gid=0): SRH3.276
+  - Tuesday: 3pm-5pm (Joyce)
+  - Wednesday: 9am-11am (Felipe)
+  - Thursday: 2pm-4pm (Ji)
+  - Thursday: 3pm-5pm (Joyce)
 
 ---
 
