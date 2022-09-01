@@ -243,7 +243,9 @@ The replication movement has been progressing very well in psychology, but you s
 
 ## 4.4 Bonus points for non-Early-Pass students
 
-For non-Early-Pass students, you can join a replication project and get up to 5% bonus points. The lead Early-Pass students are solely responsible for the projects' final quality.
+For non-Early-Pass students, you can join a replication project and get up to 5 bonus points. The lead Early-Pass students are solely responsible for the projects' final quality.
+1. An itemized responsibility agreement with the project lead (attach as an appendix of the replication plan).
+2. Upon completion, non-Early-Pass students can get up to 5 points added to their final grade.
 
 <br>
 
