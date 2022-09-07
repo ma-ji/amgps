@@ -58,6 +58,15 @@ You are expected to read and annotate the course materials of each week before c
 
 Your participation is assessed by the instructor and TA based on your performance in class during the lecture, practice, and TA sessions.
 
+Class attendance is not mandatory but is part of your participation grade. The participation grade is designed so that you can easily get most of the points as long as you show up to class, ask questions and attend office hours. If you need to miss class for any reason, there are a few options:
+
+1. The first class absence, with prior notification via email, will not affect participation points. You are still responsible for completing all class readings and submitting assignments on the respective due dates.
+2. For each class absence after the first, with no prior notification, one point the corresponding percentage will be deducted from the participation grade. You are still responsible for completing all class readings and submitting assignments on the respective due dates.
+3. If you need accommodation for legitimate medical reasons, please contact [Disability and Access (D&A)](https://diversity.utexas.edu/disability/) and request an Accommodation Letter as soon as possible. Upon receiving the letter, there will be no penalty on participation points. You will still be responsible for completing assignments, but we'll work with you to accommodate deadlines. **Letters need to be received by 10/31.** If the D&A office is over-booked throughout the semester, let us know your progress as soon as possible.
+4. The class is designed for in-person learning. Zoom/virtual recordings are not available. Please make arrangements with your peers for class notes if you need to miss a class. 
+
+If you have a situation that is not taken care of by this note, feel free to reach out, and we will work with you. 
+
 <!-- 
 <br>
 
