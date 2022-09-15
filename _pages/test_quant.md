@@ -25,6 +25,7 @@ There will be two opportunities to take the final test.
 		1. No second chance to take the test again.
 		2. The assignment on which you get a higher score will be counted toward your final grade for this course.
 - **On Dec 1, 2022: This is the final and only chance for those who haven't taken this test.**
-- The Replication Project is an open option for all students, regardless of whether you take the Early-Pass or not.
+
+*The Replication Project is an option for all students, regardless of taking the Early-Pass or not.*
 
 <!-- Submit a Word document with your analysis, code, figures, and tables etc. via Canvas. -->
