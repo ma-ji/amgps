@@ -19,10 +19,12 @@ There will be two opportunities to take the final test.
 		2. The [Research Replication](#4-research-replication) is required to be your final project.
 		3. You need to meet TA at office hours to report and discuss your replication project weekly.
 	- If below A-:
+		1. Attendance for Weeks 4-9 is required.
+		2. You have the OPTION (i.e., not required, another opportunity) to do the [Research Replication](#4-research-replication) as your final project. If you choose to do the Replication, you need to meet TA at office hours to report and discuss your replication project weekly.
+	- For either condition:
 		1. No second chance to take the test again.
-		2. Attendance for Weeks 4-9 is required.
-		3. You have the option to do the [Research Replication](#4-research-replication) as your final project. If you choose to do the Replication, you need to meet TA at office hours to report and discuss your replication project weekly.
-	- For all conditions, the assignment on which you are scored higher will be counted as your final grade for this course.
+		2. The assignment on which you get a higher score will be counted toward your final grade for this course.
 - **On Dec 1, 2022: This is the final and only chance for those who haven't taken this test.**
+- The Replication Project is an open option for all students, regardless of whether you take the Early-Pass or not.
 
 <!-- Submit a Word document with your analysis, code, figures, and tables etc. via Canvas. -->
