@@ -11,7 +11,7 @@
   Analytical Methods for Global Policy Studies (PA397G)
 
 
-  | blog
+  | Quantitative research - Research design and data structure
 
 </title>
 <meta name="description" content="A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
@@ -37,7 +37,7 @@
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🧮</text></svg>">
 
 <link rel="stylesheet" href="/assets/css/main.css">
-<link rel="canonical" href="/blog/">
+<link rel="canonical" href="/week/w3/">
 
 <!-- JQuery -->
 <!-- jQuery -->
@@ -111,7 +111,7 @@
           </li>
           
           <!-- Blog -->
-<!--           <li class="nav-item active">
+<!--           <li class="nav-item ">
             <a class="nav-link" href="/blog/">
               schedule
               
@@ -119,8 +119,6 @@
           </li> -->
           
           <!-- Other pages -->
-          
-          
           
           
           
@@ -196,72 +194,88 @@
     <!-- Content -->
 
     <div class="container mt-5">
-      <div class="post">
+      
 
-  <div class="header-bar">
-<!--     <h1>al-folio</h1>
-    <h2>a simple whitespace theme for academics</h2> -->
-    <h2>Weekly Schedule</h2>
-    click for details
-  </div>
+<div class="post">
 
-  <ul class="post-list">
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2021/distill/">a distill-style blog post</a></h3>
-        <!-- <p class="post-meta">May 22, 2021</p> -->
-        <p>an example of a distill-style blog post and main elements</p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2020/github-metadata/">a post with github metadata</a></h3>
-        <!-- <p class="post-meta">September 28, 2020</p> -->
-        <p>a quick run down on accessing github metadata.</p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2020/twitter/">a post with twitter</a></h3>
-        <!-- <p class="post-meta">September 28, 2020</p> -->
-        <p>an example of a blog post with twitter</p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2015/comments/">a post with comments</a></h3>
-        <!-- <p class="post-meta">October 20, 2015</p> -->
-        <p>an example of a blog post with comments</p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2015/math/">a post with math</a></h3>
-        <!-- <p class="post-meta">October 20, 2015</p> -->
-        <p>an example of a blog post with some math</p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2015/code/">a post with code</a></h3>
-        <!-- <p class="post-meta">July 15, 2015</p> -->
-        <p>an example of a blog post with some code</p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2015/images/">a post with images</a></h3>
-        <!-- <p class="post-meta">May 15, 2015</p> -->
-        <p>this is what included images could look like</p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2015/formatting-and-links/">a post with formatting and links</a></h3>
-        <!-- <p class="post-meta">March 15, 2015</p> -->
-        <p>march & april, looking forward to summer</p>
-      </li>
-    
-  </ul>
+  <header class="post-header">
+    <h1 class="post-title">Week 3: Quantitative research - Research design and data structure</h1>
+    <p class="post-meta">09/08/2022</p>
+  </header>
 
-  <!-- 
- -->
+  <article class="post-content">
+    <a href="https://drive.google.com/drive/folders/1Nck3J0kpbnvKwfTfA8_fp2-bqEBLyTZi?usp=sharing">Reading materials</a> | <a href="https://docs.google.com/spreadsheets/d/1BodknGLQXk-SalurPwSca07uoTo8e3bgXPgFnsbRrE8/edit?usp=sharing">Log reading progress ("reading_log")</a>
+    <br>
+    <hr />
+<h1 id="key-concepts">Key concepts</h1>
+<hr />
+
+<ul>
+  <li>Understand these concepts, their connections, and their roles in research design <a class="citation" href="#MeierResearchDesign2014">(Meier et al., 2014; Shoemaker et al., 2003)</a>:
+    <ul>
+      <li>theory, concept, assumption</li>
+      <li>theoretical/operational definition</li>
+      <li>hypothesis, variables</li>
+    </ul>
+  </li>
+  <li>Criteria for causation <a class="citation" href="#MeierResearchDesign2014">(Meier et al., 2014)</a></li>
+  <li>Tidy vs. messy data <a class="citation" href="#WickhamTidydata2014">(Wickham, 2014)</a></li>
+  <li>Unit of analysis, level of analysis, and observation (lecture)</li>
+  <li>Good data management practices <a class="citation" href="#GentzkowCodedatasocial2014">(Gentzkow &amp; Shapiro, 2014)</a></li>
+</ul>
+
+<p><br /></p>
+
+<hr />
+<h1 id="before-class">Before class</h1>
+<hr />
+
+<p><strong>Required readings</strong></p>
+
+<p><em><strong>SKIP the following sections in MBB</strong>: Research design, experimental designs of research, Quasi-experimental designs of research, research designs and validity.</em></p>
+
+<ol class="bibliography"><li><span id="MeierResearchDesign2014">Meier, K. J., Brudney, J. L., &amp; Bohte, J. (2014). Research Design. In <i>Applied Statistics for Public and Nonprofit Administration</i>.</span></li>
+<li><span id="ShoemakerTheoreticalStatementsRelating2003">Shoemaker, P. J., Tankard, J. W., &amp; Lasorsa, D. L. (2003). Theoretical Statements Relating Three Variables. In <i>How to Build Social Science Theories</i>. SAGE Publications. http://ebookcentral.proquest.com/lib/utxa/detail.action?docID=996273</span></li>
+<li><span id="WickhamTidydata2014">Wickham, H. (2014). Tidy Data. <i>The Journal of Statistical Software</i>, <i>59</i>(10). http://www.jstatsoft.org/v59/i10/</span></li>
+<li><span id="GentzkowCodedatasocial2014">Gentzkow, M., &amp; Shapiro, J. M. (2014). <i>Code and Data for the Social Sciences: A Practitioner’s Guide</i>.</span></li></ol>
+
+<p><strong>Recommended</strong></p>
+
+<ul>
+  <li><span id="ShoemakerTheoreticalOperationalLinkages2003">Shoemaker, P. J., Tankard, J. W., &amp; Lasorsa, D. L. (2003). Theoretical and Operational Linkages. In <i>How to Build Social Science Theories</i>. SAGE Publications. http://ebookcentral.proquest.com/lib/utxa/detail.action?docID=996273</span></li>
+  <li><span id="ShoemakerTheoreticalStatementsRelating2003a">Shoemaker, P. J., Tankard, J. W., &amp; Lasorsa, D. L. (2003). Theoretical Statements Relating Two Variables. In <i>How to Build Social Science Theories</i>. SAGE Publications. http://ebookcentral.proquest.com/lib/utxa/detail.action?docID=996273</span></li>
+  <li><span id="RuaneDesigningIdeasWhat2016">Ruane, J. M. (2016). Designing Ideas: What Do We Want to Know and How Can We Get There? In <i>Introducing Social Research Methods: Essentials for Getting the Edge</i> (pp. 67–92). John Wiley &amp; Sons Inc.</span></li>
+  <li><span id="WilsonGoodenoughpractices2017">Wilson, G., Bryan, J., Cranston, K., Kitzes, J., Nederbragt, L., &amp; Teal, T. K. (2017). Good Enough Practices in Scientific Computing. <i>PLOS Computational Biology</i>, <i>13</i>(6), e1005510. https://doi.org/10.1371/journal.pcbi.1005510</span></li>
+</ul>
+
+<hr />
+<h1 id="in-class">In class</h1>
+<hr />
+
+<ul>
+  <li>Lecture on key concepts and frameworks.</li>
+  <li>Group discussion on reading materials.</li>
+  <li>Review the progress of learning plan, Early-Pass, and replication project.</li>
+</ul>
+
+<hr />
+<h1 id="after-class">After class</h1>
+<hr />
+
+<ul>
+  <li>Learning plan proposal (draft; n.g.) due next week.</li>
+  <li><strong><em>Early-Pass</em></strong> the Standard Test - Quantitative next week during office hours.</li>
+</ul>
+
+  </article>
+
+  
 
 </div>
 
+<!-- 
+    <p class="post-meta">November 1, 2022</p>
+ -->
     </div>
 
     <!-- Footer -->

@@ -11,7 +11,7 @@
   Analytical Methods for Global Policy Studies (PA397G)
 
 
-  | blog
+  | \*\ Probability and sampling
 
 </title>
 <meta name="description" content="A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
@@ -37,7 +37,7 @@
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🧮</text></svg>">
 
 <link rel="stylesheet" href="/assets/css/main.css">
-<link rel="canonical" href="/blog/">
+<link rel="canonical" href="/week/w6/">
 
 <!-- JQuery -->
 <!-- jQuery -->
@@ -111,7 +111,7 @@
           </li>
           
           <!-- Blog -->
-<!--           <li class="nav-item active">
+<!--           <li class="nav-item ">
             <a class="nav-link" href="/blog/">
               schedule
               
@@ -119,8 +119,6 @@
           </li> -->
           
           <!-- Other pages -->
-          
-          
           
           
           
@@ -196,72 +194,110 @@
     <!-- Content -->
 
     <div class="container mt-5">
-      <div class="post">
+      
 
-  <div class="header-bar">
-<!--     <h1>al-folio</h1>
-    <h2>a simple whitespace theme for academics</h2> -->
-    <h2>Weekly Schedule</h2>
-    click for details
-  </div>
+<div class="post">
 
-  <ul class="post-list">
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2021/distill/">a distill-style blog post</a></h3>
-        <!-- <p class="post-meta">May 22, 2021</p> -->
-        <p>an example of a distill-style blog post and main elements</p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2020/github-metadata/">a post with github metadata</a></h3>
-        <!-- <p class="post-meta">September 28, 2020</p> -->
-        <p>a quick run down on accessing github metadata.</p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2020/twitter/">a post with twitter</a></h3>
-        <!-- <p class="post-meta">September 28, 2020</p> -->
-        <p>an example of a blog post with twitter</p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2015/comments/">a post with comments</a></h3>
-        <!-- <p class="post-meta">October 20, 2015</p> -->
-        <p>an example of a blog post with comments</p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2015/math/">a post with math</a></h3>
-        <!-- <p class="post-meta">October 20, 2015</p> -->
-        <p>an example of a blog post with some math</p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2015/code/">a post with code</a></h3>
-        <!-- <p class="post-meta">July 15, 2015</p> -->
-        <p>an example of a blog post with some code</p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2015/images/">a post with images</a></h3>
-        <!-- <p class="post-meta">May 15, 2015</p> -->
-        <p>this is what included images could look like</p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2015/formatting-and-links/">a post with formatting and links</a></h3>
-        <!-- <p class="post-meta">March 15, 2015</p> -->
-        <p>march & april, looking forward to summer</p>
-      </li>
-    
-  </ul>
+  <header class="post-header">
+    <h1 class="post-title">Week 6: \*\ Probability and sampling</h1>
+    <p class="post-meta">09/29/2022</p>
+  </header>
 
-  <!-- 
- -->
+  <article class="post-content">
+    <a href="https://drive.google.com/drive/folders/1Nck3J0kpbnvKwfTfA8_fp2-bqEBLyTZi?usp=sharing">Reading materials</a> | <a href="https://docs.google.com/spreadsheets/d/1BodknGLQXk-SalurPwSca07uoTo8e3bgXPgFnsbRrE8/edit?usp=sharing">Log reading progress ("reading_log")</a>
+    <br>
+    <h1 id="key-concepts">Key concepts</h1>
+<hr />
+
+<ul>
+  <li>Discrete and continuous variables</li>
+  <li>Z-scores, also reflect on mean and standard deviation</li>
+  <li>Binominal probabilities:
+    <ul>
+      <li>Independence, mutually exclusive and jointly exhaustive</li>
+      <li>Combination: notation and calculation</li>
+      <li>Remember: \(Probability Of An Event Happening = \frac{Number Of Ways It Can Happen}{Total Number of Outcomes}\)</li>
+    </ul>
+  </li>
+  <li>Distribution tables</li>
+</ul>
+
+<!-- - Probability and Bayes' Rule <a class="citation" href="#BruceHansenProbability">(<i>Bruce Hansen’s Probability and Statistics for Economists</i>, n.d.)</a> -->
+<!-- - Distributions: Normal, Poisson, and binomial <a class="citation" href="#MeierAppliedstatisticspublic2015">(Meier et al., 2015)</a> -->
+
+<h1 id="before-class">Before class</h1>
+<hr />
+
+<h2 id="required-readings">Required readings</h2>
+
+<p>Primary reading material:</p>
+
+<ul>
+  <li><span id="MeierAppliedstatisticspublic2015">Meier, K. J., Brudney, J. L., &amp; Bohte, J. (2015). <i>Applied Statistics for Public and Nonprofit Administration</i> (Ninth edition). Cengage Learning.</span>. <strong>Read Chapters 7 and 8 in detail, quick scan Chapter 9.</strong></li>
+</ul>
+
+<p>Briefly review the following readings to get familiar with the notation and calculation. If you find the calculation and notation are hard to comprehend, try to understand what they are about and what they try to achieve.</p>
+
+<ul>
+  <li>Properties of probabilities and Bayes Rule - Summary</li>
+  <li><span id="BruceHansenProbability"><i>Bruce Hansen’s Probability and Statistics for Economists</i>. Retrieved August 25, 2021, from https://www.ssc.wisc.edu/ bhansen/probability/</span>, Chapter 1</li>
+  <li><span id="WonnacottIntroductorystatistics1990">Wonnacott, T. H., &amp; Wonnacott, R. J. (1990). <i>Introductory Statistics</i> (5th ed). Wiley.</span>, Chapters 3.1-3.6, 4.1-4.2, 5.1 &amp; 5.3</li>
+</ul>
+
+<h2 id="recommended-readings">Recommended readings</h2>
+
+<ul>
+  <li><span id="BaileyRealstatsusing2016">Bailey, M. A. (2016). <i>Real Stats: Using Econometrics for Political Science and Public Policy</i> (1st edition). Oxford University Press.</span></li>
+  <li><span id="PluchinoTALENTLUCKROLE2018">Pluchino, A., Biondo, A. E., &amp; Rapisarda, A. (2018). TALENT VERSUS LUCK: THE ROLE OF RANDOMNESS IN SUCCESS AND FAILURE. <i>Advances in Complex Systems</i>, <i>21</i>(03n04), 1850014. https://doi.org/10.1142/S0219525918500145</span></li>
+</ul>
+
+<h2 id="video-illustrations-that-are-more-accessible">Video illustrations that are more accessible</h2>
+
+<p>You can find more videos to help you comprehend, here is a few.</p>
+
+<h3 id="the-last-banana-a-thought-experiment-in-probability">The last banana: A thought experiment in probability</h3>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Kgudt4PXs28" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<h3 id="binomial-distributions--probabilities-of-probabilities-part-1">Binomial distributions | Probabilities of probabilities, part 1</h3>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8idr1WZ1A7Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<h3 id="bayes-theorem-the-geometry-of-changing-beliefs">Bayes theorem, the geometry of changing beliefs</h3>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HZGCoVF3YvM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<hr />
+<h1 id="in-class">In class</h1>
+<hr />
+
+<ul>
+  <li><a href="https://PollEv.com/surveys/fRt84xVTlswhrP16OUbyV/respond">Pre-lecture survey</a> and announcements.</li>
+  <li>Lecture on key concepts and frameworks (9:10-11am).</li>
+  <li>Hands-on and assignment catch-up (11-12pm):
+    <ul>
+      <li>Qualitative Test group work weekly update (15 min).</li>
+      <li>Replication project weekly update (10 min).</li>
+      <li>Quantitative Test hands-on practice (45 min).</li>
+    </ul>
+  </li>
+</ul>
+
+<hr />
+<h1 id="empirical-studies-as-examples">Empirical studies as examples</h1>
+<hr />
+
+<p>TBD.</p>
+
+  </article>
+
+  
 
 </div>
 
+<!-- 
+    <p class="post-meta">November 1, 2022</p>
+ -->
     </div>
 
     <!-- Footer -->

@@ -11,7 +11,7 @@
   Analytical Methods for Global Policy Studies (PA397G)
 
 
-  | blog
+  | \*\ Inferential statistics I Hypothesis testing
 
 </title>
 <meta name="description" content="A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
@@ -37,7 +37,7 @@
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🧮</text></svg>">
 
 <link rel="stylesheet" href="/assets/css/main.css">
-<link rel="canonical" href="/blog/">
+<link rel="canonical" href="/week/w7/">
 
 <!-- JQuery -->
 <!-- jQuery -->
@@ -111,7 +111,7 @@
           </li>
           
           <!-- Blog -->
-<!--           <li class="nav-item active">
+<!--           <li class="nav-item ">
             <a class="nav-link" href="/blog/">
               schedule
               
@@ -119,8 +119,6 @@
           </li> -->
           
           <!-- Other pages -->
-          
-          
           
           
           
@@ -196,72 +194,86 @@
     <!-- Content -->
 
     <div class="container mt-5">
-      <div class="post">
+      
 
-  <div class="header-bar">
-<!--     <h1>al-folio</h1>
-    <h2>a simple whitespace theme for academics</h2> -->
-    <h2>Weekly Schedule</h2>
-    click for details
-  </div>
+<div class="post">
 
-  <ul class="post-list">
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2021/distill/">a distill-style blog post</a></h3>
-        <!-- <p class="post-meta">May 22, 2021</p> -->
-        <p>an example of a distill-style blog post and main elements</p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2020/github-metadata/">a post with github metadata</a></h3>
-        <!-- <p class="post-meta">September 28, 2020</p> -->
-        <p>a quick run down on accessing github metadata.</p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2020/twitter/">a post with twitter</a></h3>
-        <!-- <p class="post-meta">September 28, 2020</p> -->
-        <p>an example of a blog post with twitter</p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2015/comments/">a post with comments</a></h3>
-        <!-- <p class="post-meta">October 20, 2015</p> -->
-        <p>an example of a blog post with comments</p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2015/math/">a post with math</a></h3>
-        <!-- <p class="post-meta">October 20, 2015</p> -->
-        <p>an example of a blog post with some math</p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2015/code/">a post with code</a></h3>
-        <!-- <p class="post-meta">July 15, 2015</p> -->
-        <p>an example of a blog post with some code</p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2015/images/">a post with images</a></h3>
-        <!-- <p class="post-meta">May 15, 2015</p> -->
-        <p>this is what included images could look like</p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2015/formatting-and-links/">a post with formatting and links</a></h3>
-        <!-- <p class="post-meta">March 15, 2015</p> -->
-        <p>march & april, looking forward to summer</p>
-      </li>
-    
-  </ul>
+  <header class="post-header">
+    <h1 class="post-title">Week 7: \*\ Inferential statistics I Hypothesis testing</h1>
+    <p class="post-meta">10/06/2022</p>
+  </header>
 
-  <!-- 
- -->
+  <article class="post-content">
+    <a href="https://drive.google.com/drive/folders/1Nck3J0kpbnvKwfTfA8_fp2-bqEBLyTZi?usp=sharing">Reading materials</a> | <a href="https://docs.google.com/spreadsheets/d/1BodknGLQXk-SalurPwSca07uoTo8e3bgXPgFnsbRrE8/edit?usp=sharing">Log reading progress ("reading_log")</a>
+    <br>
+    <h1 id="key-concepts">Key concepts</h1>
+<hr />
+
+<ul>
+  <li>Standard errors <a class="citation" href="#MeierAppliedstatisticspublic2015">(Meier et al., 2015)</a></li>
+  <li>Sampling distribution <a class="citation" href="#GordonAppliedstatisticssocial2012">(Gordon, 2012)</a></li>
+  <li>Law of large numbers</li>
+  <li>Bootstrapping and Central Limit Theorem <a class="citation" href="#IntroductionBootstrappingStatistics2018">(<i>Introduction to Bootstrapping in Statistics with an Example</i>, 2018; Gordon, 2012)</a></li>
+  <li>Confidence Intervals and p-values <a class="citation" href="#IntroductionBootstrappingStatistics2018">(<i>Introduction to Bootstrapping in Statistics with an Example</i>, 2018; Gordon, 2012)</a></li>
+  <li>Student’s t-distributions <a class="citation" href="#MeierAppliedstatisticspublic2015">(Meier et al., 2015)</a></li>
+  <li>Null and alternative hypoteses <a class="citation" href="#MeierAppliedstatisticspublic2015">(Meier et al., 2015; Gordon, 2012)</a></li>
+  <li>One and two-tailed tests <a class="citation" href="#MeierAppliedstatisticspublic2015">(Meier et al., 2015; Gordon, 2012)</a></li>
+  <li>Type I and type II error <a class="citation" href="#MeierAppliedstatisticspublic2015">(Meier et al., 2015)</a></li>
+  <li>Sample size <a class="citation" href="#MeierAppliedstatisticspublic2015">(Meier et al., 2015)</a></li>
+</ul>
+
+<h1 id="before-class">Before class</h1>
+<hr />
+
+<h2 id="required-readings">Required readings</h2>
+
+<ul>
+  <li><span id="MeierAppliedstatisticspublic2015">Meier, K. J., Brudney, J. L., &amp; Bohte, J. (2015). <i>Applied Statistics for Public and Nonprofit Administration</i> (Ninth edition). Cengage Learning.</span>, Chapters 10 &amp; 11</li>
+  <li><span id="IntroductionBootstrappingStatistics2018"><i>Introduction to Bootstrapping in Statistics with an Example</i>. (2018). Statistics By Jim. http://statisticsbyjim.com/hypothesis-testing/bootstrapping/</span></li>
+  <li><span id="Kleincartoonintroductionstatistics2013">Klein, G., &amp; Dabney, A. (2013). <i>The Cartoon Introduction to Statistics</i> (First edition). Hill and Wang, a Division of Farrar, Straus and Giroux.</span>, Chapters 8, 9 &amp; 10</li>
+</ul>
+
+<h2 id="recommended-readings">Recommended readings</h2>
+
+<ul>
+  <li><span id="GordonAppliedstatisticssocial2012">Gordon, R. A. (2012). <i>Applied Statistics for the Social and Health Sciences</i>. Routledge.</span>, Chapter 6. Section 6.2-6.4</li>
+  <li><span id="MooreIntroductionpracticestatistics2014">Moore, D. S., McCabe, G. P., &amp; Craig, B. A. (2014). <i>Introduction to the Practice of Statistics</i> (Eighth edition/Student edition). W.H. Freeman and Company, a Macmillan Higher Education Company.</span>, Chapter 6.3 &amp; 6.4</li>
+  <li><span id="WonnacottIntroductorystatistics1990">Wonnacott, T. H., &amp; Wonnacott, R. J. (1990). <i>Introductory Statistics</i> (5th ed). Wiley.</span>, Chapters 8, 9.1-9.4 &amp; 9.6</li>
+  <li><span id="TheNewYorkTimesBunniesDragonsNormal">The New York Times (Ed.). <i>Bunnies, Dragons and the ’Normal’ World: Central Limit Theorem | The New York Times</i>. Retrieved August 25, 2021, from https://www.youtube.com/watch?app=desktop&amp;v=jvoxEYmQHNM</span></li>
+</ul>
+
+<h3 id="bunnies-dragons-and-the-normal-world-central-limit-theorem">Bunnies, Dragons and the ‘Normal’ World: Central Limit Theorem</h3>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvoxEYmQHNM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<h3 id="p-hacking-and-replication">P-hacking and replication</h3>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/42QuXLucH3Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<h1 id="in-class">In class</h1>
+<hr />
+
+<ul>
+  <li>Take the <a href="https://PollEv.com/surveys/Nlve5x0g3G3EVGx25gc5o/respond">pre-lecture survey here</a>.</li>
+  <li><a href="https://colab.research.google.com/drive/1BVJSIzA_cTvnaEt5l8ibCBY16-K2DMaf?usp=sharing">Lecture on key concepts</a></li>
+  <li>Catch up on assignments and hands-on practice:
+    <ul>
+      <li>Replication project pitch</li>
+      <li>Qualitative Test catch-up and clarification</li>
+      <li>Quantitative Test hands-on</li>
+    </ul>
+  </li>
+</ul>
+
+  </article>
+
+  
 
 </div>
 
+<!-- 
+    <p class="post-meta">November 1, 2022</p>
+ -->
     </div>
 
     <!-- Footer -->
