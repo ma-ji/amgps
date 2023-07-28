@@ -15,18 +15,20 @@ profile:
 # social: true  # includes social icons at the bottom of the page
 ---
 
-<!-- 1. Make WOS core DB required for selecting articles. -->
+<!-- 
+Improving for 2023 fall
+1. Review students' feedback: rate on concepts, some statistical analysis.
+2. Site map.
+3. Improving strategy: reflection on peer observation.
 
+
+ -->
+ 
 - Instructor team:
   - [Ji Ma](https://jima.me/) (Primary Instructor, maji@austin.utexas.edu)
-  - [Felipe Antequera](https://www.linkedin.com/in/felipe-antequera-87489a18/?originalSubdomain=cl) (Instructor of Statistics and Teaching Assistant, felipe.antequera@utexas.edu)
-  - [Joycelyn Ovalle](https://www.linkedin.com/in/ovallejoycelyn/) (Teaching Assistant and Grader, joyce.ovalle@utexas.edu)
+  - [Celine G Kim](https://www.linkedin.com/in/celinegkim/) (Teaching Assistant, celinekim@utexas.edu)
 - Weekly session: TH 9:00AM-12:00PM, SRH 3.122 [(See schedule page for details)](/schedule/)
-- [TA/Office hours](https://docs.google.com/spreadsheets/d/1BodknGLQXk-SalurPwSca07uoTo8e3bgXPgFnsbRrE8/edit#gid=0): SRH3.276
-  - Tuesday: 3pm-5pm (Joyce)
-  - Wednesday: 9am-11am (Felipe)
-  - Thursday: 2pm-4pm (Ji)
-  - Thursday: 3pm-5pm (Joyce)
+- [TA/Office hours](#): TBD.
 
 ---
 
