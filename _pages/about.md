@@ -7,8 +7,8 @@ description: A.K.A., Learn Useful Methods For Solving Real Research Questions Bu
 profile:
   align: right
   # image: prof_pic.jpg
-  address: >
-    <a target="_blank" href="https://kwize.com/quote-of-the-day/"><img style="width:300px;" src="https://kwize.com/pics/Quote-of-the-Day-3-0.jpg" alt="Quote of the Day"></a>
+  # address: >
+  #   <a target="_blank" href="https://kwize.com/quote-of-the-day/"><img style="width:300px;" src="https://kwize.com/pics/Quote-of-the-Day-3-0.jpg" alt="Quote of the Day"></a>
 
 # news: true  # includes a list of news items
 # selected_papers: true # includes a list of papers marked as "selected={true}"
