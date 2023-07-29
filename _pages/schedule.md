@@ -18,10 +18,4 @@ week: true
 
 \*\: Attendance optional if **_Early-Pass_** the [Standard Test - Quantitative](/test_quant/).
 
-<div class="post">
-
-    {% if page.week %}
-      {% include week.html %}
-    {% endif %}
-
-</div>
+{% include week.html %}
