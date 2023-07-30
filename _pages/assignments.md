@@ -1,6 +1,6 @@
 ---
 order: 2
-layout: page
+layout: post
 permalink: /assignments/
 title: Assignments
 # description:
