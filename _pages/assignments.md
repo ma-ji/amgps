@@ -5,6 +5,8 @@ permalink: /assignments/
 title: Assignments
 # description:
 nav: true
+toc:
+	sidebar:left
 ---
 
 <div class="row mt-3">
