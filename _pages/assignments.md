@@ -1,10 +1,10 @@
 ---
-order: 2
+nav_order: 2
+nav: true
 layout: post
 permalink: /assignments/
 title: Assignments
 # description:
-nav: true
 toc:
 	sidebar:left
 ---
