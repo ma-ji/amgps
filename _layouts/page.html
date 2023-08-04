@@ -9,6 +9,13 @@ layout: default
             <p class="post-description">{{ page.description }}</p>
           </header>
 
+          {% if page.toc and page.toc.beginning %}
+          <div id="table-of-contents">
+            {% toc %}
+          </div>
+          <hr>
+          {% endif %}
+
           <article>
             {{ content }}
           </article>

@@ -5,6 +5,8 @@ layout: post
 permalink: /assignments/
 title: Assignments
 # description:
+toc:
+  sidebar: left
 ---
 
 <div class="row mt-3">
