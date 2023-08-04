@@ -18,4 +18,4 @@ nav: false
 
 \*\: Attendance optional if **_Early-Pass_** the [Standard Test - Quantitative](/test_quant/).
 
-{% include week.html %}
+<!-- {% include week.html %} -->
