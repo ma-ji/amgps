@@ -4,7 +4,7 @@ layout: page
 permalink: /schedule/
 title: Schedule
 description: TH 9:00AM-12:00PM, SRH 3.122. Click for weekly details. Subject to change.
-nav: true
+nav: false
 # week: true
 ---
 

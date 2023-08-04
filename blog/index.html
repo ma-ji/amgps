@@ -110,44 +110,39 @@ pagination:
 </table>
 
 <div class="news">
-  {% if site.week %}
-    <div class="table-responsive">
-
-    <table class="table table-hover">
-      <colgroup>
-        <col style="width:2%">
-        <col style="width:8%">
-        <col style="width:35%">
-        <col style="width:15%">
-      </colgroup>
-        <tr>
-          <th scope="col"><b>Week#</b></th>
-          <th scope="col"><b>Date</b></th>
-          <th scope="col"><b>Topic</b></th>
-          <th scope="col"><b>Due / After class</b></th>
-        </tr>
-      <tbody>
-      {% assign week = site.week | sort: "week_num" %}
-      {% for item in week limit: site.week_limit %}
-        <tr>
-          <th scope="row">{{ item.week_num }}</th>
-          <th scope="row">{{ item.session_date }}</th>
-          <td>
-            {% if item.inline %}
-              {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
-            {% else %}
-              <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
-            {% endif %}
-          </td>
-          <th scope="row">{{ item.due }}</th>
-        </tr>
-      {% endfor %}
-      </tbody>
-    </table>
-    </div>
-  {% else %}
-    <p>No schedule so far...</p>
-  {% endif %}
+  <div class="table-responsive">
+  <table class="table table-hover">
+    <colgroup>
+      <col style="width:2%">
+      <col style="width:8%">
+      <col style="width:35%">
+      <col style="width:15%">
+    </colgroup>
+      <tr>
+        <th scope="col"><b>Week#</b></th>
+        <th scope="col"><b>Date</b></th>
+        <th scope="col"><b>Topic</b></th>
+        <th scope="col"><b>Due / After class</b></th>
+      </tr>
+    <tbody>
+    {% assign week = site.week | sort: "week_num" %}
+    {% for item in week limit: site.week_limit %}
+      <tr>
+        <th scope="row">{{ item.week_num }}</th>
+        <th scope="row">{{ item.session_date }}</th>
+        <td>
+          {% if item.inline %}
+            {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
+          {% else %}
+            <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+          {% endif %}
+        </td>
+        <th scope="row">{{ item.due }}</th>
+      </tr>
+    {% endfor %}
+    </tbody>
+  </table>
+  </div>
 </div>
 
   {% assign featured_posts = site.posts | where: "featured", "true" %}
