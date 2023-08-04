@@ -1,12 +1,11 @@
 ---
 nav_order: 2
 nav: true
-layout: page
+layout: post
 permalink: /assignments/
 title: Assignments
 # description:
 ---
-
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
