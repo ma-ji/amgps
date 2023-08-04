@@ -5,8 +5,6 @@ layout: page
 permalink: /assignments/
 title: Assignments
 # description:
-toc:
-	sidebar:left
 ---
 
 
