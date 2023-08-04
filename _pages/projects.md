@@ -3,12 +3,8 @@ layout: page
 title: projects
 permalink: /projects/
 description: A growing collection of your cool projects.
-<<<<<<< HEAD
-nav: false
-=======
 nav: true
 nav_order: 2
->>>>>>> c824d128673c000ef9f0e0e77a0ae30d2c4b4568
 display_categories: [work, fun]
 horizontal: false
 ---
