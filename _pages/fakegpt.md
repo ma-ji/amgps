@@ -1,7 +1,7 @@
 ---
 nav_order: 2
 nav: true
-layout: post
+layout: page
 permalink: /fakegpt/
 title: FakeGPT
 # description:
