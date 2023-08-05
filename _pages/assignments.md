@@ -19,6 +19,8 @@ toc:
     </div>
 </div>
 
+<br>
+
 - [Plagiarism test (5%)](#1-plagiarisms-test) / [Participation (15%)](#2-participation) / [Customized learning (25%)](#3-customized-learning)
 - Standard Tests: [Qualitative (20%)](#5-standard-test-qualitative) / [Quantitative (35%)](#4-standard-test-quantitative)
 - [Deadlines Overview](#)
