@@ -23,7 +23,7 @@ Therefore, we must approach any output from ChatGPT with healthy skepticism and 
 
 This exercise aims to enhance your understanding of statistical methods and concepts in a public policy context. By leveraging ChatGPT to generate a **_flawless_** analysis, you will gain insights into how to evaluate and critique the AI-generated information critically. This hands-on approach will expose you to the practical application of AI in public policy analysis.
 
-## 3. Steps and Rules for the Exercise
+## 3. General Steps and Rules
 
 Here are some general steps for the exercise:
 
