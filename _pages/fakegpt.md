@@ -9,7 +9,7 @@ toc:
   sidebar: left
 ---
 
-As future public policy professionals, understanding and interpreting data is a crucial skill. Welcome to this unique exercise, where we will harness the power of generative AI, specifically ChatGPT by OpenAI, to dive deeper into statistical analysis, and to help us generate a **_flawless_** empirical analysis--"**Fake with ChatGPT**."
+As future public policy professionals, understanding and interpreting data is a crucial skill. Welcome to this unique exercise, where we will harness the power of generative AI, specifically ChatGPT by OpenAI, to dive deeper into statistical analysis, and to help us generate a **_flawless_** empirical analysis---"**Fake with ChatGPT**."
 
 Remember, the goal is not just to use ChatGPT to generate a **_flawless_** report but to use this process to deepen your understanding of statistical analysis within a public policy context. 
 
