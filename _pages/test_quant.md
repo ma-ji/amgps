@@ -7,10 +7,9 @@ title: Standard Test - Quantitative
 nav: false
 ---
 
-**Review the questions here: [Standard Test - Quantitative](https://docs.google.com/document/d/1DMwZjShq1L7Q167UH1mzuo_d7TUZ-Lfh-id-vz6ND4I/edit?usp=sharing)** (subject to revision for clarity)
 
-This is a partial open-book test. You can review and practice on these questions using the sample dataset. When you take the final test, a different dataset will be provided, but the questions will be the same (random selected, not all the questions for time sake). 
 
+<!-- 
 There will be two opportunities to take the final test.
 
 - **Early-Pass (Week 4): If you are very familiar with these topics, you can take the final test during office hours.**
@@ -26,6 +25,6 @@ There will be two opportunities to take the final test.
 		2. The assignment on which you get a higher score will be counted toward your final grade for this course.
 - **On Dec 1, 2022: This is the final and only chance for those who haven't taken this test.**
 
-*The Replication Project is an option for all students, regardless of taking the Early-Pass or not.*
+*The Replication Project is an option for all students, regardless of taking the Early-Pass or not.* -->
 
 <!-- Submit a Word document with your analysis, code, figures, and tables etc. via Canvas. -->
