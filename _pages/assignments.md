@@ -187,7 +187,7 @@ xxx (reflection on: research content and research design).
 All work is due as indicated on the course schedule. Late submission will be taken a 30% off the total possible points as late penalty. For example, for an assignment with 100 total possible points, if you submit late and graded 80, your final grade for this assignment will be 50 (= 80 − 100 ∗ 30%). Please send me a notice if you have an emergency (neither travel arrangements nor computer problems are emergencies).  The last week of class is the final makeup date for all late assignments.
 
 ---
-# References
+<!-- # References
 ---
 
-{% bibliography --cited %}
+{% bibliography --cited %} -->
