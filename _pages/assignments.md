@@ -22,17 +22,17 @@ toc:
 <br>
 
 - [Plagiarism test (5%)](#1-plagiarisms-test) / [Participation (15%)](#2-participation) / [Customized learning (25%)](#3-customized-learning)
-- Standard Tests: [Qualitative (20%)](#5-standard-test-qualitative) / [Quantitative (35%)](#4-standard-test-quantitative)
+- Tests: [Qualitative (20%)](#5-qualitative-group-project) / [Quantitative (35%)](#4-quantitative-test)
 - [Deadlines Overview](#)
 
 Resources:
 
 - [FAQ for: Learning Plan / Standard Tests](https://docs.google.com/document/d/1ZlsNc7oQ5OCEh70sqWj4kSRlqBNNMHKw2PQavE8-MCk/edit#heading=h.dnvsw5lrfgsn)
 - [Study cards](/assets/pdf/study_cards.pdf)
-- From previous semesters: [Learning plan](#) / [Replication study](#)
+- Examples from previous semesters: [Learning plan](https://utexas.instructure.com/courses/1365924/files/folder/learning_plan_examples) / [Qualitative research plan](https://utexas.instructure.com/courses/1365924/files/folder/qualitative_plans_examples)
 
 ---
-# 1. Plagiarisms test
+# 1. Plagiarisms Test
 ---
 
 The first assignment of this course is to [pass the plagiarism test and obtain a certificate](https://plagiarism.iu.edu/index.html) at the master and doctoral level. Plagiarism is a serious academic misconduct. You will receive zero grade on plagiarized work and there may be other consequences. We have been told not to do this maybe since primary school, and we are always assuming we know what plagiarism is. However, we may assume we know too much (e.g., [famous cases of plagiarism](https://www.google.com/search?q=famous+cases+of+plagiarism)).
@@ -81,7 +81,7 @@ Your participation and responsibilities will be assessed by your group members [
 <br>
 
 ---
-# 3. Customized learning
+# 3. Customized Learning
 ---
 
 You may want to develop your own skill set over the semester. For example, learning how to use Python and R rather than using Stata or Excel. This assignment accommodates such a need. This is a DIY and self-motivated module.
@@ -134,7 +134,7 @@ A completion report in any file format is fine (e.g., PPT/Excel/Word). Although 
 <br>
 
 ---
-# 4. Standard test: Quantitative
+# 4. Quantitative Test
 ---
 
 **Review the questions here: [Standard Test - Quantitative](https://docs.google.com/document/d/1DMwZjShq1L7Q167UH1mzuo_d7TUZ-Lfh-id-vz6ND4I/edit?usp=sharing)** (subject to revision for clarity)
@@ -144,7 +144,7 @@ This is a partial open-book test. You can review and practice on these questions
 <br>
 
 ---
-# 5. Standard test: Qualitative
+# 5. Qualitative Group Project
 ---
 
 - Review the questions here: [Standard Test - Qualitative](https://docs.google.com/document/d/1V2jr_-KRzmuDkhOUu6rlitjK8VmmQmi8iAzJm7XXdUs/edit?usp=sharing) (subject to revision for clarity)
