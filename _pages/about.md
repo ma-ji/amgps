@@ -35,11 +35,11 @@ While data analysis can be challenging, applying data analysis methods to empiri
 
 Given the diverse backgrounds of the students, expectations will differ accordingly:
 
-- For all students, it is expected that they will (1) gain an understanding of a set of core empirical methods and their applications in policy research, and (2) engage in customized self-development over the semester.
+- For all students, it is expected that they will (a) gain an understanding of a set of core empirical methods and their applications in policy research, and (b) engage in customized self-development over the semester.
 
-- For students with minimal or no statistical training, approximately 9 hours of work is expected each week: 3 hours in class, 1 hour in a lab or self-guided session on Excel/Python/R, 3 hours outside of class for assignments (including final tests and "customized learning"), and 2 hours of preparation for upcoming sessions (including readings and "paper practice").
+- For students with minimal or no statistical training, approximately 9 hours of work is expected each week: (a) 3 hours in class, (b) 1 hour in a lab or self-guided session on Excel/Python/R, (c) 3 hours outside of class for assignments (including final tests and "customized learning"), and (d) 2 hours of preparation for upcoming sessions (including readings and "paper practice").
 
-- For students with advanced knowledge of statistics, approximately 7 hours of work is expected each week: 3 hours in class, 3 hours outside of class for assignments (mostly on "customized learning" and a qualitative group project), and 1 hour of preparation for upcoming sessions (including readings and "paper practice").
+- For students with advanced knowledge of statistics, approximately 7 hours of work is expected each week: (a) 3 hours in class, (b) 3 hours outside of class for assignments (mostly on "customized learning" and a qualitative group project), and (c) 1 hour of preparation for upcoming sessions (including readings and "paper practice").
 
 ### Reading materials
 
