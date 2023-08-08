@@ -27,19 +27,19 @@ profile:
 ### Overview
 ---
 
-Data crunching is hard, applying data crunching methods to empirical social science studies is harder. This course has <a name="purposes">three purposes</a>:
+While data analysis can be challenging, applying data analysis methods to empirical social science studies adds a layer of complexity. This course serves three main purposes:
 
-1. Understand basic quantitative and qualitative empirical analysis methods.
-2. Able to conduct the analysis manually and with software packages.
-3. Know how to apply these analysis methods to answering research questions from a research design perspective, and know how to assess the quality of an empirical study.
+1. To facilitate understanding of basic quantitative and qualitative empirical analysis methods.
+2. To equip students with the skills needed to conduct analysis both manually and using software packages.
+3. To impart knowledge on how to apply these analysis methods for answering research questions from a research design perspective, and how to assess the quality of an empirical study.
 
-Given the background of students extremely varies, the overall expectations differ accordingly:
+Given the diverse backgrounds of the students, expectations will differ accordingly:
 
-- Required to all: (a) understanding a set of core empirical methods, (b) the application of methods in policy research, (c) customized self-development over the semester.
+- For all students, it is expected that they will (1) gain an understanding of a set of core empirical methods and their applications in policy research, and (2) engage in customized self-development over the semester.
 
-- For students without or with minimal statistical training, approximately 9 hours weekly: (a) 3 hours in class, (b) 1 hour lab or self-guided session on Excel/Python/R, (c) 3 hours out-class for assignments (on final tests and "customized learning"), (d) 2 hours preparation for upcoming sessions (on readings and "paper practice").
+- For students with minimal or no statistical training, approximately 9 hours of work is expected each week: 3 hours in class, 1 hour in a lab or self-guided session on Excel/Python/R, 3 hours outside of class for assignments (including final tests and "customized learning"), and 2 hours of preparation for upcoming sessions (including readings and "paper practice").
 
-- For students already with advanced knowledge of statistics, approximately 7 hours weekly: (a) 3 hours in class, (b) 3 hours out-class for assignments (mostly on "customized learning" and qualitative group project), (c) 1 hour preparation for upcoming sessions (on readings and "paper practice").
+- For students with advanced knowledge of statistics, approximately 7 hours of work is expected each week: 3 hours in class, 3 hours outside of class for assignments (mostly on "customized learning" and a qualitative group project), and 1 hour of preparation for upcoming sessions (including readings and "paper practice").
 
 ### Reading materials
 
