@@ -27,9 +27,8 @@ toc:
 
 Resources:
 
-- [FAQ for: Learning Plan / Standard Tests](https://docs.google.com/document/d/1ZlsNc7oQ5OCEh70sqWj4kSRlqBNNMHKw2PQavE8-MCk/edit#heading=h.dnvsw5lrfgsn)
+- [FAQs for learning plan and tests](https://docs.google.com/document/d/18MESU6oy85bv1X6qg5m6AIbsADp4pHNOU6aFBM_YT90/edit?usp=sharing)
 - [Study cards](/assets/pdf/study_cards.pdf)
-- Examples from previous semesters: [Learning plan](https://utexas.instructure.com/courses/1365924/files/folder/learning_plan_examples) / [Qualitative research plan](https://utexas.instructure.com/courses/1365924/files/folder/qualitative_plans_examples)
 
 ---
 # 1. Plagiarisms Test
@@ -88,12 +87,14 @@ You may want to develop your own skill set over the semester. For example, learn
 
 _Expected deliverables_: 
 
-	- Learning plan proposal.
-	- Self-evaluation report of completion.
+  - Learning plan proposal.
+  - Self-evaluation report of completion.
 
 <br>
 
 ## 3.1 Learning plan proposal (10%)
+
+**Examples from previous semesters: [Learning plan](https://utexas.instructure.com/courses/1365924/files/folder/learning_plan_examples)**
 
 You are responsible to develop an actionable and feasible learning plan. There is no required structure of the plan, but it should have the following contents:
 
@@ -106,6 +107,8 @@ You are responsible to develop an actionable and feasible learning plan. There i
 7. Maximum length 2 pages, use the space efficiently and keep your plan concise.
 
 You can share learning plans with others. You can even assemble learning groups. But this is NOT a group assignment, and you will be assessed individually.
+
+In reality, the most challenging part is "you don't known what you don't know." We, and ChatGPT, are here to help. We will have in-class group discussion and TA hours for you to design a learning plan that will fit your career goals.
 
 _You cannot substantially revise your proposal to lower the requirements after it is finalized._
 
@@ -147,10 +150,11 @@ This is a partial open-book test. You can review and practice on these questions
 # 5. Qualitative Group Project
 ---
 
+**Examples from previous semesters: [Qualitative research plan](https://utexas.instructure.com/courses/1365924/files/folder/qualitative_plans_examples)**
+
 - Review the questions here: [Standard Test - Qualitative](https://docs.google.com/document/d/1V2jr_-KRzmuDkhOUu6rlitjK8VmmQmi8iAzJm7XXdUs/edit?usp=sharing) (subject to revision for clarity)
 - [Qualitative Methods Exam: Study Guide](https://docs.google.com/document/d/1gM-43rSKAsIkU8ilVWvBd18H9Zb6_dozQgboLowyn3Q/edit?usp=sharing)
 - This is a take-home and open-book test. Students are expected to work in groups (7 people max per group) and submit MS Word documents on Canvas before the deadlines.
-
 
 <!-- (IRB not covered, but very important, we should briefly mention in class) -->
 
