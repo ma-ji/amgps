@@ -63,13 +63,6 @@ See a list of [Assignments](/assignments/)
 - D+ >= 67%, D >= 63%, D- >= 60%
 
 ---
-### Assignments
----
-
-See [assignment page](/assignments) for details.
-
-
----
 ### Policies
 ---
 

@@ -23,7 +23,7 @@ toc:
 
 - [Plagiarism test (5%)](#1-plagiarisms-test) / [Participation (15%)](#2-participation) / [Customized learning (25%)](#3-customized-learning)
 - Tests: [Qualitative (20%)](#5-qualitative-group-project) / [Quantitative (35%)](#4-quantitative-test)
-- [Deadlines Overview](#)
+<!-- - [Deadlines Overview](#) -->
 
 Resources:
 
@@ -152,8 +152,8 @@ This is a partial open-book test. You can review and practice on these questions
 
 **Examples from previous semesters: [Qualitative research plan](https://utexas.instructure.com/courses/1365924/files/folder/qualitative_plans_examples)**
 
-- Review the questions here: [Standard Test - Qualitative](https://docs.google.com/document/d/1V2jr_-KRzmuDkhOUu6rlitjK8VmmQmi8iAzJm7XXdUs/edit?usp=sharing) (subject to revision for clarity)
-- [Qualitative Methods Exam: Study Guide](https://docs.google.com/document/d/1gM-43rSKAsIkU8ilVWvBd18H9Zb6_dozQgboLowyn3Q/edit?usp=sharing)
+- Review the questions here: [Standard Test - Qualitative](https://docs.google.com/document/d/1nOeKLBKtejR_Lt4VL0wd8O6a88gjcyAtcv2SSGrxPtg/edit?usp=sharing) (subject to revision for clarity)
+- [Qualitative Methods Exam: Study Guide](https://docs.google.com/document/d/18ILU9VoSytxJNyecaQced0dHMXvVDlGbpNw6P7bBg5c/edit?usp=sharing)
 - This is a take-home and open-book test. Students are expected to work in groups (7 people max per group) and submit MS Word documents on Canvas before the deadlines.
 
 <!-- (IRB not covered, but very important, we should briefly mention in class) -->
