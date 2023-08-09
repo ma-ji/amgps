@@ -45,13 +45,9 @@ Given the diverse backgrounds of the students, expectations will differ accordin
 
 Required textbook: {% reference MeierAppliedStatisticsPublic2014 %}
 
-Where to get the textbook:
-
-- [UT Co-op Textbook](https://www.universitycoop.com/adoption-search-results?ccid=293186&itemid=2439)
-- Previous versions are fine as long as the course content is covered. If the contents are substantially different from the 9th edition, you can ask your classmates for help, or use the [University Library's service](https://www.lib.utexas.edu/find-borrow-request/get-a-scan).
+Previous versions are fine as long as the course content is covered. If the contents are substantially different from the 9th edition, you can ask your classmates for help, or use the [University Library's service](https://www.lib.utexas.edu/find-borrow-request/get-a-scan). We will provide scanned copies for the first few weeks so that you have time to prepare.
 
 [Bibliography of all readings](https://www.zotero.org/groups/4409698/pa397g/items/G3F8PFDS/library){:target="_blank"}
-
 
 ---
 ### Grading
