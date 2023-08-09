@@ -41,7 +41,9 @@ Given the diverse backgrounds of the students, expectations will differ accordin
 
 - For students with advanced knowledge of statistics, approximately 7 hours of work is expected each week: (a) 3 hours in class, (b) 3 hours outside of class for assignments (mostly on "customized learning" and a qualitative group project), and (c) 1 hour of preparation for upcoming sessions (including readings and "paper practice").
 
+---
 ### Reading materials
+---
 
 Required textbook: {% reference MeierAppliedStatisticsPublic2014 %}
 
