@@ -18,14 +18,13 @@ pagination:
   {% assign blog_name_size = site.blog_name | size %}
   {% assign blog_description_size = site.blog_description | size %}
 
-  <br>
-  Structure of weekly sessions: (1) Lecture on key concepts (<1h); (2) Demonstrate and explain "paper practice" (<30 mins); (3) Hands-on practice with Excel (<45 mins); (4) Group discussion and preparation for assignments (<30 mins).
-  <br>
-
   {% if blog_name_size > 0 or blog_description_size > 0 %}
   <div class="header-bar">
     <h1>{{ site.blog_name }}</h1>
-    <h2>{{ site.blog_description }}</h2>
+    <h3>{{ site.blog_description }}</h3>
+
+    <br>Structure of weekly sessions: (1) Lecture on key concepts (<1h); (2) Demonstrate and explain "paper practice" (<30 mins); (3) Hands-on practice with Excel (<45 mins); (4) Group discussion and preparation for assignments (<30 mins).<br>
+
   </div>
   {% endif %}
 
