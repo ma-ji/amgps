@@ -140,7 +140,7 @@ A completion report in any file format is fine (e.g., PPT/Excel/Word). Although 
 # 4. Quantitative Test
 ---
 
-**Review the questions here: [Standard Test - Quantitative](https://docs.google.com/document/d/1DMwZjShq1L7Q167UH1mzuo_d7TUZ-Lfh-id-vz6ND4I/edit?usp=sharing)** (subject to revision for clarity)
+**Review the questions here: [Quantitative test](https://docs.google.com/document/d/11uxryPM_agwIlMuPjE1jtcig7YDhD1yBfeVhz8Go9I4/edit?usp=sharing)** (subject to revision for clarity)
 
 This is a partial open-book test. You can review and practice on these questions using the sample dataset. When you take the final test, a different dataset will be provided, but the questions will be the same (random selected, not all the questions for time sake).
 
@@ -150,11 +150,14 @@ This is a partial open-book test. You can review and practice on these questions
 # 5. Qualitative Group Project
 ---
 
-**Examples from previous semesters: [Qualitative research plan](https://utexas.instructure.com/courses/1365924/files/folder/qualitative_plans_examples)**
+**Review the questions here: [Qualitative ](https://docs.google.com/document/d/1nOeKLBKtejR_Lt4VL0wd8O6a88gjcyAtcv2SSGrxPtg/edit?usp=sharing) (subject to revision for clarity)**
 
-- Review the questions here: [Standard Test - Qualitative](https://docs.google.com/document/d/1nOeKLBKtejR_Lt4VL0wd8O6a88gjcyAtcv2SSGrxPtg/edit?usp=sharing) (subject to revision for clarity)
+This is a take-home and open-book test. Students are expected to work in groups (5 people max per group) and submit MS Word documents on Canvas before the deadlines.
+
+Resources:
+
 - [Qualitative Methods Exam: Study Guide](https://docs.google.com/document/d/18ILU9VoSytxJNyecaQced0dHMXvVDlGbpNw6P7bBg5c/edit?usp=sharing)
-- This is a take-home and open-book test. Students are expected to work in groups (7 people max per group) and submit MS Word documents on Canvas before the deadlines.
+- Examples from previous semesters: [Qualitative research plan](https://utexas.instructure.com/courses/1365924/files/folder/qualitative_plans_examples)
 
 <!-- (IRB not covered, but very important, we should briefly mention in class) -->
 
