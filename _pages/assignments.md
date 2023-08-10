@@ -9,10 +9,6 @@ toc:
   sidebar: left
 ---
 
----
-# Assignment strcture
----
-
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/structure-assignments.png" data-zoomable>
@@ -20,6 +16,10 @@ toc:
 </div>
 
 <br>
+
+---
+# Assignment strcture
+---
 
 - [Plagiarism test (5%)](#1-plagiarisms-test) / [Participation (15%)](#2-participation) / [Customized learning (25%)](#3-customized-learning)
 - Tests: [Qualitative (20%)](#5-qualitative-group-project) / [Quantitative (35%)](#4-quantitative-test)
