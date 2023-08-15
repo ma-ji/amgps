@@ -22,7 +22,10 @@ toc:
   - [Ji Ma](https://jima.me/) (Primary Instructor, maji@austin.utexas.edu)
   - [Celine G Kim](https://www.linkedin.com/in/celinegkim/) (Teaching Assistant, celinekim@utexas.edu)
 - Weekly session: TH 9:00AM-12:00PM, SRH 3.122 [(See schedule page for details)](/blog/)
-- [TA/Office hours](#): TBD.
+- Office hours:
+  - J.M., TBD.
+  - C.K., TBD.
+- Lab/review sections: TBD.
 
 ---
 
