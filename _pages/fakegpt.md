@@ -48,3 +48,4 @@ Here are some general steps for the exercise:
 ## 4. Resources
 
 - [How do I cite generative AI in MLA style?](https://style.mla.org/citing-generative-ai/)
+- [LLMs and Assignment Development](https://docs.google.com/presentation/d/1Mva4JVyNw7RIcwarygWHw5vf8p_daooqdLDfuwW_fHI/edit?usp=sharing) by [Hannah Hopkins](mailto:hannah.hopkins@utexas.edu)
