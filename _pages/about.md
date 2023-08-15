@@ -4,8 +4,10 @@ layout: about
 title: About
 permalink: /
 description: A.K.A., Learn Useful Methods For Solving Real Research Questions But Not (Only) For Passing Course Exams And Assignments
-profile:
-  align: right
+toc:
+  sidebar: left
+# profile:
+#   align: right
   # image: prof_pic.jpg
   # address: >
   #   <a target="_blank" href="https://kwize.com/quote-of-the-day/"><img style="width:300px;" src="https://kwize.com/pics/Quote-of-the-Day-3-0.jpg" alt="Quote of the Day"></a>
@@ -62,6 +64,25 @@ See a list of [Assignments](/assignments/)
 - C+ >= 77%, C >= 73%, C- >= 70%
 - D+ >= 67%, D >= 63%, D- >= 60%
 
+### Quick access to online documents:
+
+#### Lecture related
+- [Reading materials](https://drive.google.com/drive/folders/1F5Odrql4rvFk60fLFTxsAmxOstuLJtmd?usp=sharing)
+- [Weekly Q&A](https://docs.google.com/document/d/1BCBiT5kcc6MykFzOS3ZLm0wHBXAAwLLmw-n-xhXfAOE/edit?usp=sharing)
+
+#### Tests
+- [Quantitative test](https://docs.google.com/document/d/11uxryPM_agwIlMuPjE1jtcig7YDhD1yBfeVhz8Go9I4/edit?usp=sharing)
+- [Qualitative test](https://docs.google.com/document/d/1nOeKLBKtejR_Lt4VL0wd8O6a88gjcyAtcv2SSGrxPtg/edit?usp=sharing)
+
+#### Study guides
+- [FAQs for learning plan and tests](https://docs.google.com/document/d/18MESU6oy85bv1X6qg5m6AIbsADp4pHNOU6aFBM_YT90/edit?usp=sharing)
+- [Qualitative Methods Exam: Study Guide](https://docs.google.com/document/d/18ILU9VoSytxJNyecaQced0dHMXvVDlGbpNw6P7bBg5c/edit?usp=sharing)
+- [Study cards](https://amgps.jima.me/assets/pdf/study_cards.pdf)
+
+#### Examples
+- [Qualitative research plan: Examples](https://utexas.instructure.com/courses/1365924/files/folder/qualitative_plans_examples)
+- [Learning plan: Examples](https://utexas.instructure.com/courses/1365924/files/folder/learning_plan_examples)
+
 ---
 ### Policies
 ---
@@ -69,6 +90,7 @@ See a list of [Assignments](/assignments/)
 - Mental health: The instructor urge students who are struggling for any reason and who believe that it might impact their performance in the course to reach out if they feel comfortable. This will allow the instructor to provide any possible resources or accommodations. If immediate mental health assistance is needed, call the Counseling and Mental Health Center (CMHC) at 512-471-3515. Outside CMHC business hours (8a.m.-5p.m., Monday-Friday), contact the CMHC 24/7 Crisis Line at 512-471-2255.
 - License for Open Education: This syllabus and all course content created by the instructor, TA, and students are licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
 - [University Policies](/policies/)
+
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
