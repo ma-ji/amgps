@@ -67,7 +67,9 @@ See a list of [Assignments](/assignments/)
 - C+ >= 77%, C >= 73%, C- >= 70%
 - D+ >= 67%, D >= 63%, D- >= 60%
 
-### Quick access to online documents:
+---
+### Quick access to online documents
+---
 
 #### Lecture related
 - [Reading materials](https://drive.google.com/drive/folders/1F5Odrql4rvFk60fLFTxsAmxOstuLJtmd?usp=sharing)
