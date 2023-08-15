@@ -92,7 +92,7 @@ See a list of [Assignments](/assignments/)
 ### Policies
 ---
 
-- Mental health: The instructor urge students who are struggling for any reason and who believe that it might impact their performance in the course to reach out if they feel comfortable. This will allow the instructor to provide any possible resources or accommodations. If immediate mental health assistance is needed, call the Counseling and Mental Health Center (CMHC) at 512-471-3515. Outside CMHC business hours (8a.m.-5p.m., Monday-Friday), contact the CMHC 24/7 Crisis Line at 512-471-2255.
+- Mental health: I urge students who are struggling for any reason and who believe that it might impact their performance in the course to reach out to me if they feel comfortable. This will allow me to provide any resources or accommodations that I can. If you are seeking mental health support, call the Counseling and Mental Health Center (CMHC) at 512-471-3515 (8a.m.-5p.m., Monday-Friday),  or you may also contact Bryce Moffett, LCSW-S (LBJ CARE counselor) at 512-232-4449. Bryce's office is located in SRH 3.119 and she holds drop in Office Hours on Monday from 1-2 pm. For urgent mental health needs, please contact the CMHC 24/7 Crisis Line at 512-471-2255.
 - License for Open Education: This syllabus and all course content created by the instructor, TA, and students are licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
 - [University Policies](/policies/)
 
