@@ -25,7 +25,9 @@ toc:
 - Office hours:
   - J.M., TBD.
   - C.K., TBD.
-- Lab/review sections: TBD.
+- Lab/review sections:
+  - Only for this course: TBD.
+  - [LBJ Statistical Workshops](https://bit.ly/lbj-programming-workshops) (click the blue "Enroll in course" button)
 
 ---
 
