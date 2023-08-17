@@ -88,7 +88,7 @@ See a list of [Assignments](/assignments/)
 
 #### Examples
 - [Qualitative research plan: Examples](https://utexas.instructure.com/courses/1365924/files/folder/qualitative_plans_examples)
-- [Learning plan: Examples](https://utexas.instructure.com/courses/1365924/files/folder/learning_plan_examples)
+- [Learning plan: Examples](/assets/pdf/learning_plan_examples.pdf)
 
 ---
 ### Policies
