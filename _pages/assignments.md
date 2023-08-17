@@ -94,7 +94,7 @@ _Expected deliverables_:
 
 ## 3.1 Learning plan proposal (10%)
 
-**Examples from previous semesters: [Learning plan](https://utexas.instructure.com/courses/1365924/files/folder/learning_plan_examples)**
+**Examples from previous semesters: [Learning plan](/website/assets/pdf/learning_plan_examples.pdf)**
 
 You are responsible to develop an actionable and feasible learning plan. There is no required structure of the plan, but it should have the following contents:
 
