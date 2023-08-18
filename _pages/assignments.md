@@ -52,7 +52,21 @@ _For this assignment, please submit your certificate as a file via Canvas_
 
 You are expected to read and annotate the course materials of each week before class (1st week is exempt). The purpose is to have a chance to interact with your classmates, and I will have a better idea of your "pain points" before class. At least have one comment on each article, and respond to at least one comment from another classmate. This regular on-going assignment uses online annotation platform, and is due before the class day. -->
 
-## 2.1 Paper practice (10%)
+## 2.1 Hands-on practices (10%)
+
+The hands-on practices help you prepare for the final quantitative test. There are three types of of practices:
+
+### 2.1.1 "Paper practice"
+
+The is a one-page practice on paper. You are expected to complete the practice of the week after reading the reading materials. It needs to be submitted at the beginning of each class and will be explained in class. This test is different from the final test questions but cover the same concepts or methods. For this practice, you can seek immediate help in class.
+
+### 2.1.2 In-class practice
+
+This is an in-class practice. You will get an Excel workbook with data and questions. The instructor will show you how to do the analysis using Excel step by step. You only need to follow the steps in class and may practice outside of the class. This test is different from the final test questions but cover the same concepts or methods. For this practice, you can seek immediate help in class.
+
+### 2.1.3 Take home practice
+
+You can practice the final quantitative test questions using the practice dataset we provided. The practice dataset has the same structure with the dataset that will be used in the final test. The only difference is the actual data. For this practice, you can seek help during office hours or workshops.
 
 <br>
 
