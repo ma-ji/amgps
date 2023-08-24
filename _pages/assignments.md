@@ -60,6 +60,12 @@ The hands-on practices help you prepare for the final quantitative test. There a
 
 The is a one-page practice on paper. You are expected to complete the practice of the week after reading the reading materials. It needs to be submitted at the beginning of each class and will be explained in class. This test is different from the final test questions but cover the same concepts or methods. For this practice, you can seek immediate help in class.
 
+_Submit at the beginning of:_
+
+- Week 3: [Tidying data](#)
+- Week 5: [Descriptive statistics](#)
+
+
 ### 2.1.2 In-class practice
 
 This is an in-class practice. You will get an Excel workbook with data and questions. The instructor will show you how to do the analysis using Excel step by step. You only need to follow the steps in class and may practice outside of the class. This test is different from the final test questions but cover the same concepts or methods. For this practice, you can seek immediate help in class.
