@@ -64,6 +64,7 @@ _Submit at the beginning of:_
 
 - Week 3: [Tidying data](#)
 - Week 5: [Descriptive statistics](#)
+- Week 6: [Probability and sampling](#)
 
 
 ### 2.1.2 In-class practice
