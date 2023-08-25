@@ -173,7 +173,7 @@ This is a partial open-book test. You can review and practice on these questions
 
 **Review the questions here: [Qualitative ](https://docs.google.com/document/d/1nOeKLBKtejR_Lt4VL0wd8O6a88gjcyAtcv2SSGrxPtg/edit?usp=sharing) (subject to revision for clarity)**
 
-This is a take-home and open-book test. Students are expected to work in groups (5 people max per group) and submit MS Word documents on Canvas before the deadlines.
+This is a take-home and open-book research paper. Students are expected to work in groups (5 people max per group) and submit MS Word documents on Canvas before the deadlines.
 
 Resources:
 
