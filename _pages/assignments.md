@@ -62,7 +62,7 @@ The is a one-page practice on paper. You are expected to complete the practice o
 
 _Submit at the beginning of:_
 
-- Week 3: [Tidying data](#)
+- Week 3: [Tidying data](/assets/pdf/w3_pp.pdf)
 - Week 5: [Descriptive statistics](#)
 - Week 6: [Probability and sampling](#)
 
