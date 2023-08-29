@@ -23,7 +23,7 @@ toc:
   - [Celine G Kim](https://www.linkedin.com/in/celinegkim/) (Teaching Assistant, celinekim@utexas.edu)
 - Weekly session: [TH 9:00AM-12:00PM, SRH 3.122](/blog/)
 - Office hours:
-  - J.M., TBD.
+  - J.M., [Fridays 2-4pm](https://calendly.com/maji/20min) (pls book to avoid conflict with others).
   - C.K., TBD.
 - Lab/review sections:
   - Only for this course: TBD.
