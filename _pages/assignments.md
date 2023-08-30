@@ -177,7 +177,7 @@ This is a take-home and open-book research paper. Students are expected to work 
 
 Resources:
 
-- [Qualitative Methods Exam: Study Guide](https://docs.google.com/document/d/18ILU9VoSytxJNyecaQced0dHMXvVDlGbpNw6P7bBg5c/edit?usp=sharing)
+- [Qualitative Group Paper: Study Guide](https://docs.google.com/document/d/18ILU9VoSytxJNyecaQced0dHMXvVDlGbpNw6P7bBg5c/edit?usp=sharing)
 - Examples from previous semesters: [Qualitative research plan](https://utexas.instructure.com/courses/1365924/files/folder/qualitative_plans_examples)
 
 <!-- (IRB not covered, but very important, we should briefly mention in class) -->
