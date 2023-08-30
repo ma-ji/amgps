@@ -22,11 +22,11 @@ toc:
   - [Ji Ma](https://jima.me/) (Primary Instructor, maji@austin.utexas.edu)
   - [Celine G Kim](https://www.linkedin.com/in/celinegkim/) (Teaching Assistant, celinekim@utexas.edu)
 - Weekly session: [TH 9:00AM-12:00PM, SRH 3.122](/blog/)
-- Office hours:
-  - J.M., [Fridays 2-4pm](https://calendly.com/maji/20min) (pls book to avoid conflict with others).
-  - C.K., TBD.
+- Office hours (pls book to avoid conflict with others):
+  - J.M., [Fridays 2-4pm, SRH3.324](https://calendly.com/maji/20min)
+  - C.K., [Tuesdays 1-2pm and Wednesdays 1-2pm, SRH3.314/3.355](https://calendly.com/celinekim/office-hours)
 - Lab/review sections:
-  - Only for this course: TBD.
+  - C.K. office hours on 9/12, 9/26, 10/10, 10/24, 11/7, 11/28 (every other Tuesday starting W4).
   - [LBJ Statistical Workshops](https://bit.ly/lbj-programming-workshops) (click the blue "Enroll in course" button)
 
 ---
