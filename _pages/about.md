@@ -27,7 +27,7 @@ toc:
   - C.K., [Tuesdays 1-2pm and Wednesdays 1-2pm, SRH3.314/3.355](https://calendly.com/celinekim/office-hours)
 - Lab/review sections:
   - C.K. office hours on 9/12, 9/26, 10/10, 10/24, 11/7, 11/28 (every other Tuesday starting W4).
-  - [LBJ Statistical Workshops](https://bit.ly/lbj-programming-workshops) (click the blue "Enroll in course" button)
+  - [LBJ Statistical Software Workshops](https://bit.ly/lbj-programming-workshops) (click the blue "Enroll in course" button)
 
 ---
 
