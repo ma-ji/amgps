@@ -63,13 +63,17 @@ The is a one-page practice on paper. You are expected to complete the practice o
 _Submit at the beginning of:_
 
 - Week 3: [Tidying data](/assets/pdf/w3_pp.pdf)
-- Week 5: [Descriptive statistics](#)
+- Week 5: [Descriptive statistics](/assets/pdf/w5_pp.pdf)
 - Week 6: [Probability and sampling](#)
 
 
 ### 2.1.2 In-class practice
 
 This is an in-class practice. You will get an Excel workbook with data and questions. The instructor will show you how to do the analysis using Excel step by step. You only need to follow the steps in class and may practice outside of the class. This test is different from the final test questions but cover the same concepts or methods. For this practice, you can seek immediate help in class.
+
+- Week 3: [Tidying data](/assets/excel/w3_inclass.xlsx)
+- Week 5: [Descriptive statistics](/assets/excel/w5_inclass.xlsx)
+- Week 6: [Probability and sampling](#)
 
 ### 2.1.3 Take home practice
 
