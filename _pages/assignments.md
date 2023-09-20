@@ -64,7 +64,8 @@ _Submit at the beginning of:_
 
 - Week 3: [Tidying data](/assets/pdf/w3_pp.pdf)
 - Week 5: [Descriptive statistics](/assets/pdf/w5_pp.pdf)
-- Week 6: [Probability and sampling](#)
+- Week 6: [Probability and sampling](/assets/pdf/w6_pp.pdf)
+- Week 7: [Inferential statistics I - Hypothesis testing](#)
 
 
 ### 2.1.2 In-class practice
@@ -73,7 +74,8 @@ This is an in-class practice. You will get an Excel workbook with data and quest
 
 - Week 3: [Tidying data](/assets/excel/w3_inclass.xlsx)
 - Week 5: [Descriptive statistics](/assets/excel/w5_inclass.xlsx)
-- Week 6: [Probability and sampling](#)
+- Week 6: [Probability and sampling](/assets/excel/w6_inclass.xlsx)
+- Week 7: [Inferential statistics I - Hypothesis testing](/assets/excel/w7_inclass.xlsx)
 
 ### 2.1.3 Take home practice
 
