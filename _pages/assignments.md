@@ -58,24 +58,18 @@ The hands-on practices help you prepare for the final quantitative test. There a
 
 ### 2.1.1 "Paper practice"
 
-The is a one-page practice on paper. You are expected to complete the practice of the week after reading the reading materials. It needs to be submitted at the beginning of each class and will be explained in class. This test is different from the final test questions but cover the same concepts or methods. For this practice, you can seek immediate help in class.
+The is a one-page practice on paper. **You are expected to complete the practice of the week after reading the reading materials.** It needs to be submitted at the beginning of each class and will be explained in class. This test is different from the final test questions but cover the same concepts or methods. For this practice, you can seek immediate help in class or during office hours.
 
-_Submit at the beginning of:_
+_Paper practice of the week needs to be submitted at the beginning of that week's class. For example, you should submit the PP of week 5 at the beginning of week 5's class._
 
-- Week 3: [Tidying data](/assets/pdf/w3_pp.pdf)
-- Week 5: [Descriptive statistics](/assets/pdf/w5_pp.pdf)
-- Week 6: [Probability and sampling](/assets/pdf/w6_pp.pdf)
-- Week 7: [Inferential statistics I - Hypothesis testing](#)
+[Access the paper practice by week here.](https://drive.google.com/drive/folders/1ExAAX0FjoH1WPIqJQ5GWOU-QdW5sO6vR?usp=sharing)
 
 
 ### 2.1.2 In-class practice
 
-This is an in-class practice. You will get an Excel workbook with data and questions. The instructor will show you how to do the analysis using Excel step by step. You only need to follow the steps in class and may practice outside of the class. This test is different from the final test questions but cover the same concepts or methods. For this practice, you can seek immediate help in class.
+This is an in-class practice exercise. You will receive an Excel workbook containing data and questions. The instructor will guide you through the analysis step-by-step using Excel. To prepare, please review the workbook's contents before class to familiarize yourself with the material. During the lecture sessions, you can follow along and even practice further on your own time. While the questions in this practice exercise differ from those on the final test, they cover the same concepts and methods. If you need help, you can ask questions in class or during office hours.
 
-- Week 3: [Tidying data](/assets/excel/w3_inclass.xlsx)
-- Week 5: [Descriptive statistics](/assets/excel/w5_inclass.xlsx)
-- Week 6: [Probability and sampling](/assets/excel/w6_inclass.xlsx)
-- Week 7: [Inferential statistics I - Hypothesis testing](/assets/excel/w7_inclass.xlsx)
+[Access the in-class practice by week here.](https://drive.google.com/drive/folders/1ExxxFpn4NTox8XZBa0OzwH0B02lp34Ep?usp=sharing)
 
 ### 2.1.3 Take home practice
 
