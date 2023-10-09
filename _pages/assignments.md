@@ -54,6 +54,8 @@ You are expected to read and annotate the course materials of each week before c
 
 ## 2.1 Hands-on practices (10%)
 
+<!-- %%%%%%% Try any of these practices as group activity. %%%%%%% -->
+
 The hands-on practices help you prepare for the final quantitative test. There are three types of of practices:
 
 ### 2.1.1 "Paper practice"
