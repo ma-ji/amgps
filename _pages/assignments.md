@@ -177,6 +177,8 @@ This is a partial open-book test. You can review and practice on these questions
 
 This is a take-home and open-book research paper. Students are expected to work in groups (5 people max per group) and submit MS Word documents on Canvas before the deadlines.
 
+<!-- Proposal and final research paper. -->
+
 Resources:
 
 - [Qualitative Group Paper: Study Guide](https://docs.google.com/document/d/18ILU9VoSytxJNyecaQced0dHMXvVDlGbpNw6P7bBg5c/edit?usp=sharing)
