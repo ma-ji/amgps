@@ -21,7 +21,7 @@ toc:
 # Assignment strcture
 ---
 
-- [Plagiarism test (5%)](#1-plagiarisms-test) / [Participation (15%)](#2-participation) / [Customized learning (25%)](#3-customized-learning)
+- [Plagiarism test (5%)](#1-plagiarisms-test) / [Participation (10%)](#2-participation) / [Customized learning (30%)](#3-customized-learning)
 - Tests: [Qualitative (20%)](#5-qualitative-group-project) / [Quantitative (35%)](#4-quantitative-test)
 <!-- - [Deadlines Overview](#) -->
 
@@ -52,7 +52,7 @@ _For this assignment, please submit your certificate as a file via Canvas_
 
 You are expected to read and annotate the course materials of each week before class (1st week is exempt). The purpose is to have a chance to interact with your classmates, and I will have a better idea of your "pain points" before class. At least have one comment on each article, and respond to at least one comment from another classmate. This regular on-going assignment uses online annotation platform, and is due before the class day. -->
 
-## 2.1 Hands-on practices (10%)
+## 2.1 Hands-on practices (5%)
 
 <!-- %%%%%%% Try any of these practices as group activity. %%%%%%% -->
 
