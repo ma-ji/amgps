@@ -21,7 +21,7 @@ toc:
 - Instructor team:
   - [Ji Ma](https://jima.me/) (Primary Instructor, maji@austin.utexas.edu)
   - [Muhammad Zain Raza](https://www.linkedin.com/in/muhammad-zain-raza-99aa9194/) (Teaching Assistant, raza.zain08@austin.utexas.edu)
-- Weekly session: [M 9:00AM-12:00PM, SRH 3.122](/blog/)
+- Weekly session: [M 9:00AM-12:00PM, SRH 3.B10](/blog/)
 - Office hours (pls book to avoid conflict with others):
   - J.M., TBD.
   - Z.R., TBD.
