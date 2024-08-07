@@ -20,25 +20,31 @@ toc:
  
 - Instructor team:
   - [Ji Ma](https://jima.me/) (Primary Instructor, maji@austin.utexas.edu)
-  - [Celine G Kim](https://www.linkedin.com/in/celinegkim/) (Teaching Assistant, celinekim@utexas.edu)
-- Weekly session: [TH 9:00AM-12:00PM, SRH 3.122](/blog/)
+  - [Muhammad Zain Raza](https://www.linkedin.com/in/muhammad-zain-raza-99aa9194/) (Teaching Assistant, raza.zain08@austin.utexas.edu)
+- Weekly session: [M 9:00AM-12:00PM, SRH 3.122](/blog/)
 - Office hours (pls book to avoid conflict with others):
-  - J.M., [Fridays 2-4pm, SRH3.324](https://calendly.com/maji/20min)
-  - C.K., [Tuesdays 1-2pm and Wednesdays 1-2pm, SRH3.314/3.355](https://calendly.com/celinekim/office-hours)
+  - J.M., TBD.
+  - Z.R., TBD.
 - Lab/review sections:
-  - C.K. office hours on 9/12, 9/26, 10/10, 10/24, 11/7, 11/28 (every other Tuesday starting W4).
-  - [LBJ Statistical Software Workshops](https://bit.ly/lbj-programming-workshops) (click the blue "Enroll in course" button)
+  - Z.R. office hours TBD.
+  - [LBJ Statistical Software Workshops (TBD)](#)
 
 ---
 
 ### Overview
 ---
 
-While data analysis can be challenging, applying data analysis methods to empirical social science studies adds a layer of complexity. This course serves three main purposes:
+While data analysis can be challenging, applying data analysis methods to empirical social science studies adds a layer of complexity. This course has three major focuses:
 
-1. To facilitate understanding of basic quantitative and qualitative empirical analysis methods.
-2. To equip students with the skills needed to conduct analysis both manually and using software packages.
-3. To impart knowledge on how to apply these analysis methods for answering research questions from a research design perspective, and how to assess the quality of an empirical study.
+1. A set of statistical concepts and measures that are core to evidence-based policy analysis. Understand when and how to use them, and how to interpret them. (~50% efforts)
+2. Process of qualitative empirical policy research. Know the typical stages and have a hands-on experience. (~30% efforts)
+3. A customized learning module that helps you build your skills for future career. (~20% efforts)
+
+Primary practice/software tools: 
+
+- Guided statistical calculation on paper by hand: ["Paper Practice"](/assignments/#211-paper-practice)
+- MS-Excel: ["In Class Practice"](/assignments/#212-in-class-practice)
+- [DataCamp](https://datacamp.com) and [Brilliant](https://brilliant.org/): ["Customized Learning"](assignments/#3-customized-learning)
 
 Given the diverse backgrounds of the students, expectations will differ accordingly:
 
@@ -56,7 +62,7 @@ Required textbook: {% reference MeierAppliedStatisticsPublic2014 %}
 
 Previous versions are fine as long as the course content is covered. If the contents are substantially different from the 9th edition, you can ask your classmates for help, or use the [University Library's service](https://www.lib.utexas.edu/find-borrow-request/get-a-scan). We will provide scanned copies for the first few weeks so that you have time to prepare.
 
-[Bibliography of all readings](https://www.zotero.org/groups/4409698/pa397g/items/G3F8PFDS/library){:target="_blank"}
+<!-- [Bibliography of all readings](https://www.zotero.org/groups/4409698/pa397g/items/G3F8PFDS/library){:target="_blank"} -->
 
 ---
 ### Grading
