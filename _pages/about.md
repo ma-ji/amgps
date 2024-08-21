@@ -27,7 +27,7 @@ toc:
   - Z.R., TBD.
 - Lab/review sections:
   - Z.R. office hours TBD.
-  - [LBJ Statistical Software Workshops (tentative)](/assets/pdf/lbj_software_workshop_2024f.pdf)
+  - [LBJ Statistical Software Workshops](https://bit.ly/lbj-software-workshops-fall24)
 
 ---
 
