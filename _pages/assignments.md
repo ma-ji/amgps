@@ -62,7 +62,7 @@ The hands-on practices help you prepare for the final quantitative test. There a
 
 The is a one-page practice on paper. **You are expected to complete the practice of the week after reading the reading materials.** It needs to be submitted at the beginning of each class and will be explained in class. This test is different from the final test questions but cover the same concepts or methods. For this practice, you can seek immediate help in class or during office hours.
 
-_Paper practice of the week needs to be submitted at the beginning of that week's class. For example, you should submit the PP of week 5 at the beginning of week 5's class._
+_Paper practice of a week needs to be submitted, in the form of physical paper, at the beginning of that week's class. For example, you should submit the PP of week 5 at the beginning of week 5's class._
 
 [Access the paper practice by week here.](https://drive.google.com/drive/folders/1ISgYJnTD_rpwSXL1u9MsEcSRzTfx3AdR?usp=sharing)
 
@@ -70,6 +70,8 @@ _Paper practice of the week needs to be submitted at the beginning of that week'
 ### 2.1.2 In-class practice (10%)
 
 This is an in-class practice exercise. You will receive an Excel workbook containing data and questions. The instructor will guide you through the analysis step-by-step using Excel. To prepare, please review the workbook's contents before class to familiarize yourself with the material. During the lecture sessions, you can follow along and even practice further on your own time. While the questions in this practice exercise differ from those on the final test, they cover the same concepts and methods. If you need help, you can ask questions in class or during office hours.
+
+_In-class practice of a week needs to be submitted by Friday of that week on Canvas._
 
 [Access the in-class practice by week here.](https://drive.google.com/drive/folders/1ISmOkpNiJ7fTqwxdOShYq_CIQaqgYCx8?usp=sharing)
 
