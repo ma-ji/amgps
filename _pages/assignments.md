@@ -21,8 +21,8 @@ toc:
 # Assignment strcture
 ---
 
-- [Plagiarism test (5%)](#1-plagiarisms-test) / [Participation (10%)](#2-participation) / [Customized learning (30%)](#3-customized-learning)
-- Tests: [Qualitative (20%)](#5-qualitative-group-project) / [Quantitative (35%)](#4-quantitative-test)
+- [Plagiarism test (5%)](#1-plagiarisms-test) / [Participation (25%)](#2-participation) / [Customized learning (20%)](#3-customized-learning)
+- Tests: [Qualitative (30%)](#5-qualitative-group-project) / [Quantitative (20%)](#4-quantitative-test)
 <!-- - [Deadlines Overview](#) -->
 
 Resources:
@@ -45,35 +45,35 @@ _For this assignment, please submit your certificate as a file via Canvas_
 <br>
 
 ---
-# 2. Participation
+# 2. Participation (25%)
 ---
 
 <!-- ## 2.1 Reading annotation (5%)
 
 You are expected to read and annotate the course materials of each week before class (1st week is exempt). The purpose is to have a chance to interact with your classmates, and I will have a better idea of your "pain points" before class. At least have one comment on each article, and respond to at least one comment from another classmate. This regular on-going assignment uses online annotation platform, and is due before the class day. -->
 
-## 2.1 Hands-on practices (5%)
+## 2.1 Hands-on practices (20%)
 
 <!-- %%%%%%% Try any of these practices as group activity. %%%%%%% -->
 
 The hands-on practices help you prepare for the final quantitative test. There are three types of of practices:
 
-### 2.1.1 "Paper practice"
+### 2.1.1 "Paper practice" (5%)
 
 The is a one-page practice on paper. **You are expected to complete the practice of the week after reading the reading materials.** It needs to be submitted at the beginning of each class and will be explained in class. This test is different from the final test questions but cover the same concepts or methods. For this practice, you can seek immediate help in class or during office hours.
 
 _Paper practice of the week needs to be submitted at the beginning of that week's class. For example, you should submit the PP of week 5 at the beginning of week 5's class._
 
-[Access the paper practice by week here.](https://drive.google.com/drive/folders/1ExAAX0FjoH1WPIqJQ5GWOU-QdW5sO6vR?usp=sharing)
+[Access the paper practice by week here.](https://drive.google.com/drive/folders/1ISgYJnTD_rpwSXL1u9MsEcSRzTfx3AdR?usp=sharing)
 
 
-### 2.1.2 In-class practice
+### 2.1.2 In-class practice (10%)
 
 This is an in-class practice exercise. You will receive an Excel workbook containing data and questions. The instructor will guide you through the analysis step-by-step using Excel. To prepare, please review the workbook's contents before class to familiarize yourself with the material. During the lecture sessions, you can follow along and even practice further on your own time. While the questions in this practice exercise differ from those on the final test, they cover the same concepts and methods. If you need help, you can ask questions in class or during office hours.
 
-[Access the in-class practice by week here.](https://drive.google.com/drive/folders/1ExxxFpn4NTox8XZBa0OzwH0B02lp34Ep?usp=sharing)
+[Access the in-class practice by week here.](https://drive.google.com/drive/folders/1ISmOkpNiJ7fTqwxdOShYq_CIQaqgYCx8?usp=sharing)
 
-### 2.1.3 Take home practice
+### 2.1.3 Take home practice (5%)
 
 You can practice the final quantitative test questions using the practice dataset we provided. The practice dataset has the same structure with the dataset that will be used in the final test. The only difference is the actual data. For this practice, you can seek help during office hours or workshops.
 
@@ -115,11 +115,11 @@ _Expected deliverables_:
 
 <br>
 
-## 3.1 Learning plan proposal (10%)
+## 3.1 Learning plan proposal (5%)
 
 **Examples from previous semesters: [Learning plan](/assets/pdf/learning_plan_examples.pdf)**
 
-You are responsible to develop an actionable and feasible learning plan. There is no required structure of the plan, but it should have the following contents:
+You are responsible to develop an _8-week_ actionable and feasible learning plan. There is no required structure of the plan, but it should have the following contents:
 
 1. An analysis of your background, career goals, and needs of learning.
 2. Be concrete about your overall learning goals.
@@ -137,7 +137,7 @@ _You cannot substantially revise your proposal to lower the requirements after i
 
 <br>
 
-## 3.2 Completion (20%)
+## 3.2 Completion (15%)
 
 You will assess your own performance using the evaluation plan you proposed. Submit your completion report via Canvas. No required format and page number for the report, but it should at least include the following items:
 
@@ -160,7 +160,7 @@ A completion report in any file format is fine (e.g., PPT/Excel/Word). Although 
 <br>
 
 ---
-# 4. Quantitative Test
+# 4. Quantitative Test (20%)
 ---
 
 **Review the questions here: [Quantitative test](https://docs.google.com/document/d/11uxryPM_agwIlMuPjE1jtcig7YDhD1yBfeVhz8Go9I4/edit?usp=sharing)** (subject to revision for clarity)
@@ -170,7 +170,7 @@ This is a partial open-book test. You can review and practice on these questions
 <br>
 
 ---
-# 5. Qualitative Group Project
+# 5. Qualitative Group Project (30%)
 ---
 
 **Review the questions here: [Qualitative ](https://docs.google.com/document/d/1nOeKLBKtejR_Lt4VL0wd8O6a88gjcyAtcv2SSGrxPtg/edit?usp=sharing) (subject to revision for clarity)**
