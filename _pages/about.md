@@ -27,7 +27,7 @@ toc:
   - Z.R., TBD.
 - Lab/review sections:
   - Z.R. office hours TBD.
-  - [LBJ Statistical Software Workshops](https://bit.ly/lbj-software-workshops-fall24)
+  - [LBJ Statistical Software Workshops](https://bit.ly/lbj-software-workshops-fall24) led by [Kate McArdle](https://www.linkedin.com/in/katemcardle/).
 
 ---
 
