@@ -75,26 +75,6 @@ See a list of [Assignments](/assignments/)
 - C+ >= 77%, C >= 73%, C- >= 70%
 - D+ >= 67%, D >= 63%, D- >= 60%
 
----
-### Quick access to online documents
----
-
-#### Lecture related
-- [Reading materials](https://drive.google.com/drive/folders/1LK6bfgTpNFhCLEPraZSA_F702l-_vdBE?usp=sharing)
-- [Weekly Q&A](https://docs.google.com/document/d/1vH484H4gnSGaZS7N6DTazlEUdjXDsKKnJoRPj-r5Z-4/edit?usp=sharing)
-
-#### Tests
-- [Quantitative test](https://docs.google.com/document/d/110bHrxdJcj0G43vg3sXPck4dnSd_jWJdEtpaKz_qOk0/edit?usp=sharing)
-- [Qualitative test](https://docs.google.com/document/d/1nEHgKdDZIHcIAUQ-UUSx0RVMrEh-O-TIFSpot5lSI34/edit?usp=sharing)
-
-#### Study guides
-- [FAQs for major assignments](https://docs.google.com/document/d/1_X4TtOrNwr9jl3uQ5XnWEfkROOYgWlMeiwlvCaALcs0/edit?usp=sharing)
-- [Qualitative Group Project: Study Guide](https://docs.google.com/document/d/18ILU9VoSytxJNyecaQced0dHMXvVDlGbpNw6P7bBg5c/edit?usp=sharing)
-- [Study cards](https://amgps.jima.me/assets/pdf/study_cards.pdf)
-
-#### Examples
-- Qualitative Group Project: [Research proposal](/assets/pdf/quali_plan_Redacted.pdf), [Final report](/assets/pdf/quali_final_Redacted.pdf)
-- [Learning plan](/assets/pdf/learning_plan_examples.pdf)
 
 ---
 ### Policies

@@ -24,10 +24,28 @@ toc:
 - [Plagiarism test (5%)](#1-plagiarisms-test) / [Participation (25%)](#2-participation) / [Customized learning (20%)](#3-customized-learning)
 - Tests: [Quantitative (20%)](#4-quantitative-test-20) / [Qualitative (30%)](#5-qualitative-group-project-30)
 
-Resources:
+## Quick access to documents
 
-- [FAQs for learning plan and tests](https://docs.google.com/document/d/18MESU6oy85bv1X6qg5m6AIbsADp4pHNOU6aFBM_YT90/edit?usp=sharing)
-- [Study cards](/assets/pdf/study_cards.pdf)
+**Lecture related**
+
+- [Reading materials](https://drive.google.com/drive/folders/1LK6bfgTpNFhCLEPraZSA_F702l-_vdBE?usp=sharing)
+- [Weekly Q&A](https://docs.google.com/document/d/1vH484H4gnSGaZS7N6DTazlEUdjXDsKKnJoRPj-r5Z-4/edit?usp=sharing)
+
+**Tests**
+
+- [Quantitative Test](https://docs.google.com/document/d/110bHrxdJcj0G43vg3sXPck4dnSd_jWJdEtpaKz_qOk0/edit?usp=sharing)
+- [Qualitative Group Project](https://docs.google.com/document/d/1nEHgKdDZIHcIAUQ-UUSx0RVMrEh-O-TIFSpot5lSI34/edit?usp=sharing)
+
+**Study guides**
+- [FAQs for major assignments](https://docs.google.com/document/d/1_X4TtOrNwr9jl3uQ5XnWEfkROOYgWlMeiwlvCaALcs0/edit?usp=sharing)
+- [Qualitative Group Project: Study Guide](https://docs.google.com/document/d/1qhHD8RBbST6uIs645GRWbZe4-JbocQkqMkqyRoPvgQg/edit?usp=sharing)
+- [Study Cards of Statistical Concepts](https://amgps.jima.me/assets/pdf/study_cards.pdf)
+
+**Examples**
+
+- Qualitative Group Project: [Research proposal](/assets/pdf/quali_plan_Redacted.pdf), [Final report](/assets/pdf/quali_final_Redacted.pdf)
+- [Learning plan](/assets/pdf/learning_plan_examples.pdf)
+
 
 ---
 # 1. Plagiarisms Test
@@ -164,7 +182,7 @@ A completion report in any file format is fine (e.g., PPT/Excel/Word). Although 
 # 4. Quantitative Test (20%)
 ---
 
-**Review the questions here: [Quantitative test](https://docs.google.com/document/d/110bHrxdJcj0G43vg3sXPck4dnSd_jWJdEtpaKz_qOk0/edit?usp=sharing)** (subject to revision for clarity)
+**Review the questions here: [Quantitative Test](https://docs.google.com/document/d/110bHrxdJcj0G43vg3sXPck4dnSd_jWJdEtpaKz_qOk0/edit?usp=sharing)** (subject to revision for clarity)
 
 This is a partial open-book test. You can review and practice on these questions using the sample dataset. When you take the final test, a different dataset will be provided, but the questions will be the same (random selected, not all the questions for time sake).
 
@@ -174,14 +192,14 @@ This is a partial open-book test. You can review and practice on these questions
 # 5. Qualitative Group Project (30%)
 ---
 
-**Review the questions here: [Qualitative ](https://docs.google.com/document/d/1nEHgKdDZIHcIAUQ-UUSx0RVMrEh-O-TIFSpot5lSI34/edit?usp=sharing) (subject to revision for clarity)**
+**Review the questions here: [Qualitative Group Project](https://docs.google.com/document/d/1nEHgKdDZIHcIAUQ-UUSx0RVMrEh-O-TIFSpot5lSI34/edit?usp=sharing) (subject to revision for clarity)**
 
 This is a take-home and open-book research paper. Students are expected to work in groups (5 people max per group) and submit MS Word documents on Canvas before the deadlines.
 
 
 Resources:
 
-- [Qualitative Group Project: Study Guide](https://docs.google.com/document/d/18ILU9VoSytxJNyecaQced0dHMXvVDlGbpNw6P7bBg5c/edit?usp=sharing)
+- [Qualitative Group Project: Study Guide](https://docs.google.com/document/d/1qhHD8RBbST6uIs645GRWbZe4-JbocQkqMkqyRoPvgQg/edit?usp=sharing)
 - Examples from previous semesters: [Research proposal](/assets/pdf/quali_plan_Redacted.pdf), [Final report](/assets/pdf/quali_final_Redacted.pdf)
 
 <br>
