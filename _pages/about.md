@@ -23,11 +23,11 @@ toc:
   - [Muhammad Zain Raza](https://www.linkedin.com/in/muhammad-zain-raza-99aa9194/) (Teaching Assistant, raza.zain08@austin.utexas.edu)
 - Weekly session: [M 9:00AM-12:00PM, SRH 3.B10](/blog/)
 - Office hours (pls book to avoid conflict with others):
-  - J.M., TBD.
+  - J.M., [Monday 2pm--4pm](https://outlook.office.com/bookwithme/user/018a562ddc69440b8fe650492ca35315@austin.utexas.edu/meetingtype/SVRwCe7HMUGxuT6WGxi68g2?anonymous&ep=mLinkFromTile).
   - Z.R., TBD.
 - Lab/review sections:
-  - Z.R. office hours TBD.
-  - [LBJ Statistical Software Workshops](https://bit.ly/lbj-software-workshops-fall24) led by [Kate McArdle](https://www.linkedin.com/in/katemcardle/).
+  - [LBJ Statistical Software Workshops](https://bit.ly/lbj-software-workshops-fall24) led by [Kate McArdle](https://www.linkedin.com/in/katemcardle/). **Highly recommend the first two weeks (8/30, 9/6) on Excel.**
+  - Z.R. Friday 1pm-2pm. Schedule will be determined based on class feedback.
 
 ---
 
