@@ -80,21 +80,21 @@ See a list of [Assignments](/assignments/)
 ---
 
 #### Lecture related
-- [Reading materials](https://drive.google.com/drive/folders/1F5Odrql4rvFk60fLFTxsAmxOstuLJtmd?usp=sharing)
-- [Weekly Q&A](https://docs.google.com/document/d/1BCBiT5kcc6MykFzOS3ZLm0wHBXAAwLLmw-n-xhXfAOE/edit?usp=sharing)
+- [Reading materials](https://drive.google.com/drive/folders/1LK6bfgTpNFhCLEPraZSA_F702l-_vdBE?usp=sharing)
+- [Weekly Q&A](https://docs.google.com/document/d/1vH484H4gnSGaZS7N6DTazlEUdjXDsKKnJoRPj-r5Z-4/edit?usp=sharing)
 
 #### Tests
-- [Quantitative test](https://docs.google.com/document/d/11uxryPM_agwIlMuPjE1jtcig7YDhD1yBfeVhz8Go9I4/edit?usp=sharing)
-- [Qualitative test](https://docs.google.com/document/d/1nOeKLBKtejR_Lt4VL0wd8O6a88gjcyAtcv2SSGrxPtg/edit?usp=sharing)
+- [Quantitative test](https://docs.google.com/document/d/110bHrxdJcj0G43vg3sXPck4dnSd_jWJdEtpaKz_qOk0/edit?usp=sharing)
+- [Qualitative test](https://docs.google.com/document/d/1nEHgKdDZIHcIAUQ-UUSx0RVMrEh-O-TIFSpot5lSI34/edit?usp=sharing)
 
 #### Study guides
-- [FAQs for learning plan and tests](https://docs.google.com/document/d/18MESU6oy85bv1X6qg5m6AIbsADp4pHNOU6aFBM_YT90/edit?usp=sharing)
-- [Qualitative Methods Exam: Study Guide](https://docs.google.com/document/d/18ILU9VoSytxJNyecaQced0dHMXvVDlGbpNw6P7bBg5c/edit?usp=sharing)
+- [FAQs for major assignments](https://docs.google.com/document/d/1_X4TtOrNwr9jl3uQ5XnWEfkROOYgWlMeiwlvCaALcs0/edit?usp=sharing)
+- [Qualitative Group Project: Study Guide](https://docs.google.com/document/d/18ILU9VoSytxJNyecaQced0dHMXvVDlGbpNw6P7bBg5c/edit?usp=sharing)
 - [Study cards](https://amgps.jima.me/assets/pdf/study_cards.pdf)
 
 #### Examples
-- [Qualitative research plan: Examples](https://utexas.instructure.com/courses/1365924/files/folder/qualitative_plans_examples)
-- [Learning plan: Examples](/assets/pdf/learning_plan_examples.pdf)
+- Qualitative Group Project: [Research proposal](/assets/pdf/quali_plan_Redacted.pdf), [Final report](/assets/pdf/quali_final_Redacted.pdf)
+- [Learning plan](/assets/pdf/learning_plan_examples.pdf)
 
 ---
 ### Policies

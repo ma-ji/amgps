@@ -181,8 +181,8 @@ This is a take-home and open-book research paper. Students are expected to work 
 
 Resources:
 
-- [Qualitative Group Paper: Study Guide](https://docs.google.com/document/d/18ILU9VoSytxJNyecaQced0dHMXvVDlGbpNw6P7bBg5c/edit?usp=sharing)
-- Examples from previous semesters: [Research proposal](/assets/pdf/quali_plan_Redacted.pdf) | [Final report](/assets/pdf/quali_final_Redacted.pdf)
+- [Qualitative Group Project: Study Guide](https://docs.google.com/document/d/18ILU9VoSytxJNyecaQced0dHMXvVDlGbpNw6P7bBg5c/edit?usp=sharing)
+- Examples from previous semesters: [Research proposal](/assets/pdf/quali_plan_Redacted.pdf), [Final report](/assets/pdf/quali_final_Redacted.pdf)
 
 <br>
 
