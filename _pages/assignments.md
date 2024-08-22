@@ -22,8 +22,7 @@ toc:
 ---
 
 - [Plagiarism test (5%)](#1-plagiarisms-test) / [Participation (25%)](#2-participation) / [Customized learning (20%)](#3-customized-learning)
-- Tests: [Qualitative (30%)](#5-qualitative-group-project) / [Quantitative (20%)](#4-quantitative-test)
-<!-- - [Deadlines Overview](#) -->
+- Tests: [Quantitative (20%)](#4-quantitative-test-20) / [Qualitative (30%)](#5-qualitative-group-project-30)
 
 Resources:
 
@@ -165,7 +164,7 @@ A completion report in any file format is fine (e.g., PPT/Excel/Word). Although 
 # 4. Quantitative Test (20%)
 ---
 
-**Review the questions here: [Quantitative test](https://docs.google.com/document/d/11uxryPM_agwIlMuPjE1jtcig7YDhD1yBfeVhz8Go9I4/edit?usp=sharing)** (subject to revision for clarity)
+**Review the questions here: [Quantitative test](https://docs.google.com/document/d/110bHrxdJcj0G43vg3sXPck4dnSd_jWJdEtpaKz_qOk0/edit?usp=sharing)** (subject to revision for clarity)
 
 This is a partial open-book test. You can review and practice on these questions using the sample dataset. When you take the final test, a different dataset will be provided, but the questions will be the same (random selected, not all the questions for time sake).
 
@@ -175,41 +174,15 @@ This is a partial open-book test. You can review and practice on these questions
 # 5. Qualitative Group Project (30%)
 ---
 
-**Review the questions here: [Qualitative ](https://docs.google.com/document/d/1nOeKLBKtejR_Lt4VL0wd8O6a88gjcyAtcv2SSGrxPtg/edit?usp=sharing) (subject to revision for clarity)**
+**Review the questions here: [Qualitative ](https://docs.google.com/document/d/1nEHgKdDZIHcIAUQ-UUSx0RVMrEh-O-TIFSpot5lSI34/edit?usp=sharing) (subject to revision for clarity)**
 
 This is a take-home and open-book research paper. Students are expected to work in groups (5 people max per group) and submit MS Word documents on Canvas before the deadlines.
 
-<!-- Proposal and final research paper. -->
 
 Resources:
 
 - [Qualitative Group Paper: Study Guide](https://docs.google.com/document/d/18ILU9VoSytxJNyecaQced0dHMXvVDlGbpNw6P7bBg5c/edit?usp=sharing)
-- Examples from previous semesters: [Qualitative research plan](https://utexas.instructure.com/courses/1365924/files/folder/qualitative_plans_examples)
-
-<!-- (IRB not covered, but very important, we should briefly mention in class) -->
-
-
-<!-- 
-# Expected deliverables:
-
-## 1. Research design (10% points)
-
-1.1 Statements of specific testable research questions.
-1.2 Major concepts and supporting literature.
-1.3 Sampling strategy for interview or focus-group.
-1.4 Framework of interview.
-1.5 Timeline: Assuming you are about to conclude your study by Dec xxx 2022. What should be your timetable?
-
-## 2. Interview (20% points)
-
-2.1 Interview outline and detailed questions.
-2.2 Implement the interview with classmates.
-2.3 Code the sample transcription.
-
-## 3. Discussion
-
-xxx (reflection on: research content and research design).
- -->
+- Examples from previous semesters: [Research proposal](/assets/pdf/quali_plan_Redacted.pdf) | [Final report](/assets/pdf/quali_final_Redacted.pdf)
 
 <br>
 
