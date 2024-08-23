@@ -21,8 +21,15 @@ toc:
 # Assignment strcture
 ---
 
-- [Plagiarism test (5%)](#1-plagiarisms-test) / [Participation (25%)](#2-participation) / [Customized learning (20%)](#3-customized-learning)
-- Tests: [Quantitative (20%)](#4-quantitative-test-20) / [Qualitative (30%)](#5-qualitative-group-project-30)
+- [Plagiarism test (5%)](#1-plagiarisms-test)
+- [Participation (25%)](#2-participation)
+  - [Paper practice (5%)](#21-paper-practice)
+  - [In-class practice (10%)](#22-in-class-practice)
+  - [Attendance and office hours (5%)](#24-attendance-and-office-hours)
+- [Customized learning (20%)](#3-customized-learning)
+- Final test and report
+  - [Quantitative (20%)](#4-quantitative-test)
+  - [Qualitative (30%)](#5-qualitative-group-project)
 
 ## Quick access to documents
 
@@ -59,20 +66,18 @@ _For this assignment, please submit your certificate as a file via Canvas_
 <br>
 
 ---
-# 2. Participation (25%)
+# 2. Participation
 ---
 
 <!-- ## 2.1 Reading annotation (5%)
 
 You are expected to read and annotate the course materials of each week before class (1st week is exempt). The purpose is to have a chance to interact with your classmates, and I will have a better idea of your "pain points" before class. At least have one comment on each article, and respond to at least one comment from another classmate. This regular on-going assignment uses online annotation platform, and is due before the class day. -->
 
-## 2.1 Hands-on practices (20%)
-
 <!-- %%%%%%% Try any of these practices as group activity. %%%%%%% -->
 
 The hands-on practices help you prepare for the final quantitative test. There are three types of of practices:
 
-### 2.1.1 "Paper practice" (5%)
+## 2.1 Paper practice
 
 The is a one-page practice on paper. **You are expected to complete the practice of the week after reading the reading materials.** It needs to be submitted at the beginning of each class and will be explained in class. This test is different from the final test questions but cover the same concepts or methods. For this practice, you can seek immediate help in class or during office hours.
 
@@ -81,7 +86,7 @@ _Paper practice of a week needs to be submitted, in the form of physical paper, 
 [Access the paper practice by week here.](https://drive.google.com/drive/folders/1ISgYJnTD_rpwSXL1u9MsEcSRzTfx3AdR?usp=sharing)
 
 
-### 2.1.2 In-class practice (10%)
+## 2.2 In-class practice
 
 This is an in-class practice exercise. You will receive an Excel workbook containing data and questions. The instructor will guide you through the analysis step-by-step using Excel. To prepare, please review the workbook's contents before class to familiarize yourself with the material. During the lecture sessions, you can follow along and even practice further on your own time. While the questions in this practice exercise differ from those on the final test, they cover the same concepts and methods. If you need help, you can ask questions in class or during office hours.
 
@@ -89,13 +94,15 @@ _In-class practice of a week needs to be submitted by Friday of that week on Can
 
 [Access the in-class practice by week here.](https://drive.google.com/drive/folders/1ISmOkpNiJ7fTqwxdOShYq_CIQaqgYCx8?usp=sharing)
 
-### 2.1.3 Take home practice (5%)
+<!-- 
+## 2.3 Take home practice
 
 You can practice the final quantitative test questions using the practice dataset we provided. The practice dataset has the same structure with the dataset that will be used in the final test. The only difference is the actual data. For this practice, you can seek help during office hours or workshops.
+ -->
 
 <br>
 
-## 2.2 In class participation (5%)
+## 2.4 Attendance and office hours
 
 Your participation is assessed by the instructor and TA based on your performance in class during the lecture, practice, and TA sessions.
 
@@ -131,7 +138,7 @@ _Expected deliverables_:
 
 <br>
 
-## 3.1 Learning plan proposal (5%)
+## 3.1 Learning plan proposal
 
 **Examples from previous semesters: [Learning plan](/assets/pdf/learning_plan_examples.pdf)**
 
@@ -153,7 +160,7 @@ _You cannot substantially revise your proposal to lower the requirements after i
 
 <br>
 
-## 3.2 Completion (15%)
+## 3.2 Completion
 
 You will assess your own performance using the evaluation plan you proposed. Submit your completion report via Canvas. No required format and page number for the report, but it should at least include the following items:
 
@@ -176,7 +183,7 @@ A completion report in any file format is fine (e.g., PPT/Excel/Word). Although 
 <br>
 
 ---
-# 4. Quantitative Test (20%)
+# 4. Quantitative Test
 ---
 
 **Review the questions here: [Quantitative Test](https://docs.google.com/document/d/110bHrxdJcj0G43vg3sXPck4dnSd_jWJdEtpaKz_qOk0/edit?usp=sharing)** (subject to revision for clarity)
@@ -186,7 +193,7 @@ This is a partial open-book test. You can review and practice on these questions
 <br>
 
 ---
-# 5. Qualitative Group Project (30%)
+# 5. Qualitative Group Project
 ---
 
 **Review the questions here: [Qualitative Group Project](https://docs.google.com/document/d/1nEHgKdDZIHcIAUQ-UUSx0RVMrEh-O-TIFSpot5lSI34/edit?usp=sharing) (subject to revision for clarity)**
