@@ -87,7 +87,6 @@ _Paper practice of a week needs to be submitted, in the form of physical paper, 
 
 [Access the paper practice by week here.](https://drive.google.com/drive/folders/1ISgYJnTD_rpwSXL1u9MsEcSRzTfx3AdR?usp=sharing)
 
-
 ## 2.2 In-class practice
 
 This is an in-class practice exercise. You will receive an Excel workbook containing data and questions. The instructor will guide you through the analysis step-by-step using Excel. To prepare, please review the workbook's contents before class to familiarize yourself with the material. During the lecture sessions, you can follow along and even practice further on your own time. While the questions in this practice exercise differ from those on the final test, they cover the same concepts and methods. If you need help, you can ask questions in class or during office hours.
@@ -101,8 +100,6 @@ _In-class practice of a week needs to be submitted by Friday of that week on Can
 
 You can practice the final quantitative test questions using the practice dataset we provided. The practice dataset has the same structure with the dataset that will be used in the final test. The only difference is the actual data. For this practice, you can seek help during office hours or workshops.
  -->
-
-<br>
 
 ## 2.4 Attendance and office hours
 
@@ -138,8 +135,6 @@ _Expected deliverables_:
   - Learning plan proposal.
   - Self-evaluation report of completion.
 
-<br>
-
 ## 3.1 Learning plan proposal
 
 **Examples from previous semesters: [Learning plan](/assets/pdf/learning_plan_examples.pdf)**
@@ -159,8 +154,6 @@ You can share learning plans with others. You can even assemble learning groups.
 In reality, the most challenging part is "you don't known what you don't know." We, and ChatGPT, are here to help. We will have in-class group discussion and TA hours for you to design a learning plan that will fit your career goals.
 
 _You cannot substantially revise your proposal to lower the requirements after it is finalized._
-
-<br>
 
 ## 3.2 Completion
 
