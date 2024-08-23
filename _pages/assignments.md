@@ -38,6 +38,7 @@ toc:
 - **Lecture related**
   - [Reading materials](https://drive.google.com/drive/folders/1LK6bfgTpNFhCLEPraZSA_F702l-_vdBE?usp=sharing)
   - [Weekly Q&A](https://docs.google.com/document/d/1vH484H4gnSGaZS7N6DTazlEUdjXDsKKnJoRPj-r5Z-4/edit?usp=sharing)
+  - [Lecture notes](https://docs.google.com/presentation/d/1tStsZ7Gqw_TVj94vkcEoeUcwzlycEpdrQ1zrCZsU50A/edit?usp=sharing)
 
 - **Tests**
   - [Quantitative Test](https://docs.google.com/document/d/110bHrxdJcj0G43vg3sXPck4dnSd_jWJdEtpaKz_qOk0/edit?usp=sharing)
