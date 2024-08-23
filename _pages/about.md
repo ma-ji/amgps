@@ -42,7 +42,7 @@ While data analysis can be challenging, applying data analysis methods to empiri
 
 Primary practice/software tools: 
 
-- Guided statistical calculation on paper by hand: ["Paper Practice"](../_pages/assignments.md#21-paper-practice)
+- Guided statistical calculation on paper by hand: ["Paper Practice"](/assignments/#21-paper-practice)
 - MS-Excel: ["In Class Practice"](/assignments/#22-in-class-practice)
 - [DataCamp](https://datacamp.com) and [Brilliant](https://brilliant.org/): ["Customized Learning"](assignments/#3-customized-learning)
 
