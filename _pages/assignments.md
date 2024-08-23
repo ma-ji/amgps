@@ -27,9 +27,11 @@ toc:
   - [In-class practice (10%)](#22-in-class-practice)
   - [Attendance and office hours (5%)](#24-attendance-and-office-hours)
 - [Customized learning (20%)](#3-customized-learning)
+  - [Learning plan proposal (5%)](#31-learning-plan-proposal)
+  - [Completion (15%)](#32-completion)
 - Final test and report
-  - [Quantitative (20%)](#4-quantitative-test)
-  - [Qualitative (30%)](#5-qualitative-group-project)
+  - [Quantitative Test (20%)](#4-quantitative-test)
+  - [Qualitative Group Project (30%)](#5-qualitative-group-project)
 
 ## Quick access to documents
 
