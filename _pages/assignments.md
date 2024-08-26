@@ -23,7 +23,7 @@ toc:
 
 - [Plagiarism test (5%)](#1-plagiarisms-test)
 - [Participation (25%)](#2-participation)
-  - [Paper practice (5%)](#21-paper-practice)
+  - [Paper practice (10%)](#21-paper-practice)
   - [In-class practice (10%)](#22-in-class-practice)
   - [Attendance and office hours (5%)](#24-attendance-and-office-hours)
 - [Customized learning (20%)](#3-customized-learning)
@@ -92,7 +92,7 @@ _Paper practice of a week needs to be submitted, in the form of physical paper, 
 
 This is an in-class practice exercise. You will receive an Excel workbook containing data and questions. The instructor will guide you through the analysis step-by-step using Excel. To prepare, please review the workbook's contents before class to familiarize yourself with the material. During the lecture sessions, you can follow along and even practice further on your own time. While the questions in this practice exercise differ from those on the final test, they cover the same concepts and methods. If you need help, you can ask questions in class or during office hours.
 
-_In-class practice of a week needs to be submitted by Friday of that week on Canvas._
+_In-class practice of a week needs to be submitted by Friday of that week on Canvas (the "In-class practice'' assignment, in the form of multiple attempts)._
 
 [Access the in-class practice by week here.](https://drive.google.com/drive/folders/1ISmOkpNiJ7fTqwxdOShYq_CIQaqgYCx8?usp=sharing)
 
