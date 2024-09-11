@@ -24,10 +24,10 @@ toc:
 - Weekly session: [M 9:00AM-12:00PM, SRH 3.B10](/blog/)
 - Office hours (pls book to avoid conflict with others):
   - J.M.: [Monday 2pm--4pm](https://outlook.office.com/bookwithme/user/018a562ddc69440b8fe650492ca35315@austin.utexas.edu/meetingtype/SVRwCe7HMUGxuT6WGxi68g2?anonymous&ep=mLinkFromTile).
-  - Z.R.: Tue, 1:15-2:15pm (in-person, SRH3.316/3.350); Wed: 1-2pm ([Zoom](https://utexas.zoom.us/j/8502172199)); Thur: 4-5pm ([Zoom](https://utexas.zoom.us/j/8502172199)). [Sign up here to avoid conflicts with others.](https://calendly.com/raza-zain08-utexas/ta-office-hours)
+  - Z.R.: Tue, 1:15-2:15pm (in-person, **SRH3.316/3.350**); Wed: 1-2pm ([Zoom](https://utexas.zoom.us/j/8502172199)); Thur: 4-5pm ([Zoom](https://utexas.zoom.us/j/8502172199)). [Sign up here to avoid conflicts with others.](https://calendly.com/raza-zain08-utexas/ta-office-hours)
 - Lab/review sections:
   - [LBJ Statistical Software Workshops](https://bit.ly/lbj-software-workshops-fall24) led by [Kate McArdle](https://www.linkedin.com/in/katemcardle/). **Highly recommend the first two weeks (8/30, 9/6) on Excel.**
-  - Z.R. Friday 1-2pm, SRH3.316/3.350. Schedule will be determined based on class feedback.
+  - Z.R. Friday 1-2pm, **SRH3.216/3.219**. Schedule will be determined based on class feedback.
 
 ---
 
