@@ -94,7 +94,8 @@ This is an in-class practice exercise. You will receive an Excel workbook contai
 
 _In-class practice of a week needs to be submitted by Friday of that week on Canvas (the "In-class practice'' assignment, in the form of multiple attempts)._
 
-[Access the in-class practice by week here.](https://drive.google.com/drive/folders/1ISmOkpNiJ7fTqwxdOShYq_CIQaqgYCx8?usp=sharing)
+- [Access the in-class practice by week here.](https://drive.google.com/drive/folders/1ISmOkpNiJ7fTqwxdOShYq_CIQaqgYCx8?usp=sharing)
+- [Video Tutorials by Week](https://youtube.com/playlist?list=PLvOZsCVR-Op3PcFi0beKhOysK8NGoGFw2&si=d6kYj4YAvfwMYhGu)
 
 <!-- 
 ## 2.3 Take home practice
