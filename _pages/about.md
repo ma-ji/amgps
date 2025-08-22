@@ -42,7 +42,7 @@ Primary practice/software tools:
 
 - Guided statistical calculation on paper by hand: ["Paper Practice"](/assignments/#21-paper-practice)
 - MS-Excel: ["In Class Practice"](/assignments/#22-in-class-practice)
-- [DataCamp](https://datacamp.com) and [Brilliant](https://brilliant.org/): ["Customized Learning"](assignments/#3-customized-learning)
+- [DataCamp](https://datacamp.com) for ["Customized Learning"](assignments/#3-customized-learning)
 
 Given the diverse backgrounds of the students, expectations will differ accordingly:
 
