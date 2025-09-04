@@ -43,6 +43,7 @@ Primary practice/software tools:
 - Guided statistical calculation on paper by hand: ["Paper Practice"](/assignments/#21-paper-practice)
 - MS-Excel: ["In Class Practice"](/assignments/#22-in-class-practice)
 - [DataCamp](https://datacamp.com) for ["Customized Learning"](assignments/#3-customized-learning)
+- Limited [Google Cloud](https://cloud.google.com/?hl=en) credits. Reach out to TA for details.
 
 Given the diverse backgrounds of the students, expectations will differ accordingly:
 
