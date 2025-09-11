@@ -22,9 +22,9 @@ toc:
   - [Ji Ma](https://jima.me/) (Primary Instructor, maji@austin.utexas.edu)
   - [Chenxin Zhang](https://lbj.utexas.edu/chenxin-zhang) (Teaching Assistant, chenxinzhang@utexas.edu)
 - Weekly session: [M 9:00AM-12:00PM, SRH 3.124](/blog/)
-- TA Office Hours: Mondays, 1–4PM; Thursdays, 9AM–12PM; Location: SRH3.2C33 or [Zoom](#).
+- TA Office Hours: Mondays, 1–4PM; Thursdays, 9AM–12PM; Location: SRH3.2C33 or [Zoom](https://utexas.zoom.us/j/2177456896).
 - Lab/review sections:
-  - C.Z.: Fridays from 2-5PM; Location TBD (won't held every week)
+  - C.Z.: Fridays from 2-5PM; Location TBD (won't held every week, will be announced ahead of time)
   - [LBJ Statistical Software Workshops](https://utexas.instructure.com/enroll/6KM8AK) led by [Kate McArdle](https://www.linkedin.com/in/katemcardle/).
 
 ---
