@@ -27,7 +27,7 @@ toc:
   - Thursdays, 9AM–12PM.
   - Location: SRH3.2C33 or [Zoom](https://utexas.zoom.us/j/2177456896).
 - Lab/review sections:
-  - C.Z.: Fridays from 2-5PM; Location TBD (won't held every week, will be announced ahead of time)
+  - C.Z.: Fridays from 2-5PM; Location: SRH3.214 (won't held every week, will be announced ahead of time).
   - [LBJ Statistical Software Workshops](https://utexas.instructure.com/enroll/6KM8AK) led by [Kate McArdle](https://www.linkedin.com/in/katemcardle/).
 
 ---
