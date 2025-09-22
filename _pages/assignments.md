@@ -86,7 +86,7 @@ The is a one-page practice on paper. **You are expected to complete the practice
 
 _Paper practice of a week needs to be submitted, in the form of physical paper, at the beginning of that week's class. For example, you should submit the PP of week 5 at the beginning of week 5's class._
 
-[Access the paper practice by week here.](https://drive.google.com/drive/folders/1ISgYJnTD_rpwSXL1u9MsEcSRzTfx3AdR?usp=sharing)
+[Access the paper practice by week here.](https://drive.google.com/drive/folders/1SuaiHcNo8aF6Uo8g-LzgD0YHWiaFd4x2?usp=sharing)
 
 ## 2.2 In-class practice
 
@@ -94,7 +94,7 @@ This is an in-class practice exercise. You will receive an Excel workbook contai
 
 _In-class practice of a week needs to be submitted by Friday of that week on Canvas (the "In-class practice'' assignment, in the form of multiple attempts)._
 
-- [Access the in-class practice by week here.](https://drive.google.com/drive/folders/1ISmOkpNiJ7fTqwxdOShYq_CIQaqgYCx8?usp=sharing)
+- [Access the in-class practice by week here.](https://drive.google.com/drive/folders/1PYnt6NW8CtnM5T8zC3_rFUEWU71CbJhs?usp=sharing)
 - [Video Tutorials by Week](https://youtube.com/playlist?list=PLvOZsCVR-Op3PcFi0beKhOysK8NGoGFw2&si=d6kYj4YAvfwMYhGu)
 
 <!-- 
