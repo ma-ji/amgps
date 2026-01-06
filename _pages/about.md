@@ -23,9 +23,8 @@ toc:
   - [Chenxin Zhang](https://lbj.utexas.edu/chenxin-zhang) (Teaching Assistant, chenxinzhang@utexas.edu)
 - Weekly session: [Wed 9:00AM-12:00PM, SRH 3.312](/blog/)
 - TA Office Hours:
-  - Mondays, 1–4PM.
-  - Thursdays, 9AM–12PM.
-  - Location: TBD or [Zoom](https://utexas.zoom.us/j/2177456896).
+  - Time: TBD.
+  - Location: TBD.
 - Lab/review sections:
   - C.Z.: TBD.
   - [LBJ Statistical Software Workshops](https://utexas.instructure.com/enroll/6KM8AK) led by [Kate McArdle](https://www.linkedin.com/in/katemcardle/).
@@ -38,10 +37,9 @@ toc:
 While data analysis can be challenging, applying data analysis methods to empirical social science studies adds a layer of complexity. This course has three major focuses:
 
 1. A set of statistical concepts and measures that are core to evidence-based policy analysis. Understand when and how to use them, and how to interpret them. (~50% efforts)
-2. Process of qualitative empirical policy research. Know the typical stages and have a hands-on experience. (~30% efforts)
-3. A customized learning module that helps you build your skills for future career. (~20% efforts)
+2. A customized learning module that helps you build your skills for future career. (~20% efforts)
 
-Primary practice/software tools: 
+Primary practice/software tools:
 
 - Guided statistical calculation on paper by hand: ["Paper Practice"](/assignments/#21-paper-practice)
 - MS-Excel: ["In Class Practice"](/assignments/#22-in-class-practice)
@@ -54,7 +52,7 @@ Given the diverse backgrounds of the students, expectations will differ accordin
 
 - For students with minimal or no statistical training, approximately 9 hours of work is expected each week: (a) 3 hours in class, (b) 1 hour in a lab or self-guided session on Excel/Python/R, (c) 3 hours outside of class for assignments (including final tests and "customized learning"), and (d) 2 hours of preparation for upcoming sessions (including readings and "paper practice").
 
-- For students with advanced knowledge of statistics, approximately 7 hours of work is expected each week: (a) 3 hours in class, (b) 3 hours outside of class for assignments (mostly on "customized learning" and a qualitative group project), and (c) 1 hour of preparation for upcoming sessions (including readings and "paper practice").
+- For students with advanced knowledge of statistics, approximately 7 hours of work is expected each week: (a) 3 hours in class, (b) 3 hours outside of class for assignments (mostly on "customized learning"), and (c) 1 hour of preparation for upcoming sessions (including readings and "paper practice").
 
 ---
 ### Reading materials

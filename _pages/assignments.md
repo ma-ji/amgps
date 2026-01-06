@@ -29,9 +29,7 @@ toc:
 - [Customized learning (20%)](#3-customized-learning)
   - [Learning plan proposal (5%)](#31-learning-plan-proposal)
   - [Completion (15%)](#32-completion)
-- Final test and report
-  - [Quantitative Test (20%)](#4-quantitative-test)
-  - [Qualitative Group Project (30%)](#5-qualitative-group-project)
+- Final test: [Quantitative Test (20%)](#4-quantitative-test)
 
 ## Quick access to documents
 
@@ -42,17 +40,11 @@ toc:
 
 - **Tests**
   - [Quantitative Test](https://docs.google.com/document/d/110bHrxdJcj0G43vg3sXPck4dnSd_jWJdEtpaKz_qOk0/edit?usp=sharing)
-  - [Qualitative Group Project](https://docs.google.com/document/d/1nEHgKdDZIHcIAUQ-UUSx0RVMrEh-O-TIFSpot5lSI34/edit?usp=sharing)
 
-- **Study guides**
-  - [FAQs for major assignments](https://docs.google.com/document/d/1_X4TtOrNwr9jl3uQ5XnWEfkROOYgWlMeiwlvCaALcs0/edit?usp=sharing)
-  - [Qualitative Group Project: Study Guide](https://docs.google.com/document/d/1qhHD8RBbST6uIs645GRWbZe4-JbocQkqMkqyRoPvgQg/edit?usp=sharing)
-  - [Study Cards of Statistical Concepts](https://amgps.jima.me/assets/pdf/study_cards.pdf)
-
-- **Examples**
-  - Qualitative Group Project: [Research proposal](/assets/pdf/quali_plan_Redacted.pdf), [Final report](/assets/pdf/quali_final_Redacted.pdf)
+- **Study guides and examples**
   - [Learning plan](/assets/pdf/learning_plan_examples.pdf)
-
+  - [FAQs for major assignments](https://docs.google.com/document/d/1_X4TtOrNwr9jl3uQ5XnWEfkROOYgWlMeiwlvCaALcs0/edit?usp=sharing)
+  - [Study Cards of Statistical Concepts](https://amgps.jima.me/assets/pdf/study_cards.pdf)
 
 ---
 # 1. Plagiarisms Test
@@ -71,12 +63,6 @@ _For this assignment, please submit your certificate as a file via Canvas_
 ---
 # 2. Participation
 ---
-
-<!-- ## 2.1 Reading annotation (5%)
-
-You are expected to read and annotate the course materials of each week before class (1st week is exempt). The purpose is to have a chance to interact with your classmates, and I will have a better idea of your "pain points" before class. At least have one comment on each article, and respond to at least one comment from another classmate. This regular on-going assignment uses online annotation platform, and is due before the class day. -->
-
-<!-- %%%%%%% Try any of these practices as group activity. %%%%%%% -->
 
 The hands-on practices help you prepare for the final quantitative test. There are three types of of practices:
 
@@ -97,12 +83,6 @@ _In-class practice of a week needs to be submitted by Friday of that week on Can
 - [Access the in-class practice by week here.](https://drive.google.com/drive/folders/1PYnt6NW8CtnM5T8zC3_rFUEWU71CbJhs?usp=sharing)
 - [Video Tutorials by Week](https://youtube.com/playlist?list=PLvOZsCVR-Op3PcFi0beKhOysK8NGoGFw2&si=d6kYj4YAvfwMYhGu)
 
-<!-- 
-## 2.3 Take home practice
-
-You can practice the final quantitative test questions using the practice dataset we provided. The practice dataset has the same structure with the dataset that will be used in the final test. The only difference is the actual data. For this practice, you can seek help during office hours or workshops.
- -->
-
 ## 2.4 Attendance and office hours
 
 Your participation is assessed by the instructor and TA based on your performance in class during the lecture, practice, and TA sessions.
@@ -115,14 +95,6 @@ Class attendance is not mandatory but is part of your participation grade. The p
 4. The class is designed for in-person learning. Zoom/virtual recordings are not available. Please make arrangements with your peers for class notes if you need to miss a class.
 
 If you have a situation that is not taken care of by this note, feel free to reach out, and we will work with you.
-
-<!-- 
-<br>
-
-## 2.3 Group project participation
-
-Your participation and responsibilities will be assessed by your group members [using this form](https://utexas.qualtrics.com/jfe/form/SV_5gqer43HwL8dfFQ).
- -->
 
 <br>
 
@@ -184,33 +156,9 @@ A completion report in any file format is fine (e.g., PPT/Excel/Word). Although 
 
 This is a partial open-book test. You can review and practice on these questions using the sample dataset. When you take the final test, a different dataset will be provided, but the questions will be the same (random selected, not all the questions for time sake).
 
-<br>
-
----
-# 5. Qualitative Group Project
----
-
-**Review the questions here: [Qualitative Group Project](https://docs.google.com/document/d/1nEHgKdDZIHcIAUQ-UUSx0RVMrEh-O-TIFSpot5lSI34/edit?usp=sharing) (subject to revision for clarity)**
-
-This is a take-home and open-book research paper. Students are expected to work in groups (5 people max per group) and submit MS Word documents on Canvas before the deadlines.
-
-
-Resources:
-
-- [Qualitative Group Project: Study Guide](https://docs.google.com/document/d/1qhHD8RBbST6uIs645GRWbZe4-JbocQkqMkqyRoPvgQg/edit?usp=sharing)
-- Examples from previous semesters: [Research proposal](/assets/pdf/quali_plan_Redacted.pdf), [Final report](/assets/pdf/quali_final_Redacted.pdf)
-
-<br>
-
-
 ---
 # Late submission
 ---
 
 All work is due as indicated on the course schedule. Late submission will be taken a 30% off the total possible points as late penalty. For example, for an assignment with 100 total possible points, if you submit late and graded 80, your final grade for this assignment will be 50 (= 80 − 100 ∗ 30%). Please send me a notice if you have an emergency (neither travel arrangements nor computer problems are emergencies).  The last week of class is the final makeup date for all late assignments.
 
----
-<!-- # References
----
-
-{% bibliography --cited %} -->
