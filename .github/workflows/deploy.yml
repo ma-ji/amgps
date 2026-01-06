@@ -5,10 +5,12 @@ on:
     branches:
       - master
       - main
+      - 2026SP
   pull_request:
     branches:
       - master
       - main
+      - 2026SP
   workflow_dispatch:
 
 permissions:
