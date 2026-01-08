@@ -35,7 +35,7 @@ toc:
 
 - **Lecture related**
   - [Reading materials](https://drive.google.com/drive/folders/1vvz_CqszapDHjUr26O5i8r1t-7RMo1oV?usp=sharing)
-  - [Lecture notes](https://docs.google.com/presentation/d/1tStsZ7Gqw_TVj94vkcEoeUcwzlycEpdrQ1zrCZsU50A/edit?usp=sharing)
+  - [Lecture notes](https://docs.google.com/presentation/d/1c3SM5vRzV3VxHNZd6akSYrmcpBkPAXdVzDGaKFBYLO0/edit?usp=sharing)
 
 - [Quantitative Test](https://docs.google.com/document/d/110bHrxdJcj0G43vg3sXPck4dnSd_jWJdEtpaKz_qOk0/edit?usp=sharing)
 
