@@ -34,7 +34,7 @@ toc:
 ## Quick access to documents
 
 - **Lecture related**
-  - [Reading materials](https://drive.google.com/drive/folders/1LK6bfgTpNFhCLEPraZSA_F702l-_vdBE?usp=sharing)
+  - [Reading materials](https://drive.google.com/drive/folders/1vvz_CqszapDHjUr26O5i8r1t-7RMo1oV?usp=sharing)
   - [Lecture notes](https://docs.google.com/presentation/d/1tStsZ7Gqw_TVj94vkcEoeUcwzlycEpdrQ1zrCZsU50A/edit?usp=sharing)
 
 - [Quantitative Test](https://docs.google.com/document/d/110bHrxdJcj0G43vg3sXPck4dnSd_jWJdEtpaKz_qOk0/edit?usp=sharing)
@@ -69,7 +69,7 @@ The is a one-page practice on paper. **You are expected to complete the practice
 
 _Paper practice of a week needs to be submitted, in the form of physical paper, at the beginning of that week's class. For example, you should submit the PP of week 5 at the beginning of week 5's class._
 
-[Access the paper practice by week here.](https://drive.google.com/drive/folders/1SuaiHcNo8aF6Uo8g-LzgD0YHWiaFd4x2?usp=sharing)
+[Access the paper practice by week here.](https://drive.google.com/drive/folders/108u7XIWhf0vOYgoyubozzxVXi0WnJ-kA?usp=sharing)
 
 ## 2.2 In-class practice
 
@@ -77,7 +77,7 @@ This is an in-class practice exercise. You will receive an Excel workbook contai
 
 _In-class practice of a week needs to be submitted by Friday of that week on Canvas (the "In-class practice'' assignment, in the form of multiple attempts)._
 
-- [Access the in-class practice by week here.](https://drive.google.com/drive/folders/1PYnt6NW8CtnM5T8zC3_rFUEWU71CbJhs?usp=sharing)
+- [Access the in-class practice by week here.](https://drive.google.com/drive/folders/1HAwxS1JVxcBjlifRtEELV2wiMS8WL8dI?usp=sharing)
 - [Video Tutorials by Week](https://youtube.com/playlist?list=PLvOZsCVR-Op3PcFi0beKhOysK8NGoGFw2&si=d6kYj4YAvfwMYhGu)
 
 ## 2.4 Attendance and office hours
