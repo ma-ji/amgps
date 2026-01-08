@@ -22,13 +22,13 @@ toc:
 ---
 
 - [Plagiarism test (5%)](#1-plagiarisms-test)
-- [Participation (35%)](#2-participation)
-  - [Paper practice (15%)](#21-paper-practice)
-  - [In-class practice (15%)](#22-in-class-practice)
+- [Participation (25%)](#2-participation)
+  - [Paper practice (10%)](#21-paper-practice)
+  - [In-class practice (10%)](#22-in-class-practice)
   - [Attendance and office hours (5%)](#24-attendance-and-office-hours)
-- [Customized learning (20%)](#3-customized-learning)
-  - [Learning plan proposal (5%)](#31-learning-plan-proposal)
-  - [Completion (15%)](#32-completion)
+- [Customized learning (30%)](#3-customized-learning)
+  - [Learning plan proposal (10%)](#31-learning-plan-proposal)
+  - [Completion (20%)](#32-completion)
 - Final test: [Quantitative Test (40%)](#4-quantitative-test)
 
 ## Quick access to documents
