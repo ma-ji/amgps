@@ -37,7 +37,8 @@ toc:
 While data analysis can be challenging, applying data analysis methods to empirical social science studies adds a layer of complexity. This course has three major focuses:
 
 1. A set of statistical concepts and measures that are core to evidence-based policy analysis. Understand when and how to use them, and how to interpret them. (~50% efforts)
-2. A customized learning module that helps you build your skills for future career. (~20% efforts)
+2. A customized learning module that helps you build your skills for future career. (~30% efforts)
+3. Weekly [Paper Practices](/assignments/#21-paper-practice) and [In-Class Practices](/assignments/#22-in-class-practice) walk through the hands-on details. (~20% effort)
 
 Primary practice/software tools:
 

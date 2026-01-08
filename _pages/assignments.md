@@ -22,14 +22,14 @@ toc:
 ---
 
 - [Plagiarism test (5%)](#1-plagiarisms-test)
-- [Participation (25%)](#2-participation)
-  - [Paper practice (10%)](#21-paper-practice)
-  - [In-class practice (10%)](#22-in-class-practice)
+- [Participation (35%)](#2-participation)
+  - [Paper practice (15%)](#21-paper-practice)
+  - [In-class practice (15%)](#22-in-class-practice)
   - [Attendance and office hours (5%)](#24-attendance-and-office-hours)
 - [Customized learning (20%)](#3-customized-learning)
   - [Learning plan proposal (5%)](#31-learning-plan-proposal)
   - [Completion (15%)](#32-completion)
-- Final test: [Quantitative Test (20%)](#4-quantitative-test)
+- Final test: [Quantitative Test (40%)](#4-quantitative-test)
 
 ## Quick access to documents
 
@@ -161,4 +161,3 @@ This is a partial open-book test. You can review and practice on these questions
 ---
 
 All work is due as indicated on the course schedule. Late submission will be taken a 30% off the total possible points as late penalty. For example, for an assignment with 100 total possible points, if you submit late and graded 80, your final grade for this assignment will be 50 (= 80 − 100 ∗ 30%). Please send me a notice if you have an emergency (neither travel arrangements nor computer problems are emergencies).  The last week of class is the final makeup date for all late assignments.
-
