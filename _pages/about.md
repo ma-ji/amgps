@@ -21,7 +21,7 @@ toc:
 - Instructor team:
   - [Ji Ma](https://jima.me/) (Primary Instructor, maji@austin.utexas.edu)
   - [Chenxin Zhang](https://lbj.utexas.edu/chenxin-zhang) (Teaching Assistant, chenxinzhang@utexas.edu)
-- Weekly session: [Wed 9:00AM-12:00PM, SRH 3.312](/blog/)
+- Weekly session: Spring 2026, [Wed 9:00AM-12:00PM, SRH 3.312](/blog/)
 - TA Office Hours:
   - Time: TBD.
   - Location: TBD.
