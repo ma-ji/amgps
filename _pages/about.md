@@ -25,7 +25,7 @@ toc:
 - TA Office Hours:
   - Time: TBD.
   - Location: TBD.
-- Additional Lab Session: [LBJ Statistical Software Workshops](https://utexas.instructure.com/enroll/6KM8AK) led by [Kate McArdle](https://www.linkedin.com/in/katemcardle/) (open to LBJ students).
+- Additional Lab Session: [LBJ Statistical Software Workshops](https://bit.ly/lbj-software-workshops-spring26) led by [Kate McArdle](https://www.linkedin.com/in/katemcardle/) (open to LBJ students).
 
 ---
 
