@@ -22,9 +22,7 @@ toc:
   - [Ji Ma](https://jima.me/) (Primary Instructor, maji@austin.utexas.edu)
   - [Chenxin Zhang](https://lbj.utexas.edu/chenxin-zhang) (Teaching Assistant, chenxinzhang@utexas.edu)
 - Weekly session: Spring 2026, [Wed 9:00AM-12:00PM, SRH 3.312](/blog/)
-- TA Office Hours:
-  - Time: TBD.
-  - Location: TBD.
+- TA Office Hours: Wednesdays, 1:00–4:00 PM, SRH3.2C33
 - Additional Lab Session: [LBJ Statistical Software Workshops](/assets/pdf/PW_2026SP.pdf) led by [Kate McArdle](https://www.linkedin.com/in/katemcardle/) (open to LBJ students).
 
 ---
